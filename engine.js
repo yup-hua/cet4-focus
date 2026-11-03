@@ -47,6 +47,7 @@
       dailyNew: (typeof v.dailyNew === 'number' || typeof v.dailyNew === 'string') && Number.isInteger(dailyNew) && dailyNew >= 1 && dailyNew <= 10000 ? dailyNew : 50,
       planVersion: 2,
       quizVersion: 1,
+      rounds: [3,5].includes(Number(v.rounds)) ? Number(v.rounds) : 3,
       audioRate: Number.isFinite(Number(v.audioRate)) && Number(v.audioRate) >= 0.5 && Number(v.audioRate) <= 1.5 ? Number(v.audioRate) : 0.85,
       mode: MODES.includes(v.mode) ? v.mode : 'quiz'
     };
@@ -135,6 +136,11 @@
     let stage, due;
     if (rating === 'again') { stage = 0; due = today; }
     else if (rating === 'hard') { stage = Math.max(1, previous.stage); due = addDays(today, 1); }
+    else if (previous.reviews > 0 && previous.lastReview === today && previous.stage > 0) {
+      // Same-day retrieval rounds count as attempts, not separate long-term intervals.
+      stage = previous.stage;
+      due = previous.due || addDays(today, INTERVALS[stage]);
+    }
     else {
       stage = Math.min(5, previous.stage + (rating === 'easy' ? 2 : 1));
       due = addDays(today, INTERVALS[stage]);

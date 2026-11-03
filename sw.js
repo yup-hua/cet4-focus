@@ -1,5 +1,5 @@
-const CACHE='wordstep-cet4-v4';
-const assets=['./','index.html','style.css?v=20261103-4','training.css?v=20261103-4','app.js?v=20261103-4','engine.js?v=20261103-4','training.js?v=20261103-4','icon.svg','manifest.webmanifest','icon-192.png','icon-512.png','data/words.json','data/practice.json?v=20261103-4','data/source.json','data/LICENSE-ECDICT.txt',...Array.from({length:24},(_,i)=>'audio/listen-'+String(i+1).padStart(2,'0')+'.mp3')];
+const CACHE='wordstep-cet4-v5';
+const assets=['./','index.html','style.css?v=20261103-5','training.css?v=20261103-5','app.js?v=20261103-5','engine.js?v=20261103-5','training.js?v=20261103-5','rounds.js?v=20261103-5','icon.svg','manifest.webmanifest','icon-192.png','icon-512.png','data/words.json','data/practice.json?v=20261103-5','data/source.json','data/LICENSE-ECDICT.txt',...Array.from({length:24},(_,i)=>'audio/listen-'+String(i+1).padStart(2,'0')+'.mp3')];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(assets)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('wordstep-cet4-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',event=>{
