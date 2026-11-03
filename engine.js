@@ -46,8 +46,9 @@
     return {
       dailyNew: (typeof v.dailyNew === 'number' || typeof v.dailyNew === 'string') && Number.isInteger(dailyNew) && dailyNew >= 1 && dailyNew <= 10000 ? dailyNew : 50,
       planVersion: 2,
+      quizVersion: 1,
       audioRate: Number.isFinite(Number(v.audioRate)) && Number(v.audioRate) >= 0.5 && Number(v.audioRate) <= 1.5 ? Number(v.audioRate) : 0.85,
-      mode: MODES.includes(v.mode) ? v.mode : 'card'
+      mode: MODES.includes(v.mode) ? v.mode : 'quiz'
     };
   }
   function validTimestamp(value) {
@@ -211,34 +212,67 @@
     const v = word && (word.meaning == null ? word.translation : word.meaning);
     return Array.isArray(v) ? v.join('；') : String(v == null ? '' : v).trim();
   }
+  const POS_PREFIX = /\b(?:adj|adv|aux|n|a|v[ti]?|prep|conj|pron|num|int)\.\s*/gi;
+  function meaningParts(text) {
+    // A comma inside a note such as “占(时间、空间等)” does not end a sense.
+    return text.match(/(?:[^；;，,、\n/()（）]|[（(][^）)]*[）)])+/g) || [];
+  }
+  function shortMeaning(word) {
+    const full = meaningText(word);
+    const first = full.split(/\r?\n|\s+(?=(?:adj|adv|aux|n|a|v[ti]?|prep|conj|pron|num|int)\.)/i).find(line => line.trim()) || full;
+    const prefix = first.match(/^(?:adj|adv|aux|n|a|v[ti]?|prep|conj|pron|num|int)\.\s*/i);
+    const label = prefix ? prefix[0].trim() + ' ' : '';
+    const senses = meaningParts(first.replace(POS_PREFIX, '')).map(s => s.trim()).filter(Boolean);
+    let text = label;
+    for (const sense of senses.slice(0, 3)) {
+      const next = text + (text === label ? '' : '；') + sense;
+      if (next.length > 40 && text !== label) break;
+      text = next;
+    }
+    // Bundled definitions fit whole senses. Also bound imported custom definitions.
+    return text.length > 40 ? text.slice(0, 39).replace(/[；;，,、\s]+$/, '') + '…' : text || full.slice(0, 40);
+  }
   function meaningTokens(word) {
-    return meaningText(word).replace(/(?:^|[\s;,；，])(?:n|v|adj|adv|vt|vi|prep|conj|pron|num|int)\./gi, ' ')
-      .split(/[；;，,、/\n]/).map(s => s.trim()).filter(s => s.length >= 2);
+    return meaningParts(meaningText(word).replace(POS_PREFIX, '')).map(s => s
+      .replace(/[（(][^）)]*[）)]/g, '').replace(/[^\u3400-\u9fff0-9]/g, '')
+      .replace(/^(?:使|被|让|进行)(?=[\u3400-\u9fff]{2})/, '').replace(/([\u3400-\u9fff]{2,})[的地得]$/, '$1')).filter(s => s.length >= 2);
+  }
+  const SYNONYM_GROUPS = [
+    ['促进', '推动', '推进'], ['提供', '供应', '供给'], ['允许', '准许', '许可', '容许'],
+    ['显示', '表明', '说明', '表露'], ['获得', '取得', '得到'], ['达到', '实现', '达成'],
+    ['增加', '增长', '增多'], ['减少', '降低', '减小'], ['拒绝', '回绝'], ['隐藏', '隐瞒', '掩藏'],
+    ['方法', '方式', '办法', '途径'], ['目的', '目标', '宗旨'], ['重要', '重大', '关键'],
+    ['困难', '艰难', '艰苦'], ['相同', '同样', '一样'], ['迅速', '快速', '飞快']
+  ];
+  function meaningsOverlap(a, b) {
+    return a.some(left => b.some(right => left.includes(right) || right.includes(left) ||
+      SYNONYM_GROUPS.some(group => group.includes(left) && group.includes(right))));
   }
   function primaryPos(word) {
     const pos = word && word.pos;
     const text = Array.isArray(pos) ? pos[0] : pos;
-    const match = String(text || meaningText(word)).match(/\b(adj|adv|n|v[ti]?|prep|conj|pron|num|int)\b/i);
-    return match ? match[1].toLowerCase().replace(/^v[ti]$/, 'v') : '';
+    const match = String(text || meaningText(word)).match(/\b(adj|adv|aux|n|a|v[ti]?|prep|conj|pron|num|int)\b/i);
+    return match ? match[1].toLowerCase().replace(/^(?:v[ti]|aux)$/, 'v').replace(/^a$/, 'adj') : '';
   }
   function makeQuestion(word, words, options) {
     if (!word || !safeId(idOf(word)) || !meaningText(word)) throw new TypeError('A valid word with a meaning is required');
     const random = options && typeof options.random === 'function' ? options.random : Math.random;
-    const correctId = idOf(word), correctText = meaningText(word), correctTokens = meaningTokens(word);
+    const correctId = idOf(word), correctText = shortMeaning(word), correctTokens = meaningTokens(word);
     const candidates = shuffle(distinctWords(words).filter(item => idOf(item) !== correctId && meaningText(item)), random);
     const ranked = candidates.map(item => ({
-      item,
-      overlap: meaningTokens(item).some(token => correctTokens.includes(token)) || meaningText(item) === correctText,
+      item, text: shortMeaning(item), tokens: meaningTokens(item),
       samePos: primaryPos(item) === primaryPos(word)
-    })).filter(item => !item.overlap).sort((a, b) => Number(b.samePos) - Number(a.samePos));
-    const choices = [{ id: correctId, text: correctText }], seen = new Set([correctText]);
+    })).filter(item => !meaningsOverlap(item.tokens, correctTokens)).sort((a, b) => Number(b.samePos) - Number(a.samePos));
+    const displayKey = text => text.replace(POS_PREFIX, '').replace(/[^\u3400-\u9fff0-9]/g, '');
+    const choices = [{ id: correctId, text: correctText }], seen = new Set([displayKey(correctText)]), chosenTokens = [correctTokens];
     for (const entry of ranked) {
-      const text = meaningText(entry.item);
-      if (seen.has(text)) continue;
-      seen.add(text); choices.push({ id: idOf(entry.item), text });
+      const { text, tokens } = entry;
+      const key = displayKey(text);
+      if (!key || seen.has(key) || chosenTokens.some(selected => meaningsOverlap(selected, tokens))) continue;
+      seen.add(key); chosenTokens.push(tokens); choices.push({ id: idOf(entry.item), text });
       if (choices.length === 4) break;
     }
-    return { id: correctId, word: word.word, prompt: '选择这个单词的正确释义', options: shuffle(choices, random), answerId: correctId };
+    return { id: correctId, word: word.word, prompt: '选择这个单词的正确释义', options: shuffle(choices, random), answerId: correctId, fullMeaning: meaningText(word) };
   }
   return { INTERVALS, createState, normalizeState, dayKey, addDays, buildSession, rate, markKnown, setSettings, counts, makeQuestion, checkSpelling, normalizeSpelling, streak };
 });

@@ -66,6 +66,186 @@
       "bytes": 527084,
       "sha256": "a533cd78337f1d259c7feda0fed5a200eb3a29d53d98383c8001ccf795c6390a",
       "scriptSha256": "9e85e544532184a136caa78ad1e5f4628ff91b03b76346a2d423668b796f489e"
+    },
+    {
+      "id": "listen-07",
+      "file": "listen-07.mp3",
+      "seconds": 56.21,
+      "words": 142,
+      "wordsPerMinute": 151.6,
+      "bytes": 449900,
+      "sha256": "9f4a2c6683fdc460684a6d7d8f1ef777b49924abefc4cfdf6855cbac45c3a5dd",
+      "scriptSha256": "7127cc9e3d45011de5750d412f9dacdb912cda3a27fd0de935d23ef27ef2424a"
+    },
+    {
+      "id": "listen-08",
+      "file": "listen-08.mp3",
+      "seconds": 60.74,
+      "words": 146,
+      "wordsPerMinute": 144.2,
+      "bytes": 486188,
+      "sha256": "a2fc6128e7bf7ae8415cb4e1808c7dcc942ee6ceba511fdde562c2b4d57011eb",
+      "scriptSha256": "80ecd8add61f8f71971d61907688b0f19f8d8f6f5c37613a122a2c9471efe932"
+    },
+    {
+      "id": "listen-09",
+      "file": "listen-09.mp3",
+      "seconds": 60.36,
+      "words": 146,
+      "wordsPerMinute": 145.1,
+      "bytes": 483116,
+      "sha256": "d2fd391b761df8596b23e8c9d7665e4e19245f190be9de37ad7001a67dbe1432",
+      "scriptSha256": "d46b58b7feb7911f189507dfc335b352ae7d26c6efc577959ec47f6f19406420"
+    },
+    {
+      "id": "listen-10",
+      "file": "listen-10.mp3",
+      "seconds": 59.35,
+      "words": 149,
+      "wordsPerMinute": 150.6,
+      "bytes": 475052,
+      "sha256": "1b96f5dde1bf0aeace6fce2890997daa1d053a3f3a20fa8b8812b51ff8779010",
+      "scriptSha256": "7b9be8fbd0ddd36841c240e563d2a9b93b0ae66f0d1d63c1635d2e89c939e718"
+    },
+    {
+      "id": "listen-11",
+      "file": "listen-11.mp3",
+      "seconds": 58.22,
+      "words": 148,
+      "wordsPerMinute": 152.5,
+      "bytes": 466028,
+      "sha256": "a65d7dc02a9612ae1c3bddcc2cdb218b47784e216dbbf91949379528b880d77f",
+      "scriptSha256": "8897a8920877cd5e82dab900153fcf5bdbefe221677551da5eb8d0676e780119"
+    },
+    {
+      "id": "listen-12",
+      "file": "listen-12.mp3",
+      "seconds": 61.73,
+      "words": 148,
+      "wordsPerMinute": 143.9,
+      "bytes": 494060,
+      "sha256": "a924ed37ca86fc6f6747f5b6d577942ec679edc1401c5dba0edf2d3968f6d0c8",
+      "scriptSha256": "eaf10a51d0ef969451112676373cdbab6aa40da8fedc231d50c7d58d502dd2f0"
+    },
+    {
+      "id": "listen-13",
+      "file": "listen-13.mp3",
+      "seconds": 58.37,
+      "words": 152,
+      "wordsPerMinute": 156.2,
+      "bytes": 467180,
+      "sha256": "3e104abb13fb15c2b48f9b434f2d1790e1daa7087cc90229e170dd4ee311f346",
+      "scriptSha256": "fea5eb5f541f4c4c4ffd6e06b4fc4573534c4a7520918ea7516388be514ad010"
+    },
+    {
+      "id": "listen-14",
+      "file": "listen-14.mp3",
+      "seconds": 57.98,
+      "words": 153,
+      "wordsPerMinute": 158.3,
+      "bytes": 464108,
+      "sha256": "3d8505ad1a0e7416a2e9e16efe7e3d6c88af6d3f78391ad3b53192bd09c10bbb",
+      "scriptSha256": "ccc2e2422be179bdce2da2394382cccccf8aab2a69e6f15ffddf9c68ed7e756c"
+    },
+    {
+      "id": "listen-15",
+      "file": "listen-15.mp3",
+      "seconds": 62.38,
+      "words": 153,
+      "wordsPerMinute": 147.2,
+      "bytes": 499244,
+      "sha256": "ac4a20e0c75ceccdcfee76825b0535e97cece3471b33481ba204a2ad873ab563",
+      "scriptSha256": "fb6aa83fb19d9bc7218b9c6196b2e3a35c2289c345fd9b463178d1c178b8495d"
+    },
+    {
+      "id": "listen-16",
+      "file": "listen-16.mp3",
+      "seconds": 63.94,
+      "words": 151,
+      "wordsPerMinute": 141.7,
+      "bytes": 511724,
+      "sha256": "ecf604d252b6e5e0485325413a84ae384eabeeb18e1a275648501fa231402a20",
+      "scriptSha256": "2aee38e994ab6f40cc1a19b9d759c6cc6c21a2fe7a3e885fb26ac07cb1cbc6f9"
+    },
+    {
+      "id": "listen-17",
+      "file": "listen-17.mp3",
+      "seconds": 58.54,
+      "words": 152,
+      "wordsPerMinute": 155.8,
+      "bytes": 468524,
+      "sha256": "22836a78cc94ba0903c5037ef16dae7b5fe6b824528471797f06346018d4d414",
+      "scriptSha256": "175191a1a1ef72fabf36cbaeac683c9f48be1a8043a79fa723733f70cb9086f4"
+    },
+    {
+      "id": "listen-18",
+      "file": "listen-18.mp3",
+      "seconds": 61.68,
+      "words": 151,
+      "wordsPerMinute": 146.9,
+      "bytes": 493676,
+      "sha256": "6cf1a389ecc1a6526b0279aaf64fcafa2382c7aca4a9434d4b5b6aa879af8194",
+      "scriptSha256": "d5eeab7b2ca10f2eee43ddb8fa21979dbe6163f7318e32fe82506ed56ac5f459"
+    },
+    {
+      "id": "listen-19",
+      "file": "listen-19.mp3",
+      "seconds": 64.42,
+      "words": 152,
+      "wordsPerMinute": 141.6,
+      "bytes": 515564,
+      "sha256": "6d5488d7b97df2277dac0b6f18fdd36a6220f037ddda4f8767268767ffd7a490",
+      "scriptSha256": "fd6e696d21b7b13d5c42c0763b523a645d15a5e7a5cfe0b53bda0d2b331e85c4"
+    },
+    {
+      "id": "listen-20",
+      "file": "listen-20.mp3",
+      "seconds": 58.8,
+      "words": 153,
+      "wordsPerMinute": 156.1,
+      "bytes": 470636,
+      "sha256": "2466aec86990b00b40ea5e8081dd45e44dc8414e3feb2a8f85db1d0628b831b7",
+      "scriptSha256": "c57db880b19fb62ce7c895cbbc31d8c9a3ef84921e20266d6e1ad3c536d704c3"
+    },
+    {
+      "id": "listen-21",
+      "file": "listen-21.mp3",
+      "seconds": 64.49,
+      "words": 153,
+      "wordsPerMinute": 142.4,
+      "bytes": 516140,
+      "sha256": "c3a46968e91cf716938e9894eae24c82b551cc99a20ee9a770f579ce31f88699",
+      "scriptSha256": "fc8e530641d8fe0f583aed532912dacc304d4c49946298d67927decbed6fed13"
+    },
+    {
+      "id": "listen-22",
+      "file": "listen-22.mp3",
+      "seconds": 65.45,
+      "words": 154,
+      "wordsPerMinute": 141.2,
+      "bytes": 523820,
+      "sha256": "250ce492f8ec2035c158976e1387cd471d5200fcf210c969610e218119b04adc",
+      "scriptSha256": "ac7ffd78bee3838b492a87ce8b82a0af5c4085f58969e393dc604ebd4c222bc0"
+    },
+    {
+      "id": "listen-23",
+      "file": "listen-23.mp3",
+      "seconds": 63.34,
+      "words": 153,
+      "wordsPerMinute": 144.9,
+      "bytes": 506924,
+      "sha256": "77f7c5000b2199ba0fbe0cb84c530eefac4a4647f682659f12e0ec977b4c1d75",
+      "scriptSha256": "d9c481425a1a456950d286f754c8a4b84e51ed736d7bfa919b219f8962563571"
+    },
+    {
+      "id": "listen-24",
+      "file": "listen-24.mp3",
+      "seconds": 61.3,
+      "words": 153,
+      "wordsPerMinute": 149.8,
+      "bytes": 490604,
+      "sha256": "7ee7194d7651068e2fc70b0de3af7b26c13296d0a1896d8dcb326f7730ca39d8",
+      "scriptSha256": "36bbde30f97a2be04f4740198b2db3a499b522ff6fc87adaca8f454013b78f7d"
     }
   ]
 }
