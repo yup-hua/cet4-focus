@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "type": "synthetic-speech",
+  "engine": "Windows System.Speech / SAPI",
+  "voice": "Microsoft Zira Desktop",
+  "sapiRate": -1,
+  "offlineSynthesis": true,
+  "encoding": "MP3, mono, 24 kHz, 64 kbps",
+  "items": [
+    {
+      "id": "listen-01",
+      "file": "listen-01.mp3",
+      "seconds": 68.95,
+      "words": 150,
+      "wordsPerMinute": 130.5,
+      "bytes": 551852,
+      "sha256": "916950e49f9b685367eaa5fc47f0f646200c4f8c92033be77fc64bedc6846263",
+      "scriptSha256": "54a9590c5ad9ccc5f2ef869b188e20d63a2b82623340e208c3c6739e9f2648de"
+    },
+    {
+      "id": "listen-02",
+      "file": "listen-02.mp3",
+      "seconds": 61.99,
+      "words": 151,
+      "wordsPerMinute": 146.1,
+      "bytes": 496172,
+      "sha256": "a24d7d54891327639b07156730b8a9cf5f2e257f638de309459b2011e2c58b92",
+      "scriptSha256": "e54c2fbb532d698de6aa1005d1b9966d766eb4de610c4448995ab35d3401ccb0"
+    },
+    {
+      "id": "listen-03",
+      "file": "listen-03.mp3",
+      "seconds": 61.25,
+      "words": 152,
+      "wordsPerMinute": 148.9,
+      "bytes": 490220,
+      "sha256": "06994a0bd4657ec81ab094ec489b572a3ea3212355383a0a31c86356c26e3e30",
+      "scriptSha256": "ff98d2650671f2fcd61527745fb2870b3c39edcb1c90117f8e83be8b3a314bf2"
+    },
+    {
+      "id": "listen-04",
+      "file": "listen-04.mp3",
+      "seconds": 62.71,
+      "words": 153,
+      "wordsPerMinute": 146.4,
+      "bytes": 501932,
+      "sha256": "c6fc6cd2cfbd521310668ae742cde1183488172bfd1c943df572a6035318e20b",
+      "scriptSha256": "f9e59b6fb8a7d91944d370c97a63f714291ba4c943d19f09e5d0e0b30d7c7c6e"
+    },
+    {
+      "id": "listen-05",
+      "file": "listen-05.mp3",
+      "seconds": 56.64,
+      "words": 148,
+      "wordsPerMinute": 156.8,
+      "bytes": 453356,
+      "sha256": "ac04c4b1272e2d5dafbe4b459b60fc90dc273090c1f5648e0401f2d9c608fd3a",
+      "scriptSha256": "b157004cbcaf6b4b2349f5bb44e755c9fe1eb2ff7e86d08c3ca226a6a3aaa5c1"
+    },
+    {
+      "id": "listen-06",
+      "file": "listen-06.mp3",
+      "seconds": 65.86,
+      "words": 154,
+      "wordsPerMinute": 140.3,
+      "bytes": 527084,
+      "sha256": "a533cd78337f1d259c7feda0fed5a200eb3a29d53d98383c8001ccf795c6390a",
+      "scriptSha256": "9e85e544532184a136caa78ad1e5f4628ff91b03b76346a2d423668b796f489e"
+    }
+  ]
+}

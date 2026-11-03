@@ -42,15 +42,36 @@
   }
   function settings(value) {
     const v = value && typeof value === 'object' ? value : {};
+    const dailyNew = Number(v.dailyNew);
     return {
-      dailyNew: [20, 30, 50].includes(Number(v.dailyNew)) ? Number(v.dailyNew) : 20,
+      dailyNew: (typeof v.dailyNew === 'number' || typeof v.dailyNew === 'string') && Number.isInteger(dailyNew) && dailyNew >= 1 && dailyNew <= 10000 ? dailyNew : 50,
+      planVersion: 2,
       audioRate: Number.isFinite(Number(v.audioRate)) && Number(v.audioRate) >= 0.5 && Number(v.audioRate) <= 1.5 ? Number(v.audioRate) : 0.85,
       mode: MODES.includes(v.mode) ? v.mode : 'card'
     };
   }
+  function validTimestamp(value) {
+    if (typeof value !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{1,3})?(?:Z|[+-]\d{2}:\d{2})$/.test(value) || !validDay(value.slice(0, 10))) return '';
+    const parsed = new Date(value);
+    return Number.isNaN(parsed.getTime()) ? '' : parsed.toISOString();
+  }
+  function exerciseRecords(value) {
+    const records = {};
+    if (!value || typeof value !== 'object' || Array.isArray(value)) return records;
+    for (const [id, record] of Object.entries(value)) {
+      if (!safeId(id) || !record || typeof record !== 'object' || Array.isArray(record)) continue;
+      const { kind, answers, score, total } = record;
+      const completedAt = validTimestamp(record.completedAt);
+      if (!['listening', 'reading'].includes(kind) || !Number.isInteger(total) || total < 1 || total > 20 || !completedAt) continue;
+      if (!Array.isArray(answers) || answers.length !== total || !Array.from(answers).every(answer => answer === null || Number.isInteger(answer) && answer >= 0 && answer <= 3)) continue;
+      if (!Number.isInteger(score) || score < 0 || score > total) continue;
+      records[id] = { kind, answers: answers.slice(), score, total, completedAt, attempts: int(record.attempts) };
+    }
+    return records;
+  }
   function normalizeState(raw) {
     const input = raw && typeof raw === 'object' && !Array.isArray(raw) ? raw : {};
-    const state = { version: 1, cards: {}, activity: {}, settings: settings(input.settings), favorites: uniqueIds(input.favorites) };
+    const state = { version: 1, cards: {}, activity: {}, settings: settings(input.settings), favorites: uniqueIds(input.favorites), exerciseRecords: exerciseRecords(input.exerciseRecords) };
     if (input.cards && typeof input.cards === 'object' && !Array.isArray(input.cards)) {
       for (const [id, card] of Object.entries(input.cards)) {
         if (!safeId(id) || !card || typeof card !== 'object' || Array.isArray(card)) continue;

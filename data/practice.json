@@ -1,0 +1,649 @@
+{
+  "version": 1,
+  "source": {
+    "kind": "original",
+    "label": "原创进阶练习",
+    "notice": "本文与题目为原创教学材料，不是考试真题。人物、机构与项目为虚构练习情境；难度等级仅供学习安排参考。",
+    "createdAt": "2026-11-03"
+  },
+  "listening": [
+    {
+      "id": "listen-01",
+      "title": "图书馆的新安排",
+      "subtitle": "A Different Kind of Library Seat",
+      "topic": "校园生活",
+      "difficulty": "B1",
+      "durationHint": "约 1 分钟",
+      "body": "Last term, our college library received complaints about group discussions near the silent study area. At first, the staff considered banning all conversation on that floor. However, a student survey showed that many people needed a place to work together between classes. So the library tried a different arrangement.\n\nIt moved several tables into an unused room near the entrance. Students can book these tables for forty-five minutes, and there is a whiteboard beside each one. The silent area remains upstairs. During the first week, some students found the booking system confusing. In response, the staff put simple instructions on every table and shortened the online form.\n\nThe new arrangement is flexible because it supports different kinds of study. It also shows why listening to users matters. A complete ban would have solved one problem by creating another. Now, both individual learners and project groups have somewhere suitable to go.",
+      "vocabulary": [
+        {"word": "complaint", "meaning": "投诉；不满"},
+        {"word": "arrangement", "meaning": "安排"},
+        {"word": "flexible", "meaning": "灵活的；能适应不同需要的"},
+        {"word": "suitable", "meaning": "合适的"}
+      ],
+      "questions": [
+        {
+          "id": "listen-01-q1",
+          "type": "main",
+          "prompt": "What is the talk mainly about?",
+          "options": ["How a library found space for different study needs.", "Why students should stop studying in groups.", "How the college built a larger library.", "Why online booking should be removed completely."],
+          "answer": 0,
+          "explanation": "全文先提出安静学习与小组讨论的冲突，再介绍分区安排，重点是兼顾不同学习需求。",
+          "quote": "The new arrangement is flexible because it supports different kinds of study."
+        },
+        {
+          "id": "listen-01-q2",
+          "type": "detail",
+          "prompt": "How long can students book a group table for?",
+          "options": ["Twenty minutes.", "Thirty minutes.", "Forty-five minutes.", "One hour."],
+          "answer": 2,
+          "explanation": "原文明确说明每次可以预约 forty-five minutes，即 45 分钟。",
+          "quote": "Students can book these tables for forty-five minutes, and there is a whiteboard beside each one."
+        },
+        {
+          "id": "listen-01-q3",
+          "type": "inference",
+          "prompt": "What can we infer about the library staff?",
+          "options": ["They preferred to ignore problems with the booking system.", "They were willing to improve the plan after receiving feedback.", "They believed silent study was no longer necessary.", "They planned to reserve the new room only for teachers."],
+          "answer": 1,
+          "explanation": "发现预约系统令人困惑后，工作人员增加说明并简化表格，说明他们愿意根据反馈调整方案。",
+          "quote": "In response, the staff put simple instructions on every table and shortened the online form."
+        },
+        {
+          "id": "listen-01-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"flexible\" mean in this talk?",
+          "options": ["Expensive to maintain.", "Available only at night.", "Difficult to understand.", "Able to meet different needs."],
+          "answer": 3,
+          "explanation": "后面的 because 引出解释：它支持不同学习方式，因此 flexible 在此意为能适应不同需求的。",
+          "quote": "The new arrangement is flexible because it supports different kinds of study."
+        }
+      ]
+    },
+    {
+      "id": "listen-02",
+      "title": "修理角的第一天",
+      "subtitle": "Learning at the Repair Corner",
+      "topic": "社区与环保",
+      "difficulty": "B1",
+      "durationHint": "约 1 分钟",
+      "body": "On Saturday, I took a broken desk lamp to a repair event at our community centre. I expected a volunteer to fix it while I waited. Instead, a retired engineer invited me to sit beside her and describe what had happened to it. We checked the cable together and discovered a loose connection.\n\nBefore the event, I had thought repair required expensive equipment and years of training. This small experience challenged that assumption. The engineer explained each step, but she also made clear that some electrical jobs should be left to trained people. The aim was not to make visitors attempt every repair themselves.\n\nBy the end of the afternoon, I had a working lamp and a better understanding of it. The organisers hope the event will restore people's interest in caring for everyday objects. They plan to hold it monthly, with separate tables for clothing, furniture, and simple household items.",
+      "vocabulary": [
+        {"word": "volunteer", "meaning": "志愿者"},
+        {"word": "assumption", "meaning": "假设；想当然的看法"},
+        {"word": "restore", "meaning": "恢复"},
+        {"word": "equipment", "meaning": "设备"}
+      ],
+      "questions": [
+        {
+          "id": "listen-02-q1",
+          "type": "main",
+          "prompt": "What does the speaker mainly describe?",
+          "options": ["A plan to sell repaired lamps online.", "A course for becoming a professional engineer.", "An event that helped the speaker understand and care for an object.", "A complaint about the cost of household equipment."],
+          "answer": 2,
+          "explanation": "叙述重点既包括修好台灯，也包括在共同检查中学到知识，因而是一次增进理解的修理体验。",
+          "quote": "By the end of the afternoon, I had a working lamp and a better understanding of it."
+        },
+        {
+          "id": "listen-02-q2",
+          "type": "detail",
+          "prompt": "What problem did they find in the lamp?",
+          "options": ["A loose connection.", "A missing switch.", "A damaged shade.", "A broken wooden base."],
+          "answer": 0,
+          "explanation": "二人共同检查电线后发现的是 loose connection，即连接松动。",
+          "quote": "We checked the cable together and discovered a loose connection."
+        },
+        {
+          "id": "listen-02-q3",
+          "type": "inference",
+          "prompt": "Which lesson does the engineer seem to support?",
+          "options": ["Visitors should repair every electrical item alone.", "Only brand-new objects are worth understanding.", "A successful repair requires expensive tools in every case.", "Learning about repairs also includes recognising one's limits."],
+          "answer": 3,
+          "explanation": "工程师一边解释步骤，一边强调部分电气工作需要交给专业人士，因此学习还包括认识能力边界。",
+          "quote": "The engineer explained each step, but she also made clear that some electrical jobs should be left to trained people."
+        },
+        {
+          "id": "listen-02-q4",
+          "type": "vocabulary",
+          "prompt": "In this talk, \"restore people's interest\" means to do what?",
+          "options": ["Measure how much money people spend.", "Bring back people's interest.", "Replace people's belongings.", "Record people's addresses."],
+          "answer": 1,
+          "explanation": "restore 表示使某种状态重新出现；在这里是重新唤起人们爱护日常物品的兴趣。",
+          "quote": "The organisers hope the event will restore people's interest in caring for everyday objects."
+        }
+      ]
+    },
+    {
+      "id": "listen-03",
+      "title": "一份更清楚的交接",
+      "subtitle": "A Better Handover",
+      "topic": "工作沟通",
+      "difficulty": "B1–B2",
+      "durationHint": "约 1 分钟",
+      "body": "When I joined a small design company, I noticed that our Monday meetings often lasted more than an hour. Everyone described what they had done, but we still left without knowing who needed help. My manager asked me to suggest a more useful format.\n\nI proposed a brief written update before the meeting. Each person would list a completed task, a current difficulty, and one decision they needed from the team. The meeting itself would focus on the difficulties and decisions, rather than repeat the entire update.\n\nWe tested the format for three weeks. The meetings became shorter, although writing the updates took some preparation. One colleague worried that quiet members might still be overlooked. We therefore added a short round in which everyone could raise an issue. The manager said the goal was not simply to save minutes. It was to make sure the time we spent together led to action.",
+      "vocabulary": [
+        {"word": "propose", "meaning": "提出；建议"},
+        {"word": "brief", "meaning": "简短的"},
+        {"word": "preparation", "meaning": "准备"},
+        {"word": "overlook", "meaning": "忽略"}
+      ],
+      "questions": [
+        {
+          "id": "listen-03-q1",
+          "type": "main",
+          "prompt": "What is the main purpose of the new meeting format?",
+          "options": ["To let the manager speak for longer.", "To turn shared meeting time into useful action.", "To remove all written communication.", "To compare employees' working hours."],
+          "answer": 1,
+          "explanation": "结尾明确指出目标不只是省时间，而是让共同讨论带来行动。",
+          "quote": "It was to make sure the time we spent together led to action."
+        },
+        {
+          "id": "listen-03-q2",
+          "type": "detail",
+          "prompt": "What should each written update include?",
+          "options": ["A personal story, a salary request, and a customer review.", "A full project history and a list of every email.", "Only the number of tasks completed during the week.", "A completed task, a difficulty, and a decision needed."],
+          "answer": 3,
+          "explanation": "原文列出了三个项目：已完成任务、当前困难，以及需要团队作出的一个决定。",
+          "quote": "Each person would list a completed task, a current difficulty, and one decision they needed from the team."
+        },
+        {
+          "id": "listen-03-q3",
+          "type": "inference",
+          "prompt": "Why was a short speaking round added?",
+          "options": ["To make room for people who might not speak up otherwise.", "To make every meeting last at least an hour.", "To allow colleagues to repeat all their written updates.", "To prevent employees from asking questions."],
+          "answer": 0,
+          "explanation": "新增轮流发言环节是为了回应安静成员可能被忽略的担忧，让他们也有明确的表达机会。",
+          "quote": "One colleague worried that quiet members might still be overlooked."
+        },
+        {
+          "id": "listen-03-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"brief\" mean in \"a brief written update\"?",
+          "options": ["Highly private.", "Unusually expensive.", "Short and concise.", "Written by a lawyer."],
+          "answer": 2,
+          "explanation": "brief 在此修饰工作进展说明，表示简短的，不是其他语境中的法律文件之意。",
+          "quote": "I proposed a brief written update before the meeting."
+        }
+      ]
+    },
+    {
+      "id": "listen-04",
+      "title": "不只是一张校园地图",
+      "subtitle": "Testing the Campus Map",
+      "topic": "科技与校园",
+      "difficulty": "B1–B2",
+      "durationHint": "约 1 分钟",
+      "body": "Our student technology club developed a map to help new students find their way around campus. The first version showed the shortest walking route between buildings. We thought this would be enough, but a group of testers quickly pointed out several problems. Some routes included locked gates, while others had steep steps.\n\nWe realised that a useful map had to be reliable, not merely attractive. The club visited each route and added notes about opening hours, steps, and covered paths. We also placed a feedback button on the page so users could report changes.\n\nAt the launch event, people paid more attention to these practical details than to the map's colours. One tester explained that the best route depended on the person and the weather. The project taught us to question an easy assumption: the shortest route is not always the most suitable one. Regular checks will now be part of our work.",
+      "vocabulary": [
+        {"word": "reliable", "meaning": "可靠的"},
+        {"word": "merely", "meaning": "仅仅"},
+        {"word": "practical", "meaning": "实用的"},
+        {"word": "suitable", "meaning": "合适的"}
+      ],
+      "questions": [
+        {
+          "id": "listen-04-q1",
+          "type": "main",
+          "prompt": "What did the club learn from developing the map?",
+          "options": ["The colours of a map matter more than its information.", "Users always prefer the shortest possible route.", "Feedback should be collected only after a project ends.", "A useful tool needs accurate details and an understanding of users."],
+          "answer": 3,
+          "explanation": "测试使团队发现最短路线不一定适合使用者，之后补充实地核查和实用信息，体现了准确性和使用需求的重要性。",
+          "quote": "We realised that a useful map had to be reliable, not merely attractive."
+        },
+        {
+          "id": "listen-04-q2",
+          "type": "detail",
+          "prompt": "Which problem did the testers discover?",
+          "options": ["The map could be opened only in the library.", "Some suggested routes passed through locked gates.", "The buildings had recently changed their names.", "There were no colours on the first version."],
+          "answer": 1,
+          "explanation": "测试者发现部分路线涉及锁着的门，还有些包含陡峭台阶。",
+          "quote": "Some routes included locked gates, while others had steep steps."
+        },
+        {
+          "id": "listen-04-q3",
+          "type": "inference",
+          "prompt": "Why will regular checks be necessary?",
+          "options": ["The club wants to change the colours every week.", "Every student follows exactly the same route.", "Information about routes may change after the map is launched.", "The campus will no longer have any gates."],
+          "answer": 2,
+          "explanation": "页面允许使用者报告变化，团队也会定期检查，可推知路线信息需要持续维护。",
+          "quote": "We also placed a feedback button on the page so users could report changes."
+        },
+        {
+          "id": "listen-04-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"reliable\" mean in this talk?",
+          "options": ["Able to be trusted.", "Easy to decorate.", "Difficult to download.", "Available for a high price."],
+          "answer": 0,
+          "explanation": "这里强调路线是否真实可用，因此 reliable 表示信息可信、可以依赖。",
+          "quote": "We realised that a useful map had to be reliable, not merely attractive."
+        }
+      ]
+    },
+    {
+      "id": "listen-05",
+      "title": "赶车还是换条路",
+      "subtitle": "An Alternative Way to Travel",
+      "topic": "日常出行",
+      "difficulty": "B1",
+      "durationHint": "约 1 分钟",
+      "body": "For several months, I took the same bus to my evening language class. It stopped close to my flat, but it often arrived late. I used to leave earlier and earlier, yet I still felt uncertain about reaching the classroom on time. Then a classmate suggested an alternative: walking ten minutes to the train station.\n\nThe train journey was slightly longer than a bus journey on a good day. However, its departure times were more predictable. I tried it for two weeks and found that I could plan my evening more calmly. The walk also gave me time to listen to a short podcast.\n\nI still take the bus when the weather is unpleasant and I am not in a hurry. I have not decided that one form of transport is always better. I have simply learned to choose according to what matters most for a particular trip.",
+      "vocabulary": [
+        {"word": "alternative", "meaning": "另一种选择"},
+        {"word": "departure", "meaning": "出发；离开"},
+        {"word": "predictable", "meaning": "可预测的"},
+        {"word": "particular", "meaning": "特定的"}
+      ],
+      "questions": [
+        {
+          "id": "listen-05-q1",
+          "type": "main",
+          "prompt": "What is the speaker's main point?",
+          "options": ["A transport choice should depend on the needs of the trip.", "Walking is always faster than taking a bus.", "Train journeys are always shorter than bus journeys.", "People should avoid evening classes."],
+          "answer": 0,
+          "explanation": "结尾总结了因具体行程需求而作选择的想法，而不是断言某种交通工具永远更好。",
+          "quote": "I have simply learned to choose according to what matters most for a particular trip."
+        },
+        {
+          "id": "listen-05-q2",
+          "type": "detail",
+          "prompt": "How long did the speaker try travelling by train?",
+          "options": ["Two days.", "One week.", "Two weeks.", "Several months."],
+          "answer": 2,
+          "explanation": "说话人尝试新路线的时间是 two weeks，即两周。",
+          "quote": "I tried it for two weeks and found that I could plan my evening more calmly."
+        },
+        {
+          "id": "listen-05-q3",
+          "type": "inference",
+          "prompt": "What mattered most when the speaker chose the train for class?",
+          "options": ["Avoiding all walking.", "Being able to plan the arrival time more confidently.", "Paying the lowest possible ticket price.", "Sitting next to a classmate on every journey."],
+          "answer": 1,
+          "explanation": "公交的迟到导致不确定性，而火车班次更可预测，因此更可靠地安排到达时间是主要考虑。",
+          "quote": "However, its departure times were more predictable."
+        },
+        {
+          "id": "listen-05-q4",
+          "type": "vocabulary",
+          "prompt": "What is an \"alternative\" in this situation?",
+          "options": ["A reason to cancel the class.", "A type of language exercise.", "A warning about the weather.", "Another possible choice."],
+          "answer": 3,
+          "explanation": "同学提出的是原有公交路线之外的另一种可行方式，因此 alternative 表示另一选择。",
+          "quote": "Then a classmate suggested an alternative: walking ten minutes to the train station."
+        }
+      ]
+    },
+    {
+      "id": "listen-06",
+      "title": "声音展览的邀请",
+      "subtitle": "A Gallery You Can Help Create",
+      "topic": "文化与社区",
+      "difficulty": "B1–B2",
+      "durationHint": "约 1 分钟",
+      "body": "A small gallery in our neighbourhood is preparing an exhibition about everyday sounds. Instead of displaying only work by professional artists, it has invited local residents to contribute recordings. People can send in sounds from a favourite place, together with a short explanation of why that place matters to them.\n\nI recorded the sound of chairs being moved in the community hall after our weekly music practice. At first, I thought the recording was too ordinary. But the organiser said that ordinary sounds could reveal how people share a space. My explanation helped visitors understand the memory behind it.\n\nThe gallery will provide headphones and printed descriptions for each recording. Residents who do not have recording equipment can borrow a simple device during a workshop. The organisers hope the project will encourage people to notice their surroundings and discover stories that would otherwise remain unheard. The exhibition opens next month and admission is free.",
+      "vocabulary": [
+        {"word": "exhibition", "meaning": "展览"},
+        {"word": "contribute", "meaning": "贡献；提供"},
+        {"word": "reveal", "meaning": "揭示"},
+        {"word": "surroundings", "meaning": "周围环境"}
+      ],
+      "questions": [
+        {
+          "id": "listen-06-q1",
+          "type": "main",
+          "prompt": "What is special about the planned exhibition?",
+          "options": ["It sells professional recording equipment.", "It displays paintings of famous musicians.", "It invites residents to share meaningful everyday sounds.", "It allows visitors to enter only during music practice."],
+          "answer": 2,
+          "explanation": "展览邀请当地居民提交日常声音，并解释地点的个人意义，体现了居民参与和声音背后的故事。",
+          "quote": "People can send in sounds from a favourite place, together with a short explanation of why that place matters to them."
+        },
+        {
+          "id": "listen-06-q2",
+          "type": "detail",
+          "prompt": "What sound did the speaker record?",
+          "options": ["Chairs being moved after music practice.", "A train leaving a station.", "Visitors entering the gallery.", "A professional singer performing outdoors."],
+          "answer": 0,
+          "explanation": "说话人录下的是每周音乐练习后，社区礼堂里挪动椅子的声音。",
+          "quote": "I recorded the sound of chairs being moved in the community hall after our weekly music practice."
+        },
+        {
+          "id": "listen-06-q3",
+          "type": "inference",
+          "prompt": "What does the equipment loan suggest about the project?",
+          "options": ["It expects all residents to buy new devices.", "It values expensive recordings more than personal stories.", "It plans to stop accepting public recordings.", "It tries to make participation easier for more residents."],
+          "answer": 3,
+          "explanation": "提供可借用的录音设备降低了参与门槛，说明项目希望让更多居民参加。",
+          "quote": "Residents who do not have recording equipment can borrow a simple device during a workshop."
+        },
+        {
+          "id": "listen-06-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"contribute recordings\" mean here?",
+          "options": ["Delete recordings from a device.", "Provide recordings for the project.", "Buy recordings from the gallery.", "Translate every recording into another language."],
+          "answer": 1,
+          "explanation": "这里 contribute 后接 recordings，意为向展览项目提供录音材料。",
+          "quote": "Instead of displaying only work by professional artists, it has invited local residents to contribute recordings."
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "read-01",
+      "title": "菜园里的公平",
+      "subtitle": "Sharing More Than a Garden",
+      "topic": "校园与合作",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "When a group of students turned an empty piece of campus land into a garden, they expected their main challenge to be keeping the plants alive. They soon discovered that sharing the work was more complicated than choosing vegetables. Some members could visit every morning, while others had classes or paid jobs at that time.\n\nAt first, the group gave the most convenient growing spaces to whoever arrived earliest. The rule appeared fair because it was the same for everyone. In practice, however, it rewarded people whose schedules already allowed them to come early. Several enthusiastic members stopped attending because they felt they had little influence over the garden.\n\nRather than blame these members for lacking commitment, the organisers asked them what needed to change. They introduced a rotating schedule to allocate the growing spaces. They also created an evening work session once a week. Members could contribute in other ways, such as keeping records, designing signs, or arranging the collection of tools. Each task was listed publicly, so less visible work could be recognised.\n\nThe changes did not remove every disagreement. Some students still preferred the old arrangement, and the organisers reviewed the schedule after a month. Yet participation became more varied, and people who had almost left began returning. The garden produced vegetables, but its more important achievement was a better process for working together. The group learned that a shared project needs more than one rule that looks equal on paper. It also needs attention to the different circumstances in which people try to take part.",
+      "vocabulary": [
+        {"word": "complicated", "meaning": "复杂的"},
+        {"word": "allocate", "meaning": "分配"},
+        {"word": "commitment", "meaning": "投入；责任感"},
+        {"word": "circumstances", "meaning": "处境；条件"}
+      ],
+      "questions": [
+        {
+          "id": "read-01-q1",
+          "type": "main",
+          "prompt": "What is the main message of the passage?",
+          "options": ["Student gardens should grow only easy vegetables.", "Fair cooperation requires attention to people's different circumstances.", "Early arrival is the best measure of commitment.", "Shared projects work best without written rules."],
+          "answer": 1,
+          "explanation": "文章以先到先得规则造成的参与差异为起点，说明合作中的公平还需要考虑参与者的不同条件。",
+          "quote": "It also needs attention to the different circumstances in which people try to take part."
+        },
+        {
+          "id": "read-01-q2",
+          "type": "detail",
+          "prompt": "Which change did the organisers make?",
+          "options": ["They required every member to visit each morning.", "They gave all growing spaces to the earliest visitors.", "They stopped recognising work done outside the garden.", "They added a weekly evening work session."],
+          "answer": 3,
+          "explanation": "原文明确写到每周增加一次晚间劳动时段，以便不方便早到的人参加。",
+          "quote": "They also created an evening work session once a week."
+        },
+        {
+          "id": "read-01-q3",
+          "type": "inference",
+          "prompt": "Why did some enthusiastic members stop attending at first?",
+          "options": ["The original system limited their ability to influence the project.", "They discovered that vegetables could not grow on campus.", "The organisers refused to publish any information about tasks.", "They had already completed all the work required of them."],
+          "answer": 0,
+          "explanation": "先到者长期获得便利地块，使其他成员觉得自己缺少影响力；这与是否热心并非同一件事。",
+          "quote": "Several enthusiastic members stopped attending because they felt they had little influence over the garden."
+        },
+        {
+          "id": "read-01-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"allocate\" mean in the third paragraph?",
+          "options": ["Measure the temperature of.", "Remove plants from.", "Distribute for people to use.", "Advertise for sale."],
+          "answer": 2,
+          "explanation": "轮换安排的作用是把种植地块分配给成员使用，因此 allocate 表示分配。",
+          "quote": "They introduced a rotating schedule to allocate the growing spaces."
+        }
+      ]
+    },
+    {
+      "id": "read-02",
+      "title": "让反馈真正有用",
+      "subtitle": "Feedback That Leads Somewhere",
+      "topic": "工作与学习",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "During her first month at a publishing company, Maya received several comments saying that her reports needed to be more professional. She wanted to improve, but the advice left her uncertain. Did professional mean shorter sentences, fewer personal opinions, or a different way of arranging information? The word described a goal without showing her a route towards it.\n\nHer supervisor noticed the problem and changed their next discussion. Instead of giving another general judgement, he selected one paragraph from a recent report. He pointed out that its central recommendation appeared only in the final sentence. Together, they moved that sentence to the beginning and checked whether the supporting information followed logically. Maya could now see a specific change that made the paragraph easier to understand.\n\nThey agreed to focus on one writing feature each week. Maya would revise an example, explain the reason for her changes, and then try the same approach in a new report. The supervisor also asked which parts of the feedback she found difficult to apply. This gave him information about his own explanations, rather than treating all confusion as a weakness in her work.\n\nAfter several weeks, Maya still made mistakes, but she was less dependent on someone correcting every line. She had begun asking useful questions while writing. Is my main point clear? Does this detail support it? Helpful feedback had become a tool she could use for herself. The experience suggests that advice is valuable not simply because it identifies a problem, but because it helps a person decide what to do next and understand why that action may work.",
+      "vocabulary": [
+        {"word": "supervisor", "meaning": "主管；指导者"},
+        {"word": "recommendation", "meaning": "建议"},
+        {"word": "specific", "meaning": "具体的；明确的"},
+        {"word": "dependent", "meaning": "依赖的"}
+      ],
+      "questions": [
+        {
+          "id": "read-02-q1",
+          "type": "main",
+          "prompt": "What makes feedback useful, according to the passage?",
+          "options": ["It lists every possible mistake at the same time.", "It relies on general labels that sound professional.", "It gives understandable next steps and the reasons behind them.", "It allows the supervisor to rewrite every report completely."],
+          "answer": 2,
+          "explanation": "结尾总结了有用反馈的两个要素：帮助人决定下一步做什么，并理解为什么这样做。",
+          "quote": "The experience suggests that advice is valuable not simply because it identifies a problem, but because it helps a person decide what to do next and understand why that action may work."
+        },
+        {
+          "id": "read-02-q2",
+          "type": "detail",
+          "prompt": "What did Maya and her supervisor do to improve the example paragraph?",
+          "options": ["They moved its central recommendation to the beginning.", "They removed every sentence containing an opinion.", "They changed all its words into technical terms.", "They placed the supporting information in a separate report."],
+          "answer": 0,
+          "explanation": "主管指出核心建议出现在末句，随后二人将这句话移到开头，并检查后文的逻辑。",
+          "quote": "Together, they moved that sentence to the beginning and checked whether the supporting information followed logically."
+        },
+        {
+          "id": "read-02-q3",
+          "type": "inference",
+          "prompt": "What does the supervisor's question about difficult feedback show?",
+          "options": ["He expected Maya to understand every instruction immediately.", "He believed confusion could never result from his explanations.", "He wanted Maya to stop asking for help.", "He regarded feedback as a process that could improve on both sides."],
+          "answer": 3,
+          "explanation": "他询问哪些建议难以落实，以检查自己的解释，说明反馈是可以双向改进的过程。",
+          "quote": "This gave him information about his own explanations, rather than treating all confusion as a weakness in her work."
+        },
+        {
+          "id": "read-02-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"specific\" mean in \"a specific change\"?",
+          "options": ["A change made without a clear purpose.", "A clearly identified, particular change.", "A change suitable for every report in exactly the same way.", "A change that must remain secret."],
+          "answer": 1,
+          "explanation": "这里指把核心建议移到开头这一明确可操作的改动，所以 specific 是具体明确的。",
+          "quote": "Maya could now see a specific change that made the paragraph easier to understand."
+        }
+      ]
+    },
+    {
+      "id": "read-03",
+      "title": "环保选择为何没有被选择",
+      "subtitle": "Making the Reusable Choice Easier",
+      "topic": "环境与行为",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "A student newspaper wanted to understand why reusable cups were rarely chosen at a campus cafe. The cafe already offered a small discount to customers who brought their own cups. Posters near the counter explained the offer, yet most drinks were still served in disposable containers. It was tempting to conclude that students simply did not care about waste.\n\nBefore writing that conclusion, the newspaper team interviewed customers. Some had left their cups in their rooms. Others were unsure whether staff would accept a cup that was not the cafe's official model. Several students said they avoided carrying a dirty cup after finishing a drink. These answers pointed to practical obstacles rather than a single lack of concern.\n\nWith permission from the cafe, the team tested a small change for two weeks. A shelf near the entrance displayed clean cups that customers could borrow and return later. A clear sign said that any suitable personal cup was welcome. Staff also explained where borrowed cups should be returned. The idea was to make the reusable choice more convenient during an ordinary busy day.\n\nThe team recorded more use of reusable cups during the trial. However, it did not claim that the change would have the same result everywhere. The trial was short, and customers knew that a student project was taking place. The newspaper reported both the increase and these limitations. Its strongest conclusion was modest: before judging people's values from their choices, look carefully at the conditions under which those choices are made. A useful improvement may begin with removing a small difficulty that a poster alone cannot solve.",
+      "vocabulary": [
+        {"word": "disposable", "meaning": "一次性的"},
+        {"word": "obstacle", "meaning": "障碍"},
+        {"word": "convenient", "meaning": "方便的"},
+        {"word": "limitation", "meaning": "局限"}
+      ],
+      "questions": [
+        {
+          "id": "read-03-q1",
+          "type": "main",
+          "prompt": "What is the central idea of the passage?",
+          "options": ["Removing practical obstacles can help people make a preferred choice.", "Discounts always prevent waste without other changes.", "A short trial can prove that one policy works everywhere.", "Students' choices are explained entirely by their personal values."],
+          "answer": 0,
+          "explanation": "文章通过访谈和试行说明，应先检查实际障碍，不能只凭选择结果判断人们是否在意环保。",
+          "quote": "A useful improvement may begin with removing a small difficulty that a poster alone cannot solve."
+        },
+        {
+          "id": "read-03-q2",
+          "type": "detail",
+          "prompt": "What did the team add near the entrance during the trial?",
+          "options": ["A machine selling disposable cups.", "A desk for collecting student opinions only.", "A shelf of clean cups available to borrow.", "A sign accepting only the cafe's official cup model."],
+          "answer": 2,
+          "explanation": "试行方案在入口附近放置了一架干净杯子，供顾客借用并稍后归还。",
+          "quote": "A shelf near the entrance displayed clean cups that customers could borrow and return later."
+        },
+        {
+          "id": "read-03-q3",
+          "type": "inference",
+          "prompt": "Why did the newspaper mention the trial's limitations?",
+          "options": ["To suggest that no observations had been collected.", "To avoid making a broader claim than the evidence supported.", "To argue that all customer interviews were dishonest.", "To prove that reusable cups could never become popular."],
+          "answer": 1,
+          "explanation": "试行时间短、顾客知道项目存在，这些条件限制了结论的适用范围，报告局限是为了避免过度推广结果。",
+          "quote": "However, it did not claim that the change would have the same result everywhere."
+        },
+        {
+          "id": "read-03-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"convenient\" mean in the third paragraph?",
+          "options": ["More fashionable than other choices.", "Approved only by newspaper editors.", "Available only to a small group.", "Easy to use in everyday circumstances."],
+          "answer": 3,
+          "explanation": "借杯、还杯指引和接受自带杯的说明，都使选择可重复使用杯子更容易实行，因此 convenient 表示方便。",
+          "quote": "The idea was to make the reusable choice more convenient during an ordinary busy day."
+        }
+      ]
+    },
+    {
+      "id": "read-04",
+      "title": "推荐列表之外",
+      "subtitle": "Beyond the Familiar Recommendation",
+      "topic": "科技与信息",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "When Daniel moved to a new city, he used a local activity app to choose places to visit. After he saved two photography exhibitions, the app began recommending more exhibitions with similar descriptions. At first, he welcomed the suggestions. They reduced the effort of searching through unfamiliar listings, and several led him to events he enjoyed.\n\nOver time, however, his list became less varied. He rarely saw public lectures, walking groups, or small theatre performances, even though he might have liked them. The app was responding to his previous choices, but those choices represented only a small part of his interests. A convenient starting point was becoming a narrow picture of what he wanted.\n\nDaniel raised the issue in a user workshop. The developers explained that they could not show every available event equally on the opening screen. They nevertheless agreed that people should have more control over the balance between familiar and unfamiliar suggestions. A later version included a discovery setting. Users could choose how often they wanted to see activities outside their usual categories.\n\nThe app also became more transparent about its recommendations. A short note explained whether an event appeared because of a saved interest, a nearby location, or a user's request to explore. These explanations did not make every suggestion useful. They did, however, give users a way to interpret the list and change it. Daniel continued using the app, but he also checked the full event calendar occasionally. For him, good recommendations were helpful guides to a city, not a complete account of everything the city could offer.",
+      "vocabulary": [
+        {"word": "recommendation", "meaning": "推荐"},
+        {"word": "represent", "meaning": "代表；反映"},
+        {"word": "transparent", "meaning": "透明的；解释清楚的"},
+        {"word": "interpret", "meaning": "理解；解释"}
+      ],
+      "questions": [
+        {
+          "id": "read-04-q1",
+          "type": "main",
+          "prompt": "What does the passage suggest about recommendation systems?",
+          "options": ["They should offer no personalised suggestions.", "They always understand a person's complete interests.", "They make full event calendars unnecessary.", "They are more useful when people can understand and adjust them."],
+          "answer": 3,
+          "explanation": "后半部分围绕调节发现比例、解释推荐依据展开，强调用户理解和控制推荐结果的能力。",
+          "quote": "They did, however, give users a way to interpret the list and change it."
+        },
+        {
+          "id": "read-04-q2",
+          "type": "detail",
+          "prompt": "What did the discovery setting allow users to choose?",
+          "options": ["How much to charge for each event.", "How often to receive suggestions outside their usual categories.", "Which events should be removed from the city's calendar.", "How many photographs an exhibition should contain."],
+          "answer": 1,
+          "explanation": "discovery setting 让用户选择看到平时类别以外活动的频率。",
+          "quote": "Users could choose how often they wanted to see activities outside their usual categories."
+        },
+        {
+          "id": "read-04-q3",
+          "type": "inference",
+          "prompt": "Why did Daniel still check the full event calendar?",
+          "options": ["He wanted to avoid missing possibilities beyond the suggested list.", "He had stopped enjoying photography exhibitions altogether.", "The developers had removed all personalised recommendations.", "He believed the app never provided useful suggestions."],
+          "answer": 0,
+          "explanation": "他把推荐看作有帮助的引导，而非城市所有活动的完整清单，因此仍查看完整日历以发现其他可能。",
+          "quote": "For him, good recommendations were helpful guides to a city, not a complete account of everything the city could offer."
+        },
+        {
+          "id": "read-04-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"transparent\" mean in the fourth paragraph?",
+          "options": ["Showing events only on a clear glass screen.", "Keeping the reason for a suggestion private.", "Making the reasons for recommendations easier to understand.", "Removing every unfamiliar activity from the list."],
+          "answer": 2,
+          "explanation": "后一句解释每项活动出现的原因，因此 transparent 指推荐机制的说明更清楚，而非物理上的透明。",
+          "quote": "A short note explained whether an event appeared because of a saved interest, a nearby location, or a user's request to explore."
+        }
+      ]
+    },
+    {
+      "id": "read-05",
+      "title": "旧车站的新用途",
+      "subtitle": "A Shared Place with Several Purposes",
+      "topic": "城市与社会",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "An old station building in a small town had stood empty for years. When the council invited suggestions for its future, residents proposed a reading room, a rehearsal space, and a place for local makers to sell their work. The building was too small to provide separate rooms for every activity. Choosing a single purpose would have been simple, but it would also have excluded many of the people who wanted to use it.\n\nA volunteer group suggested a temporary programme before any permanent changes were made. For three months, quiet activities would take place on weekday mornings, rehearsals on two evenings, and a small market on Saturdays. Folding furniture could be moved easily, and equipment would be stored in a shared cupboard. A notice at the entrance explained the weekly schedule.\n\nThe trial soon revealed problems that had been missed in the original proposals. Some neighbours found evening noise disturbing. Market organisers needed more time to clear the tables, and readers sometimes arrived without checking the schedule. The group responded by ending rehearsals earlier, leaving longer gaps between activities, and posting updates in several nearby shops as well as online.\n\nAt the end of the trial, the council had more than a collection of preferences. It had observations about how different uses worked in practice. The final plan still involved compromise, but residents could discuss concrete examples instead of imagining only their ideal version of the building. The old station became a shared place through repeated adjustments. Its success depended less on finding one perfect use than on creating a workable way for different users to share limited space.",
+      "vocabulary": [
+        {"word": "rehearsal", "meaning": "排练"},
+        {"word": "temporary", "meaning": "临时的"},
+        {"word": "compromise", "meaning": "折中；妥协"},
+        {"word": "concrete", "meaning": "具体的"}
+      ],
+      "questions": [
+        {
+          "id": "read-05-q1",
+          "type": "main",
+          "prompt": "What was most important in making the old station a shared place?",
+          "options": ["Selecting only the quietest activity.", "Allowing every group to use it at any time.", "Testing and adjusting how different uses could fit together.", "Dividing it into many new permanent rooms immediately."],
+          "answer": 2,
+          "explanation": "全文说明临时试行揭示了实际问题，再通过调整时间和信息通知形成可行共享方式。",
+          "quote": "The old station became a shared place through repeated adjustments."
+        },
+        {
+          "id": "read-05-q2",
+          "type": "detail",
+          "prompt": "What did the group do about complaints concerning evening noise?",
+          "options": ["It moved the market to weekday mornings.", "It stopped publishing the schedule.", "It asked readers to bring their own furniture.", "It arranged for rehearsals to finish earlier."],
+          "answer": 3,
+          "explanation": "面对晚间噪声等问题，志愿组采取的措施之一是让排练更早结束。",
+          "quote": "The group responded by ending rehearsals earlier, leaving longer gaps between activities, and posting updates in several nearby shops as well as online."
+        },
+        {
+          "id": "read-05-q3",
+          "type": "inference",
+          "prompt": "Why was the trial useful to the council?",
+          "options": ["It proved that residents had exactly the same preferences.", "It provided practical evidence for discussing the final plan.", "It removed the need for any compromise.", "It showed that the building had to remain empty."],
+          "answer": 1,
+          "explanation": "试行带来了不同活动在实际运行中的观察材料，使居民能够讨论具体例子，而不仅是各自想象中的方案。",
+          "quote": "It had observations about how different uses worked in practice."
+        },
+        {
+          "id": "read-05-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"temporary\" mean in the second paragraph?",
+          "options": ["Intended to last for a limited period.", "Designed to continue without any review.", "Available only to council employees.", "Too expensive for local residents."],
+          "answer": 0,
+          "explanation": "该方案为期三个月，并且在永久改动前试行，所以 temporary 表示有时间限制的、临时的。",
+          "quote": "A volunteer group suggested a temporary programme before any permanent changes were made."
+        }
+      ]
+    },
+    {
+      "id": "read-06",
+      "title": "平均时间不够说明问题",
+      "subtitle": "Why the Average Was Not Enough",
+      "topic": "日常决策与数据",
+      "difficulty": "B1–B2",
+      "durationHint": "约 5 分钟",
+      "body": "Leah was choosing between two routes to a weekly course across town. A travel website showed that Route A took an average of thirty minutes, while Route B took thirty-five. Since she wanted to spend less time travelling, Route A seemed the obvious choice. Yet after several weeks, she noticed that her journeys on it were difficult to plan around.\n\nSome trips on Route A took only twenty minutes. On other evenings, traffic and a missed connection made the same journey last nearly an hour. Route B required a longer walk, but its journey times were more consistent. Leah began keeping a simple record of her departure and arrival times, along with notes about unusual delays. She did not expect this small record to describe every possible journey; she wanted information relevant to her own schedule.\n\nThe record changed the question she asked. Instead of asking only which route was faster on average, she asked which one was more likely to get her to class before it began. For this purpose, a slightly longer but more predictable journey was easier to manage. When she travelled on a free afternoon without a fixed appointment, she sometimes chose Route A instead.\n\nThe website's average had not necessarily been wrong. It had simply left out a feature that mattered to her decision: the variation between trips. Leah learned that a number can be accurate and still be incomplete for a particular task. Understanding a useful figure therefore involves asking how it was produced, what it leaves out, and whether those missing details affect the choice one needs to make.",
+      "vocabulary": [
+        {"word": "average", "meaning": "平均值；平均的"},
+        {"word": "consistent", "meaning": "稳定的；前后一致的"},
+        {"word": "variation", "meaning": "变化；差异"},
+        {"word": "relevant", "meaning": "相关的；切合需要的"}
+      ],
+      "questions": [
+        {
+          "id": "read-06-q1",
+          "type": "main",
+          "prompt": "What is the main lesson Leah learned?",
+          "options": ["Travel websites always report incorrect figures.", "A useful decision may require information beyond an average.", "The route with the shortest walk is always best.", "Personal records can describe every possible journey."],
+          "answer": 1,
+          "explanation": "文章强调平均数可能准确，但未包含对决策重要的行程波动，因而还需要理解数字省略了什么。",
+          "quote": "Leah learned that a number can be accurate and still be incomplete for a particular task."
+        },
+        {
+          "id": "read-06-q2",
+          "type": "detail",
+          "prompt": "According to the website, what was the average journey time for Route B?",
+          "options": ["Twenty minutes.", "Thirty minutes.", "Nearly an hour.", "Thirty-five minutes."],
+          "answer": 3,
+          "explanation": "首段给出的 Route B 平均用时是 thirty-five minutes，即 35 分钟。",
+          "quote": "A travel website showed that Route A took an average of thirty minutes, while Route B took thirty-five."
+        },
+        {
+          "id": "read-06-q3",
+          "type": "inference",
+          "prompt": "Why did Leah sometimes still choose Route A on a free afternoon?",
+          "options": ["Arriving by a fixed time was less important on those trips.", "Route A had become completely free of delays.", "The website no longer showed Route B.", "She had stopped caring about travel time in every situation."],
+          "answer": 0,
+          "explanation": "没有固定约定的下午，对准时到达的要求较低，所以她仍可能选择平均较快但波动较大的路线。",
+          "quote": "When she travelled on a free afternoon without a fixed appointment, she sometimes chose Route A instead."
+        },
+        {
+          "id": "read-06-q4",
+          "type": "vocabulary",
+          "prompt": "What does \"consistent\" mean when describing Route B's journey times?",
+          "options": ["Always shorter than twenty minutes.", "Impossible to record.", "Relatively steady from one trip to another.", "Dependent only on the price of a ticket."],
+          "answer": 2,
+          "explanation": "前文说 Route A 用时变化很大，Route B 与之对比，consistent 指各次行程用时相对稳定。",
+          "quote": "Route B required a longer walk, but its journey times were more consistent."
+        }
+      ]
+    }
+  ]
+}
