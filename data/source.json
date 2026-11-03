@@ -1,0 +1,41 @@
+{
+  "name": "四级高频进阶 720",
+  "count": 720,
+  "builtAt": "2026-11-03",
+  "source": "ECDICT",
+  "repository": "https://github.com/skywind3000/ECDICT",
+  "commit": "39cfb9672c0906b63569e0453c2e6abfb9ab182a",
+  "csvBlobSha": "0e527e22e0e0d22f012b0ed251a8dddd5891773b",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2025 Linwei",
+  "cet4SourceCount": 3849,
+  "eligibleCount": 2290,
+  "rankField": "ECDICT frq 当代语料词频顺序；数值越小越常用",
+  "rankRange": [
+    1206,
+    2874
+  ],
+  "notice": "这是四级标签与通用语料词频的交集精选，不是四级真题出现次数、官方高频榜或保过词表。",
+  "rules": [
+    "仅保留源词典 cet4 标签词。",
+    "去掉 zk（中考）标签、frq 前 1200、人工基础词排除表。",
+    "仅取 frq 1201–10000，优先一般语料更常用的词，截取 720 个。",
+    "过滤专名、缩写、词组、纯词形变化和容易从基础词推知的派生词。",
+    "合并所列英美拼写，保留词条音标和前两种词性的常见中文义项。"
+  ],
+  "uiSummary": "已筛选 720 个四级词，过滤部分基础词；按通用语料词频安排。",
+  "sources": [
+    {
+      "title": "ECDICT 词条字段与词频说明",
+      "url": "https://github.com/skywind3000/ECDICT/tree/39cfb9672c0906b63569e0453c2e6abfb9ab182a"
+    },
+    {
+      "title": "ECDICT MIT License",
+      "url": "https://github.com/skywind3000/ECDICT/blob/39cfb9672c0906b63569e0453c2e6abfb9ab182a/LICENSE"
+    },
+    {
+      "title": "BNC 官方语料说明",
+      "url": "https://www.natcorp.ox.ac.uk/corpus/index.xml"
+    }
+  ]
+}
