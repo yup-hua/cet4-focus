@@ -5,7 +5,7 @@ const escapeHTML=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 const h=escapeHTML,KEY='wordstep.cet4.v1',SESSION_KEY='wordstep.roundsession.v1';
 let words=[],wordMap=new Map(),state=E.createState(),page='today',storageOK=true,session=null,query='',filter='all',limit=40;
 const nav=[['today','▧','今日计划'],['library','▤','我的词库'],['listening','◖))','听力练习'],['reading','Aa','阅读理解'],['mistakes','↺','错词复习'],['stats','◴','学习记录']];
-let exerciseData=null,exerciseError='',exerciseLoading=false,training=null,listeningRate=1;
+let exerciseData=null,exerciseError='',exerciseLoading=false,training=null,listeningRate=1,listeningFilter='all';
 try{const raw=JSON.parse(localStorage.getItem(KEY)||'null');state=E.normalizeState(raw);let migrated=false;if(raw?.settings&&!raw.settings.planVersion&&raw.settings.dailyNew===20){state=E.setSettings(state,{dailyNew:50});migrated=true;}if(raw?.settings&&!raw.settings.quizVersion){state=E.setSettings(state,{mode:'quiz'});migrated=true;}if(migrated)localStorage.setItem(KEY,JSON.stringify(state));}catch{storageOK=false;}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(state));saveRoundSession();storageOK=true;}catch{storageOK=false;toast('浏览器未允许保存，请到设置导出学习记录');}}
 function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').classList.remove('visible'),2600);}
@@ -51,6 +51,7 @@ document.addEventListener('click',e=>{const button=e.target.closest('[data-actio
   case'add-words':state=E.setSettings(state,{dailyNew:Math.min(words.length,state.settings.dailyNew+20)});save();session=null;startSession();break;
   case'all-words':state=E.setSettings(state,{dailyNew:words.length});save();session=null;startSession();break;
   case'open-exercise':openExercise(d.kind,d.id);break;
+  case'listening-filter':if(['all','dialogue','short','long'].includes(d.format)){listeningFilter=d.format;page='listening';render();}break;
   case'submit-exercise':submitExercise();break;
   case'retry-exercise':if(training)openExercise(training.kind,training.id,true);break;
   case'next-exercise':nextExercise();break;
@@ -90,9 +91,9 @@ fetch('data/words.json').then(r=>{if(!r.ok)throw new Error('词库未加载成�
 function moduleCards(){return `<div class="learning-modules"><button class="learning-module" data-action="nav" data-page="listening"><span class="module-symbol">◖))</span><div><strong>听力练习</strong><small>${exerciseData?exerciseData.listening.length+' 篇原创音频':'听音频，抓重点'}</small></div><span class="module-arrow">↗</span></button><button class="learning-module" data-action="nav" data-page="reading"><span class="module-symbol">Aa</span><div><strong>阅读理解</strong><small>${exerciseData?exerciseData.reading.length+' 篇原创短文':'读短文，找依据'}</small></div><span class="module-arrow">↗</span></button></div>`;}
 function trainingList(kind){
  const isListening=kind==='listening';
- const top=heading(isListening?'LISTEN. UNDERSTAND. REPEAT.':'WORDS COME TO LIFE.',isListening?'听懂每一句的重点。':'把认识的词，读成意思。',isListening?'音频播放、原文对照、题目解析，一篇一篇练。':'主旨、细节、推断和词义题，回到原文找答案。');
+ const top=heading(isListening?'LISTEN. UNDERSTAND. REPEAT.':'WORDS COME TO LIFE.',isListening?'从短对话，慢慢听到长篇。':'把认识的词，读成意思。',isListening?'短对话、短篇独白、长篇听力，按今天的时间和状态选。':'主旨、细节、推断和词义题，回到原文找答案。');
  if(!exerciseData)return top+`<div class="empty">${exerciseError||'练习内容正在加载…'}${exerciseError?'<p><button class="secondary" data-action="retry-practice-load">重新加载</button></p>':''}</div>`;
- return top+P.renderCatalog(exerciseData,kind,state.exerciseRecords);
+ return top+P.renderCatalog(exerciseData,kind,state.exerciseRecords,isListening?listeningFilter:'all');
 }
 function currentExercise(){return training?P.lessons(exerciseData,training.kind).find(x=>x.id===training.id):null;}
 function openExercise(kind,id,fresh=false){
@@ -102,9 +103,9 @@ function openExercise(kind,id,fresh=false){
 }
 function exercisePage(){const lesson=currentExercise();return lesson?P.renderLesson(lesson,training.kind,training,listeningRate):trainingList('listening');}
 function submitExercise(){const lesson=currentExercise();if(!lesson||training.submitted)return;try{const result=P.record(lesson,training.kind,training.answers,state.exerciseRecords[lesson.id]);state={...state,exerciseRecords:{...state.exerciseRecords,[lesson.id]:result}};save();training.submitted=true;render(true);}catch(error){toast(error.message);const missing=training.answers.findIndex(x=>!Number.isInteger(x));const field=$('#question-'+missing+' input');if(field&&typeof field.focus==='function')field.focus();}}
-function nextExercise(){if(!training)return;const list=P.lessons(exerciseData,training.kind);const i=list.findIndex(x=>x.id===training.id);const next=list[(i+1)%list.length];if(next)openExercise(training.kind,next.id);}
+function nextExercise(){if(!training)return;const list=P.lessons(exerciseData,training.kind,training.kind==='listening'?listeningFilter:'all');const i=list.findIndex(x=>x.id===training.id);const next=list[(i+1)%list.length];if(next)openExercise(training.kind,next.id);}
 function bindExerciseAudio(){if(page!=='exercise'||training?.kind!=='listening')return;const audio=$('#listening-audio');if(!audio||typeof audio.addEventListener!=='function')return;audio.playbackRate=listeningRate;audio.addEventListener('loadedmetadata',()=>{audio.playbackRate=listeningRate;});audio.addEventListener('error',()=>{const message=$('#audio-error');if(message)message.hidden=false;});}
-async function loadExercises(){if(exerciseLoading)return;exerciseLoading=true;exerciseError='';try{const r=await fetch('data/practice.json?v=20261103-5');if(!r.ok)throw new Error('练习内容暂未加载，请检查网络后重试。');const data=await r.json();if(!Array.isArray(data.listening)||!Array.isArray(data.reading))throw new Error('练习数据格式有误。');exerciseData=data;}catch(e){exerciseError=e.message;}finally{exerciseLoading=false;if(words.length&&['today','listening','reading','exercise'].includes(page))render();}}
+async function loadExercises(){if(exerciseLoading)return;exerciseLoading=true;exerciseError='';try{const r=await fetch('data/practice.json?v=20261105-6');if(!r.ok)throw new Error('练习内容暂未加载，请检查网络后重试。');const data=await r.json();if(!Array.isArray(data.listening)||!Array.isArray(data.reading))throw new Error('练习数据格式有误。');exerciseData=data;}catch(e){exerciseError=e.message;}finally{exerciseLoading=false;if(words.length&&['today','listening','reading','exercise'].includes(page))render();}}
 loadExercises();
 
-function stats(){const all=state.exerciseRecords||{};const count=k=>Object.values(all).filter(r=>r.kind===k).length;return wordStats()+`<div class="section-head"><h2>听力与阅读记录</h2><span class="tiny">保存每篇最近一次成绩</span></div><div class="exercise-records"><div><b>${count('listening')} / ${exerciseData?.listening.length||24}</b><span>已完成听力篇数</span></div><div><b>${count('reading')} / ${exerciseData?.reading.length||24}</b><span>已完成阅读篇数</span></div></div>`;}
+function stats(){const all=state.exerciseRecords||{};const count=k=>Object.values(all).filter(r=>r.kind===k).length;return wordStats()+`<div class="section-head"><h2>听力与阅读记录</h2><span class="tiny">保存每篇最近一次成绩</span></div><div class="exercise-records"><div><b>${count('listening')} / ${exerciseData?.listening.length||48}</b><span>已完成听力篇数</span></div><div><b>${count('reading')} / ${exerciseData?.reading.length||24}</b><span>已完成阅读篇数</span></div></div>`;}

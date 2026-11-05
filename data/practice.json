@@ -5,7 +5,7 @@
     "label": "原创进阶练习",
     "notice": "本文与题目为原创教学材料，不是考试真题。人物、机构与项目为虚构练习情境；难度等级仅供学习安排参考。",
     "createdAt": "2026-11-03",
-    "revision": "2026-11-03-expanded-24"
+    "revision": "2026-11-05-short-listening-48"
   },
   "listening": [
     {
@@ -14,7 +14,7 @@
       "subtitle": "A Different Kind of Library Seat",
       "topic": "校园生活",
       "difficulty": "B1",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 69 秒",
       "body": "Last term, our college library received complaints about group discussions near the silent study area. At first, the staff considered banning all conversation on that floor. However, a student survey showed that many people needed a place to work together between classes. So the library tried a different arrangement.\n\nIt moved several tables into an unused room near the entrance. Students can book these tables for forty-five minutes, and there is a whiteboard beside each one. The silent area remains upstairs. During the first week, some students found the booking system confusing. In response, the staff put simple instructions on every table and shortened the online form.\n\nThe new arrangement is flexible because it supports different kinds of study. It also shows why listening to users matters. A complete ban would have solved one problem by creating another. Now, both individual learners and project groups have somewhere suitable to go.",
       "vocabulary": [
         {
@@ -91,7 +91,8 @@
           "explanation": "后面的 because 引出解释：它支持不同学习方式，因此 flexible 在此意为能适应不同需求的。",
           "quote": "The new arrangement is flexible because it supports different kinds of study."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-02",
@@ -99,7 +100,7 @@
       "subtitle": "Learning at the Repair Corner",
       "topic": "社区与环保",
       "difficulty": "B1",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 62 秒",
       "body": "On Saturday, I took a broken desk lamp to a repair event at our community centre. I expected a volunteer to fix it while I waited. Instead, a retired engineer invited me to sit beside her and describe what had happened to it. We checked the cable together and discovered a loose connection.\n\nBefore the event, I had thought repair required expensive equipment and years of training. This small experience challenged that assumption. The engineer explained each step, but she also made clear that some electrical jobs should be left to trained people. The aim was not to make visitors attempt every repair themselves.\n\nBy the end of the afternoon, I had a working lamp and a better understanding of it. The organisers hope the event will restore people's interest in caring for everyday objects. They plan to hold it monthly, with separate tables for clothing, furniture, and simple household items.",
       "vocabulary": [
         {
@@ -176,7 +177,8 @@
           "explanation": "restore 表示使某种状态重新出现；在这里是重新唤起人们爱护日常物品的兴趣。",
           "quote": "The organisers hope the event will restore people's interest in caring for everyday objects."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-03",
@@ -184,7 +186,7 @@
       "subtitle": "A Better Handover",
       "topic": "工作沟通",
       "difficulty": "B1–B2",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 61 秒",
       "body": "When I joined a small design company, I noticed that our Monday meetings often lasted more than an hour. Everyone described what they had done, but we still left without knowing who needed help. My manager asked me to suggest a more useful format.\n\nI proposed a brief written update before the meeting. Each person would list a completed task, a current difficulty, and one decision they needed from the team. The meeting itself would focus on the difficulties and decisions, rather than repeat the entire update.\n\nWe tested the format for three weeks. The meetings became shorter, although writing the updates took some preparation. One colleague worried that quiet members might still be overlooked. We therefore added a short round in which everyone could raise an issue. The manager said the goal was not simply to save minutes. It was to make sure the time we spent together led to action.",
       "vocabulary": [
         {
@@ -261,7 +263,8 @@
           "explanation": "brief 在此修饰工作进展说明，表示简短的，不是其他语境中的法律文件之意。",
           "quote": "I proposed a brief written update before the meeting."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-04",
@@ -269,7 +272,7 @@
       "subtitle": "Testing the Campus Map",
       "topic": "科技与校园",
       "difficulty": "B1–B2",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 63 秒",
       "body": "Our student technology club developed a map to help new students find their way around campus. The first version showed the shortest walking route between buildings. We thought this would be enough, but a group of testers quickly pointed out several problems. Some routes included locked gates, while others had steep steps.\n\nWe realised that a useful map had to be reliable, not merely attractive. The club visited each route and added notes about opening hours, steps, and covered paths. We also placed a feedback button on the page so users could report changes.\n\nAt the launch event, people paid more attention to these practical details than to the map's colours. One tester explained that the best route depended on the person and the weather. The project taught us to question an easy assumption: the shortest route is not always the most suitable one. Regular checks will now be part of our work.",
       "vocabulary": [
         {
@@ -346,7 +349,8 @@
           "explanation": "这里强调路线是否真实可用，因此 reliable 表示信息可信、可以依赖。",
           "quote": "We realised that a useful map had to be reliable, not merely attractive."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-05",
@@ -354,7 +358,7 @@
       "subtitle": "An Alternative Way to Travel",
       "topic": "日常出行",
       "difficulty": "B1",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 57 秒",
       "body": "For several months, I took the same bus to my evening language class. It stopped close to my flat, but it often arrived late. I used to leave earlier and earlier, yet I still felt uncertain about reaching the classroom on time. Then a classmate suggested an alternative: walking ten minutes to the train station.\n\nThe train journey was slightly longer than a bus journey on a good day. However, its departure times were more predictable. I tried it for two weeks and found that I could plan my evening more calmly. The walk also gave me time to listen to a short podcast.\n\nI still take the bus when the weather is unpleasant and I am not in a hurry. I have not decided that one form of transport is always better. I have simply learned to choose according to what matters most for a particular trip.",
       "vocabulary": [
         {
@@ -431,7 +435,8 @@
           "explanation": "同学提出的是原有公交路线之外的另一种可行方式，因此 alternative 表示另一选择。",
           "quote": "Then a classmate suggested an alternative: walking ten minutes to the train station."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-06",
@@ -439,7 +444,7 @@
       "subtitle": "A Gallery You Can Help Create",
       "topic": "文化与社区",
       "difficulty": "B1–B2",
-      "durationHint": "约 1 分钟",
+      "durationHint": "约 66 秒",
       "body": "A small gallery in our neighbourhood is preparing an exhibition about everyday sounds. Instead of displaying only work by professional artists, it has invited local residents to contribute recordings. People can send in sounds from a favourite place, together with a short explanation of why that place matters to them.\n\nI recorded the sound of chairs being moved in the community hall after our weekly music practice. At first, I thought the recording was too ordinary. But the organiser said that ordinary sounds could reveal how people share a space. My explanation helped visitors understand the memory behind it.\n\nThe gallery will provide headphones and printed descriptions for each recording. Residents who do not have recording equipment can borrow a simple device during a workshop. The organisers hope the project will encourage people to notice their surroundings and discover stories that would otherwise remain unheard. The exhibition opens next month and admission is free.",
       "vocabulary": [
         {
@@ -516,7 +521,8 @@
           "explanation": "这里 contribute 后接 recordings，意为向展览项目提供录音材料。",
           "quote": "Instead of displaying only work by professional artists, it has invited local residents to contribute recordings."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-07",
@@ -524,7 +530,7 @@
       "subtitle": "Dinner Before the Shopping Trip",
       "topic": "饮食与食物节约",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 56 秒",
       "body": "Sharing a flat has taught me that buying food is easier than using it. My two flatmates and I used to shop separately. We often bought the same vegetables, then discovered them at the back of the fridge too late. Nobody wanted to waste food, but nobody knew what the others had planned.\n\nNow we keep a small board on the fridge door. Before shopping, we write down ingredients that need to be used soon. Then we choose two evening meals around that list. We leave the other evenings open because our class schedules sometimes change. On Sundays, we cook one larger dish and freeze a few portions for busy days.\n\nThe plan is deliberately simple. We are not trying to control every meal. We just want the food we already own to become the starting point for our next shopping trip.",
       "vocabulary": [
         {
@@ -601,7 +607,8 @@
           "explanation": "周日做较大的一道菜，再分装冷冻以备忙碌时食用，所以 portions 指分好的一份份食物。",
           "quote": "On Sundays, we cook one larger dish and freeze a few portions for busy days."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-08",
@@ -609,7 +616,7 @@
       "subtitle": "A Moment Before Allowing Access",
       "topic": "数字隐私",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 61 秒",
       "body": "I downloaded a photo editing app before a weekend trip. During setup, it asked to use my camera, contacts, and location. I nearly accepted everything because I wanted to try its filters quickly. Then I wondered why editing a picture required my address book.\n\nI opened the permission settings and allowed access only to the photographs I selected. The app still worked for the task I needed. Later, a friend pointed out that some features might genuinely require extra access. A location feature, for example, could use my position to suggest nearby photo spots. That did not mean I had to use it.\n\nI now review these requests when I install an app. I ask what a permission enables and whether I need that feature. It takes a little longer than pressing every button immediately, but I feel more aware of the choices I am making.",
       "vocabulary": [
         {
@@ -686,7 +693,8 @@
           "explanation": "后一句说明会询问权限能实现什么、是否需要该功能，因此 review 在这里是仔细检查和审视。",
           "quote": "I now review these requests when I install an app."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-09",
@@ -694,7 +702,7 @@
       "subtitle": "Questions Worth Keeping",
       "topic": "实习与职业成长",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 60 秒",
       "body": "During my first week at a publishing company, I kept quiet whenever I did not understand an instruction. I wanted to appear capable, so I guessed what unfamiliar terms meant. By Thursday, I had prepared a list of book prices using the wrong version of a file. Correcting it took much longer than asking would have done.\n\nMy supervisor suggested that I keep a question notebook. If a question prevented me from continuing safely, I should ask at once. Other questions could wait until our short afternoon check. She also asked me to explain what I had already tried, so she could understand where I was stuck.\n\nThe notebook soon contained fewer repeated questions because I wrote down the answers too. I learned that being independent did not mean knowing everything. It meant recognising what I could solve myself and explaining clearly when I needed guidance.",
       "vocabulary": [
         {
@@ -771,7 +779,8 @@
           "explanation": "说话人不懂也不问，是因为想显得能够胜任工作，所以 capable 在这里表示有能力的。",
           "quote": "I wanted to appear capable, so I guessed what unfamiliar terms meant."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-10",
@@ -779,7 +788,7 @@
       "subtitle": "An Ending for the Evening",
       "topic": "生活习惯与注意力",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 59 秒",
       "body": "My evenings used to end whenever my phone battery became low. After finishing my coursework, I would watch one short video, then another. I did not especially enjoy every clip, but there was always something new waiting. In the morning, I often wished I had stopped earlier.\n\nI decided to try a clearer ending to the day. At half past ten, I put my phone on a shelf across the room and chose a quiet activity for the next twenty minutes. Sometimes I read a novel; sometimes I prepared my bag for the following day. I also moved my alarm clock beside the bed, so I no longer needed the phone there.\n\nThis routine does not make every evening perfect. When an assignment runs late, I adjust it. Still, having a definite stopping point makes it easier to notice when I am continuing out of habit rather than interest.",
       "vocabulary": [
         {
@@ -856,7 +865,8 @@
           "explanation": "固定时间收起手机为晚间活动提供了清楚的边界，因此 definite 在这里表示明确、确定的。",
           "quote": "Still, having a definite stopping point makes it easier to notice when I am continuing out of habit rather than interest."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-11",
@@ -864,7 +874,7 @@
       "subtitle": "The Story Behind the Bakery",
       "topic": "地方历史与口述记录",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 58 秒",
       "body": "For a local history assignment, I interviewed the owner of a bakery near our college. I arrived with questions about dates and building changes. However, the most interesting part came when she described learning to bake from her aunt, who judged the oven's heat by holding a hand near its door.\n\nI asked whether I could record the interview and explained that it would be used in a class presentation. Afterwards, I sent her a written version to check. She corrected the year the shop had moved and asked me to remove a personal story about a neighbour. I made both changes before sharing the work.\n\nThe experience taught me that an interview is more than collecting colourful memories. People should understand how their words will be used. Checking details also helps separate a lively story from an accurate account, although both can help us understand a place.",
       "vocabulary": [
         {
@@ -941,7 +951,8 @@
           "explanation": "这里讨论活泼的故事与准确的历史记录，account 指事件的叙述，而不是银行或网站账户。",
           "quote": "Checking details also helps separate a lively story from an accurate account, although both can help us understand a place."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-12",
@@ -949,7 +960,7 @@
       "subtitle": "A Game with Room for Beginners",
       "topic": "校园运动与参与",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 62 秒",
       "body": "Our weekend volleyball group almost disappeared last term. Experienced players wanted a fast game, while beginners hardly touched the ball. A few new members stopped coming, and soon there were not enough people for two teams. The problem was not a lack of interest in exercise. It was the way our sessions were organised.\n\nThis term, we begin with fifteen minutes of paired practice. Each beginner works with someone who can explain the basic movements. We then play a friendly game with mixed teams. Players can choose a more competitive session later in the afternoon, but nobody has to stay for it.\n\nI enjoy the arrangement because it gives me a chance to improve without feeling that every mistake ruins the game. Our strongest players still have a challenge, and newcomers have a reason to return. Sharing a sport works better when people can enter at different levels.",
       "vocabulary": [
         {
@@ -1026,7 +1037,8 @@
           "explanation": "后面的场次与前面的友谊赛相对应，competitive 表示更注重较量和争取胜利的竞技性活动。",
           "quote": "Players can choose a more competitive session later in the afternoon, but nobody has to stay for it."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-13",
@@ -1034,7 +1046,7 @@
       "subtitle": "The Small Payments on My Statement",
       "topic": "学生消费与预算",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 58 秒",
       "body": "When I checked my monthly spending, I was surprised by several small payments I barely remembered. A music service was useful, but I also paid for a drawing app I had opened only once. A free trial for a magazine had ended while I was busy with exams, and regular payments had begun.\n\nI made a list of every subscription, its renewal date, and how often I used it. I cancelled the ones that no longer served a purpose. For a service I wanted to keep, I added a reminder before the next payment so I could reconsider it. I did not cancel everything just to make the list shorter.\n\nThis exercise helped me see a difference between an affordable price and a useful purchase. A small charge can still be unnecessary. Now, before starting a free trial, I check how to cancel it and put the ending date in my calendar.",
       "vocabulary": [
         {
@@ -1111,7 +1123,8 @@
           "explanation": "文章区分价格是否承担得起和购买是否有用，因此 affordable 指价格在个人支付能力范围之内。",
           "quote": "This exercise helped me see a difference between an affordable price and a useful purchase."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-14",
@@ -1119,7 +1132,7 @@
       "subtitle": "Leaving Space for an Uncertain Bird",
       "topic": "自然观察",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 58 秒",
       "body": "I joined a birdwatching walk because I wanted to learn the names of birds in our park. Our guide asked us to watch quietly from the path and avoid moving close to nests. She said a good view was never a reason to disturb an animal.\n\nAt the lake, I saw a small brown bird and immediately chose a name from my guidebook. Another member asked about its tail and the way it moved. I had not noticed either detail. Instead of agreeing with my first guess, the guide suggested writing down what I could actually see and marking the name as uncertain.\n\nSince then, I have kept short notes about size, movement, and location before checking pictures. Some birds remain unnamed in my notebook, and that is acceptable. I am learning to observe more patiently. An honest question mark can be more useful than a confident label based on a quick glance.",
       "vocabulary": [
         {
@@ -1196,7 +1209,8 @@
           "explanation": "结尾将耐心观察与根据快速一眼就自信命名作比较，因此 glance 指短暂、匆忙的一瞥。",
           "quote": "An honest question mark can be more useful than a confident label based on a quick glance."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-15",
@@ -1204,7 +1218,7 @@
       "subtitle": "More Than a Word on a Menu",
       "topic": "语言与跨文化沟通",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 62 秒",
       "body": "Our language club helped prepare an English menu for a student food festival. We expected the job to be simple: find the English words and type them beside the original names. Then we reached a dish whose name referred to a local story rather than its ingredients. A direct translation sounded interesting but gave visitors no idea what they would eat.\n\nWe decided to keep the traditional name and add a short description of the main ingredients and cooking method. We checked these descriptions with the student cooks, especially where a dish might contain nuts or dairy products. There was limited space, so we removed long historical notes and placed them on a separate page.\n\nTranslating the menu became an exercise in choosing what readers needed first. We wanted to preserve the dishes' cultural identity while helping visitors make informed choices. Sometimes a useful explanation does more work than a single translated word.",
       "vocabulary": [
         {
@@ -1281,7 +1295,8 @@
           "explanation": "这里的对象是菜肴的文化身份，保留传统名称就是保存其重要特征，因此 preserve 意为保留。",
           "quote": "We wanted to preserve the dishes' cultural identity while helping visitors make informed choices."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-16",
@@ -1289,7 +1304,7 @@
       "subtitle": "Putting a Delivery Mistake Right",
       "topic": "客户服务与责任",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 64 秒",
       "body": "I help a small student business pack handmade notebooks. Last month, two customers received each other's orders because I had placed the wrong labels on their boxes. My first thought was to explain how busy we had been. Then I realised that this would not help either customer get the notebook they wanted.\n\nI contacted them separately, described the mistake, and offered a clear plan. We would pay for returning the incorrect notebooks and send the right ones without waiting for those returns. I gave each customer a date for the replacement and checked that the address was correct.\n\nBoth customers accepted the plan. Afterwards, our team introduced a final check in which a second person compares the order number with the label. I still feel embarrassed about the error, but I understand responsibility differently now. It includes explaining what happened, repairing the problem, and changing the process that allowed it.",
       "vocabulary": [
         {
@@ -1366,7 +1381,8 @@
           "explanation": "顾客收到了错误商品，因此 replacement 指店家随后提供、用来代替错误笔记本的正确商品。",
           "quote": "I gave each customer a date for the replacement and checked that the address was correct."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-17",
@@ -1374,7 +1390,7 @@
       "subtitle": "A Garden That Could Survive the Holiday",
       "topic": "园艺与可持续管理",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 59 秒",
       "body": "Our campus gardening club wanted to fill a sunny courtyard with flowers. We chose colourful plants from a catalogue and imagined how the space would look in spring. A member then asked a question we had forgotten: who would water the garden during the summer holiday? Most of us would be away.\n\nWe spoke to the grounds staff before buying anything. They helped us choose plants suited to the local conditions and explained which ones needed frequent care. We reduced the planting area and covered the soil around the plants to help keep moisture in. A nearby department agreed to include the remaining watering in its summer duties.\n\nThe finished garden is smaller than our first design, but it has a realistic care plan. I used to think a successful garden began with attractive plants. Now I also think about what those plants will need after the opening photographs have been taken.",
       "vocabulary": [
         {
@@ -1451,7 +1467,8 @@
           "explanation": "缩小面积、选择合适植物并落实假期浇水人员后，计划能够真正执行，因此 realistic 表示切实可行。",
           "quote": "The finished garden is smaller than our first design, but it has a realistic care plan."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-18",
@@ -1459,7 +1476,7 @@
       "subtitle": "Making Space Between Ideas",
       "topic": "表达与演讲",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 62 秒",
       "body": "Before a class presentation, I practised until I could deliver the whole talk without stopping. I thought a pause would make me sound unprepared. During rehearsal, however, my partner said that the ideas arrived so quickly she could not tell which ones mattered most.\n\nShe suggested marking three places in my notes where I would pause briefly. One came after the opening question, another before the main example, and the last before the conclusion. At first, those moments of silence felt much longer to me than they sounded in a recording. I also removed two extra examples so the audience would have less to remember.\n\nOn the day, I did lose one sentence, but the marked pauses helped me find my place again. My goal had changed. I was no longer trying to prove that I remembered every word. I was trying to give listeners enough time to follow an idea.",
       "vocabulary": [
         {
@@ -1536,7 +1553,8 @@
           "explanation": "deliver 在这里的宾语是 the whole talk，语境为课堂展示，所以意思是发表或讲出演讲。",
           "quote": "Before a class presentation, I practised until I could deliver the whole talk without stopping."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-19",
@@ -1544,7 +1562,7 @@
       "subtitle": "Giving Digital Memories an Order",
       "topic": "数字资料管理",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 64 秒",
       "body": "My family asked me to collect photographs for my grandmother's birthday. I thought I could finish in an afternoon, but our pictures were spread across old phones, messages, and several computers. Many files had names that told me nothing about their contents. Finding one beach photograph took nearly an hour.\n\nI began by copying the pictures into folders organised by year and event. I kept the original files and changed names only in the new collection. Relatives helped identify people and places, and I left a note whenever we were unsure of a date. Finally, I saved another copy on a separate drive and checked that it opened correctly.\n\nThe birthday slideshow was only part of the result. We now have a collection that another family member can understand. Organising digital memories is not just about keeping files. It is also about keeping enough context for those files to mean something later.",
       "vocabulary": [
         {
@@ -1621,7 +1639,8 @@
           "explanation": "前文补充人物、地点和日期，正是帮助理解照片的背景信息，因此 context 在这里不是文件大小等技术信息。",
           "quote": "It is also about keeping enough context for those files to mean something later."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-20",
@@ -1629,7 +1648,7 @@
       "subtitle": "A Taste of Home in a Shared Kitchen",
       "topic": "留学适应与人际联系",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 59 秒",
       "body": "When I moved abroad for a term, the hardest moments were often quiet evenings in the residence hall. I enjoyed my classes, but I missed the ordinary conversations that used to happen while my family prepared dinner. One weekend, I called my father and asked how to make his vegetable soup.\n\nSome ingredients were unavailable in the nearby shop, so he suggested substitutes rather than a trip across the city. As the soup cooked, two students from my floor came into the shared kitchen. They asked what I was making, and I offered them a bowl. The next week, one of them taught us to prepare a simple dish from her hometown.\n\nOur small cooking evenings have become a pleasant part of the week. They do not remove every feeling of homesickness. They give us a familiar activity through which we can exchange stories and begin to feel connected in a new place.",
       "vocabulary": [
         {
@@ -1706,7 +1725,8 @@
           "explanation": "一些原料买不到时，父亲建议使用能代替它们的材料，因此 substitutes 指这里的替代食材。",
           "quote": "Some ingredients were unavailable in the nearby shop, so he suggested substitutes rather than a trip across the city."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-21",
@@ -1714,7 +1734,7 @@
       "subtitle": "Words Beside the Stage",
       "topic": "戏剧与无障碍体验",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 64 秒",
       "body": "Our student theatre group is preparing a short play with captions displayed beside the stage. We began the project after a classmate explained that she could hear parts of a performance but often missed quiet lines. Simply making the actors speak louder would not solve every difficulty.\n\nTwo volunteers now work from the final script. They divide the dialogue into short sections and practise displaying each section at the right moment. Important sounds, such as a door closing offstage, are described as well. During a rehearsal, we invited our classmate to sit in several different rows. From the side seats, the first screen was difficult to read, so we changed its position and enlarged the letters.\n\nPreparing captions has required extra work and careful timing. It has also made us think about the audience more closely. An invitation to a performance means more when people have a practical way to follow what happens.",
       "vocabulary": [
         {
@@ -1791,7 +1811,8 @@
           "explanation": "屏幕从侧边难以看清，所以团队除了移动屏幕，还把字做得更大，enlarged 表示放大。",
           "quote": "From the side seats, the first screen was difficult to read, so we changed its position and enlarged the letters."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-22",
@@ -1799,7 +1820,7 @@
       "subtitle": "A Donation That Others Can Use",
       "topic": "公益与物品捐赠",
       "difficulty": "B1",
-      "durationHint": "约1分钟",
+      "durationHint": "约 65 秒",
       "body": "When our student union announced a clothing collection, I filled a bag with everything I no longer wore. I felt pleased until a volunteer explained the sorting rules. A donation was not simply a way to empty my cupboard. The clothes had to be useful to the people receiving them.\n\nAt home, I checked each item again. I washed the jackets, repaired a loose button, and put pairs of socks together. A badly torn shirt went into a separate textile recycling bag because the collection could not accept it. I also read the request carefully: the organisation needed warm everyday clothing, not formal evening wear.\n\nWhen I returned, the volunteer could sort my bag quickly. I had given fewer items, but they matched the current request. The experience changed how I think about helping. Before offering something, it is worth asking whether it fits the recipient's needs and whether any preparation is still required.",
       "vocabulary": [
         {
@@ -1876,7 +1897,8 @@
           "explanation": "全文讨论捐出的衣物是否适合收衣服的人，因此 recipient 指接受所提供物品或帮助的人。",
           "quote": "Before offering something, it is worth asking whether it fits the recipient's needs and whether any preparation is still required."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-23",
@@ -1884,7 +1906,7 @@
       "subtitle": "Notes That Let Someone Repeat the Work",
       "topic": "实验学习与记录",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 63 秒",
       "body": "In our introductory science class, we compared how different paper shapes affected the distance a small paper glider travelled. My partner and I recorded only the longest flight for each shape. We thought those numbers would make a clear report, but another pair could not repeat our results.\n\nOur teacher asked how high we had held the glider, where we had released it, and whether the windows were open. We had written down none of these conditions. For the next session, we marked a release point, closed the windows, and recorded every attempt, including short flights. We also noted when a wing became bent and replaced the damaged glider.\n\nThe new report was less dramatic, but it explained our procedure much better. We could discuss why attempts differed instead of hiding the differences. I learned that useful experimental notes should help another person understand what was done, not merely admire the final result.",
       "vocabulary": [
         {
@@ -1961,7 +1983,8 @@
           "explanation": "新报告详细说明如何设定放飞位置、控制环境并记录尝试，因此 procedure 指开展实验时遵循的步骤。",
           "quote": "The new report was less dramatic, but it explained our procedure much better."
         }
-      ]
+      ],
+      "format": "long"
     },
     {
       "id": "listen-24",
@@ -1969,7 +1992,7 @@
       "subtitle": "Learning One Small Part of a Craft",
       "topic": "手工艺与技能学习",
       "difficulty": "B1–B2",
-      "durationHint": "约1分钟",
+      "durationHint": "约 61 秒",
       "body": "At my first pottery workshop, I imagined taking home a beautiful cup. Instead, the clay leaned to one side whenever I tried to shape it. I kept changing my hand position, hoping that one quick movement would solve everything. The instructor watched for a moment and then gave me a smaller goal.\n\nShe asked me to make the rim even before worrying about the whole cup. I practised that single movement on several pieces of clay. After each attempt, she pointed to one area and asked what I felt under my fingers. Gradually, I began to notice changes in thickness before I could see them clearly.\n\nMy final cup was still uneven, but I understood one part of the process better. I signed up for another session with a different expectation. Progress in a craft may begin with learning to notice a small difference, rather than producing a finished object that looks impressive.",
       "vocabulary": [
         {
@@ -2045,6 +2068,1687 @@
           "answer": 1,
           "explanation": "练习对象是一只杯子，老师要求先使 rim 均匀，所以这里指杯子开口周围的边沿，即杯口。",
           "quote": "She asked me to make the rim even before worrying about the whole cup."
+        }
+      ],
+      "format": "long"
+    },
+    {
+      "id": "listen-25",
+      "title": "改到哪天见面",
+      "subtitle": "Moving the Project Meeting",
+      "topic": "校园安排",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Woman: Are we still meeting on Tuesday afternoon to discuss our project?\nMan: The laboratory is only available then, so I have to finish my experiment first.\nWoman: How about Wednesday morning? The small library room should be quiet.\nMan: That works for me. I'll make a reservation and send you the room number tonight.",
+      "vocabulary": [
+        {
+          "word": "available",
+          "meaning": "可使用的；有空的"
+        },
+        {
+          "word": "experiment",
+          "meaning": "实验"
+        },
+        {
+          "word": "reservation",
+          "meaning": "预约"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "When will the speakers meet?",
+          "options": [
+            "On Wednesday morning.",
+            "On Tuesday afternoon.",
+            "On Wednesday evening.",
+            "On Tuesday morning."
+          ],
+          "answer": 0,
+          "explanation": "原计划周二下午，但男生需要做实验；最后双方同意改到周三上午见面。",
+          "quote": "How about Wednesday morning? The small library room should be quiet.",
+          "id": "listen-25-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "What will the man probably do next?",
+          "options": [
+            "Reserve a room for their meeting.",
+            "Move the project deadline.",
+            "Ask the woman to work alone.",
+            "Cancel his laboratory experiment."
+          ],
+          "answer": 0,
+          "explanation": "男生说今晚会预约房间并发送房间号，因此接下来需要办理会议室预约。",
+          "quote": "I'll make a reservation and send you the room number tonight.",
+          "id": "listen-25-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "Are we still meeting on Tuesday afternoon to discuss our project?"
+        },
+        {
+          "speaker": "Man",
+          "text": "The laboratory is only available then, so I have to finish my experiment first."
+        },
+        {
+          "speaker": "Woman",
+          "text": "How about Wednesday morning? The small library room should be quiet."
+        },
+        {
+          "speaker": "Man",
+          "text": "That works for me. I'll make a reservation and send you the room number tonight."
+        }
+      ]
+    },
+    {
+      "id": "listen-26",
+      "title": "这把伞是谁的",
+      "subtitle": "An Umbrella at the Desk",
+      "topic": "日常生活",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Man: Excuse me, has anyone handed in a blue umbrella? I left mine near the entrance.\nWoman: We have two. Does yours have a wooden handle?\nMan: No, the handle is black, and there's a small silver star on it.\nWoman: Then this must be yours. Please write your name here before you collect it.",
+      "vocabulary": [
+        {
+          "word": "entrance",
+          "meaning": "入口"
+        },
+        {
+          "word": "handle",
+          "meaning": "柄；把手"
+        },
+        {
+          "word": "collect",
+          "meaning": "领取；收集"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "How can the man identify his umbrella?",
+          "options": [
+            "It has a silver cover and no handle.",
+            "It has his name on the top.",
+            "It has a black handle with a silver star.",
+            "It has a blue wooden handle."
+          ],
+          "answer": 2,
+          "explanation": "男生否认木柄，并明确补充黑色伞柄上有一颗银色小星星，这是辨认依据。",
+          "quote": "No, the handle is black, and there's a small silver star on it.",
+          "id": "listen-26-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What must the man do before taking the umbrella?",
+          "options": [
+            "Wait for the owner to return.",
+            "Write down his name.",
+            "Buy a replacement umbrella.",
+            "Show a shopping receipt."
+          ],
+          "answer": 1,
+          "explanation": "工作人员在交还雨伞前要求男生登记姓名，没有要求付钱或提供购物凭证。",
+          "quote": "Please write your name here before you collect it.",
+          "id": "listen-26-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "Excuse me, has anyone handed in a blue umbrella? I left mine near the entrance."
+        },
+        {
+          "speaker": "Woman",
+          "text": "We have two. Does yours have a wooden handle?"
+        },
+        {
+          "speaker": "Man",
+          "text": "No, the handle is black, and there's a small silver star on it."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Then this must be yours. Please write your name here before you collect it."
+        }
+      ]
+    },
+    {
+      "id": "listen-27",
+      "title": "去机场换条路",
+      "subtitle": "A Different Route to the Airport",
+      "topic": "交通出行",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 25 秒",
+      "body": "Woman: Should we take a taxi to the airport? Our flight leaves at six.\nMan: The traffic report says the bridge is closed for repairs. A taxi could take much longer.\nWoman: Is the airport train still running?\nMan: Yes, every fifteen minutes. Let's take that instead and leave a little earlier to avoid the rush.",
+      "vocabulary": [
+        {
+          "word": "traffic",
+          "meaning": "交通；车流"
+        },
+        {
+          "word": "repairs",
+          "meaning": "修理"
+        },
+        {
+          "word": "avoid",
+          "meaning": "避免"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "Why do they decide against a taxi?",
+          "options": [
+            "Bridge repairs may cause a long delay.",
+            "The airport does not allow taxis.",
+            "The train station is closed.",
+            "Their flight has already been canceled."
+          ],
+          "answer": 0,
+          "explanation": "男生说桥梁维修封闭，出租车可能耗时更久，因此两人放弃打车方案。",
+          "quote": "The traffic report says the bridge is closed for repairs. A taxi could take much longer.",
+          "id": "listen-27-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "How often does the airport train run?",
+          "options": [
+            "Once an hour.",
+            "Every five minutes.",
+            "Every fifteen minutes.",
+            "Every thirty minutes."
+          ],
+          "answer": 2,
+          "explanation": "问题询问发车间隔，男生明确回答每十五分钟一班，六点则是航班起飞时间。",
+          "quote": "Yes, every fifteen minutes. Let's take that instead and leave a little earlier to avoid the rush.",
+          "id": "listen-27-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "Should we take a taxi to the airport? Our flight leaves at six."
+        },
+        {
+          "speaker": "Man",
+          "text": "The traffic report says the bridge is closed for repairs. A taxi could take much longer."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Is the airport train still running?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Yes, every fifteen minutes. Let's take that instead and leave a little earlier to avoid the rush."
+        }
+      ]
+    },
+    {
+      "id": "listen-28",
+      "title": "先备份再送修",
+      "subtitle": "Before Repairing the Laptop",
+      "topic": "科技生活",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Man: My laptop keeps shutting down. Can your shop repair it today?\nWoman: We can examine it this afternoon, but the replacement part may not arrive until Friday.\nMan: I need the files for a presentation tomorrow.\nWoman: Then back them up before you bring it in. You can borrow a computer from the library meanwhile.",
+      "vocabulary": [
+        {
+          "word": "examine",
+          "meaning": "检查"
+        },
+        {
+          "word": "replacement",
+          "meaning": "替换；更换件"
+        },
+        {
+          "word": "meanwhile",
+          "meaning": "在此期间"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What is the man advised to do first?",
+          "options": [
+            "Cancel his presentation.",
+            "Buy the replacement part himself.",
+            "Make a backup of his files.",
+            "Wait until Friday to save his work."
+          ],
+          "answer": 2,
+          "explanation": "女生建议送修前先备份文件，因为男生第二天做展示仍然需要使用这些资料。",
+          "quote": "Then back them up before you bring it in.",
+          "id": "listen-28-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why might the repair take several days?",
+          "options": [
+            "The shop has closed permanently.",
+            "The library has no computers.",
+            "A necessary part is not yet available.",
+            "The man has lost all his files."
+          ],
+          "answer": 2,
+          "explanation": "虽然当天下午能检查，但更换部件可能周五才到，等待零件会延长维修时间。",
+          "quote": "We can examine it this afternoon, but the replacement part may not arrive until Friday.",
+          "id": "listen-28-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "My laptop keeps shutting down. Can your shop repair it today?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "We can examine it this afternoon, but the replacement part may not arrive until Friday."
+        },
+        {
+          "speaker": "Man",
+          "text": "I need the files for a presentation tomorrow."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Then back them up before you bring it in. You can borrow a computer from the library meanwhile."
+        }
+      ]
+    },
+    {
+      "id": "listen-29",
+      "title": "咖啡换成茶",
+      "subtitle": "Changing a Drink Order",
+      "topic": "餐饮消费",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 25 秒",
+      "body": "Woman: I ordered a large coffee, but I need to change it to tea. Is it too late?\nMan: Not at all. We haven't prepared your drink yet. Would you like milk in the tea?\nWoman: Just a slice of lemon, please.\nMan: Certainly. There's no extra charge. We'll call your number when the order is ready.",
+      "vocabulary": [
+        {
+          "word": "prepared",
+          "meaning": "准备好了的"
+        },
+        {
+          "word": "slice",
+          "meaning": "薄片"
+        },
+        {
+          "word": "charge",
+          "meaning": "收费；费用"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What does the woman want in her tea?",
+          "options": [
+            "Some extra coffee.",
+            "Two spoons of sugar.",
+            "A slice of lemon.",
+            "A little warm milk."
+          ],
+          "answer": 2,
+          "explanation": "店员询问是否加奶，女生明确表示只要一片柠檬，因此不能选牛奶。",
+          "quote": "Just a slice of lemon, please.",
+          "id": "listen-29-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why is changing the order possible?",
+          "options": [
+            "The woman knows the manager.",
+            "The shop has run out of coffee.",
+            "The original drink has not been made.",
+            "The woman is paying an additional fee."
+          ],
+          "answer": 2,
+          "explanation": "店员同意更改单子并说明饮料尚未制作，这是可以变更订单的直接原因。",
+          "quote": "We haven't prepared your drink yet.",
+          "id": "listen-29-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "I ordered a large coffee, but I need to change it to tea. Is it too late?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Not at all. We haven't prepared your drink yet. Would you like milk in the tea?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Just a slice of lemon, please."
+        },
+        {
+          "speaker": "Man",
+          "text": "Certainly. There's no extra charge. We'll call your number when the order is ready."
+        }
+      ]
+    },
+    {
+      "id": "listen-30",
+      "title": "招募海报缺了什么",
+      "subtitle": "One Detail Missing from the Poster",
+      "topic": "校园活动",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 23 秒",
+      "body": "Man: Does this poster have enough information for our volunteer event?\nWoman: The location and starting time are clear, but people won't know how to register.\nMan: I could put my phone number at the bottom.\nWoman: An online form would be easier. Add its code, and we can collect everyone's preferred task before Saturday.",
+      "vocabulary": [
+        {
+          "word": "volunteer",
+          "meaning": "志愿者；志愿的"
+        },
+        {
+          "word": "register",
+          "meaning": "登记；报名"
+        },
+        {
+          "word": "preferred",
+          "meaning": "更喜欢的；首选的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What information is missing from the poster?",
+          "options": [
+            "When the event begins.",
+            "What day comes after Saturday.",
+            "Where the event takes place.",
+            "How to sign up for the event."
+          ],
+          "answer": 3,
+          "explanation": "地点和开始时间已经清楚，女生指出大家不知道如何报名，缺少的是报名方式。",
+          "quote": "The location and starting time are clear, but people won't know how to register.",
+          "id": "listen-30-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "What advantage does the woman see in an online form?",
+          "options": [
+            "It can change the event location automatically.",
+            "It can provide free phones for everyone.",
+            "It can remove the need for volunteers.",
+            "It can gather volunteers' task preferences."
+          ],
+          "answer": 3,
+          "explanation": "女生补充表格可以提前收集每个人偏好的任务，因此不只是展示一个联系方式。",
+          "quote": "Add its code, and we can collect everyone's preferred task before Saturday.",
+          "id": "listen-30-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "Does this poster have enough information for our volunteer event?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "The location and starting time are clear, but people won't know how to register."
+        },
+        {
+          "speaker": "Man",
+          "text": "I could put my phone number at the bottom."
+        },
+        {
+          "speaker": "Woman",
+          "text": "An online form would be easier. Add its code, and we can collect everyone's preferred task before Saturday."
+        }
+      ]
+    },
+    {
+      "id": "listen-31",
+      "title": "还书之前先续借",
+      "subtitle": "Renewing a Library Book",
+      "topic": "校园生活",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Woman: My library book is due today, but I still need two chapters for my essay.\nMan: You can usually renew it online for another week.\nWoman: I tried, but the website says another reader has requested it.\nMan: Then you must return it today. Ask the librarian whether a digital copy is available for your remaining research.",
+      "vocabulary": [
+        {
+          "word": "due",
+          "meaning": "到期的"
+        },
+        {
+          "word": "renew",
+          "meaning": "续借；更新"
+        },
+        {
+          "word": "remaining",
+          "meaning": "剩余的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "Why can the woman not renew the book?",
+          "options": [
+            "She borrowed a digital copy.",
+            "The library website has closed.",
+            "She has already finished her essay.",
+            "Another reader has reserved it."
+          ],
+          "answer": 3,
+          "explanation": "女生已尝试网上续借，但系统提示另有读者预约，因此不能继续延长借期。",
+          "quote": "I tried, but the website says another reader has requested it.",
+          "id": "listen-31-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What does the man suggest she ask about?",
+          "options": [
+            "Whether she can keep the book without permission.",
+            "Whether she can use an electronic version.",
+            "Whether the next reader will write her essay.",
+            "Whether she can remove two chapters."
+          ],
+          "answer": 1,
+          "explanation": "男生建议按时归还纸书，并询问是否有电子版，以便继续完成剩余研究。",
+          "quote": "Ask the librarian whether a digital copy is available for your remaining research.",
+          "id": "listen-31-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "My library book is due today, but I still need two chapters for my essay."
+        },
+        {
+          "speaker": "Man",
+          "text": "You can usually renew it online for another week."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I tried, but the website says another reader has requested it."
+        },
+        {
+          "speaker": "Man",
+          "text": "Then you must return it today. Ask the librarian whether a digital copy is available for your remaining research."
+        }
+      ]
+    },
+    {
+      "id": "listen-32",
+      "title": "户外演出遇上雨",
+      "subtitle": "Rain on the Concert Day",
+      "topic": "文化休闲",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Man: The weather forecast says heavy rain this evening. Will the outdoor concert be canceled?\nWoman: No, the organizers have moved it into the sports hall.\nMan: Do we need different tickets?\nWoman: Our original tickets are still valid. But the doors now open at seven instead of six thirty, so we don't need to rush.",
+      "vocabulary": [
+        {
+          "word": "forecast",
+          "meaning": "预报"
+        },
+        {
+          "word": "organizers",
+          "meaning": "组织者"
+        },
+        {
+          "word": "valid",
+          "meaning": "有效的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What has changed about the concert?",
+          "options": [
+            "It has been moved to next month.",
+            "It will take place indoors.",
+            "It now requires a more expensive ticket.",
+            "It has been canceled completely."
+          ],
+          "answer": 1,
+          "explanation": "组织者把户外演出移到了体育馆，演出并没有取消，原来的票也仍然有效。",
+          "quote": "No, the organizers have moved it into the sports hall.",
+          "id": "listen-32-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "When will the doors open now?",
+          "options": [
+            "At seven thirty.",
+            "At six thirty.",
+            "At six o'clock.",
+            "At seven o'clock."
+          ],
+          "answer": 3,
+          "explanation": "女生说明新入场时间是七点，六点半是此前的时间，需要听出前后的变更。",
+          "quote": "But the doors now open at seven instead of six thirty, so we don't need to rush.",
+          "id": "listen-32-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "The weather forecast says heavy rain this evening. Will the outdoor concert be canceled?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "No, the organizers have moved it into the sports hall."
+        },
+        {
+          "speaker": "Man",
+          "text": "Do we need different tickets?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Our original tickets are still valid. But the doors now open at seven instead of six thirty, so we don't need to rush."
+        }
+      ]
+    },
+    {
+      "id": "listen-33",
+      "title": "跑步先别求快",
+      "subtitle": "Starting at a Comfortable Pace",
+      "topic": "运动健康",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 26 秒",
+      "body": "Woman: I'm thinking of joining your running group, but I can't run very fast.\nMan: Speed isn't important. We have a beginner group that alternates walking and running.\nWoman: That sounds manageable. Do I need to pay for the first session?\nMan: No, you can try it free on Sunday. Bring water, and arrive ten minutes early for the warm-up.",
+      "vocabulary": [
+        {
+          "word": "alternates",
+          "meaning": "交替进行"
+        },
+        {
+          "word": "manageable",
+          "meaning": "可以应付的"
+        },
+        {
+          "word": "session",
+          "meaning": "一次活动；一节课"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What does the beginner group do?",
+          "options": [
+            "It trains only professional athletes.",
+            "It switches between walking and running.",
+            "It meets only for races.",
+            "It runs at top speed throughout."
+          ],
+          "answer": 1,
+          "explanation": "男生说初学组会在步行和跑步之间交替进行，因此不要求全程高速奔跑。",
+          "quote": "We have a beginner group that alternates walking and running.",
+          "id": "listen-33-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What should the woman do before the session?",
+          "options": [
+            "Pay a full year's membership fee.",
+            "Come early to warm up.",
+            "Complete a race on Saturday.",
+            "Leave her water at home."
+          ],
+          "answer": 1,
+          "explanation": "男生提醒带水并提前十分钟到场热身，第一次周日体验不收费。",
+          "quote": "Bring water, and arrive ten minutes early for the warm-up.",
+          "id": "listen-33-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "I'm thinking of joining your running group, but I can't run very fast."
+        },
+        {
+          "speaker": "Man",
+          "text": "Speed isn't important. We have a beginner group that alternates walking and running."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That sounds manageable. Do I need to pay for the first session?"
+        },
+        {
+          "speaker": "Man",
+          "text": "No, you can try it free on Sunday. Bring water, and arrive ten minutes early for the warm-up."
+        }
+      ]
+    },
+    {
+      "id": "listen-34",
+      "title": "拍照之前问一句",
+      "subtitle": "Taking Photos in the Gallery",
+      "topic": "文化休闲",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 25 秒",
+      "body": "Man: May I take a photograph of this painting?\nWoman: Yes, personal photographs are allowed in this room, but please turn off the flash.\nMan: What about the special exhibition upstairs?\nWoman: Photography isn't permitted there because some works belong to private collectors. There's a free booklet at the entrance if you'd like a record of the exhibition.",
+      "vocabulary": [
+        {
+          "word": "allowed",
+          "meaning": "获准的"
+        },
+        {
+          "word": "permitted",
+          "meaning": "被允许的"
+        },
+        {
+          "word": "collectors",
+          "meaning": "收藏者"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What must the man do when photographing this painting?",
+          "options": [
+            "Switch off the flash.",
+            "Ask the owner to move the painting.",
+            "Pay for a private guide.",
+            "Go to the exhibition upstairs."
+          ],
+          "answer": 0,
+          "explanation": "当前房间允许个人拍照，但工作人员明确要求关闭闪光灯，并非完全禁止摄影。",
+          "quote": "Yes, personal photographs are allowed in this room, but please turn off the flash.",
+          "id": "listen-34-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "Why are photographs forbidden upstairs?",
+          "options": [
+            "All the paintings are unfinished.",
+            "The upstairs room has no lighting.",
+            "Some displayed works are privately owned.",
+            "Visitors must buy a booklet first."
+          ],
+          "answer": 2,
+          "explanation": "楼上特展的部分作品来自私人收藏，这是不允许拍照的原因；手册可以免费领取。",
+          "quote": "Photography isn't permitted there because some works belong to private collectors.",
+          "id": "listen-34-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "May I take a photograph of this painting?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Yes, personal photographs are allowed in this room, but please turn off the flash."
+        },
+        {
+          "speaker": "Man",
+          "text": "What about the special exhibition upstairs?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Photography isn't permitted there because some works belong to private collectors. There's a free booklet at the entrance if you'd like a record of the exhibition."
+        }
+      ]
+    },
+    {
+      "id": "listen-35",
+      "title": "快递放到哪里了",
+      "subtitle": "A Parcel in the Wrong Place",
+      "topic": "日常生活",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 27 秒",
+      "body": "Woman: The delivery message says my parcel has arrived, but it's not outside my door.\nMan: Did you check the reception desk? Large packages are often left there.\nWoman: Mine is just a small box of headphones.\nMan: Then look at the photo in the message. It might show which entrance the driver used. Our building has two similar doorways.",
+      "vocabulary": [
+        {
+          "word": "parcel",
+          "meaning": "包裹"
+        },
+        {
+          "word": "reception",
+          "meaning": "接待处"
+        },
+        {
+          "word": "similar",
+          "meaning": "相似的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What has the woman ordered?",
+          "options": [
+            "A large reception desk.",
+            "A new mobile phone.",
+            "A pair of headphones.",
+            "Two boxes of books."
+          ],
+          "answer": 2,
+          "explanation": "女生表示包裹只是一个装耳机的小盒子，所以不能根据大包裹的惯例直接判断位置。",
+          "quote": "Mine is just a small box of headphones.",
+          "id": "listen-35-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why might the delivery photo be helpful?",
+          "options": [
+            "It will change the address on the parcel.",
+            "It will show whether the headphones work.",
+            "It proves the woman was outside all day.",
+            "It may reveal which doorway the driver visited."
+          ],
+          "answer": 3,
+          "explanation": "男生提到楼里有两个相似入口，照片可以帮助分辨快递员实际送到了哪一处。",
+          "quote": "It might show which entrance the driver used. Our building has two similar doorways.",
+          "id": "listen-35-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Woman",
+          "text": "The delivery message says my parcel has arrived, but it's not outside my door."
+        },
+        {
+          "speaker": "Man",
+          "text": "Did you check the reception desk? Large packages are often left there."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Mine is just a small box of headphones."
+        },
+        {
+          "speaker": "Man",
+          "text": "Then look at the photo in the message. It might show which entrance the driver used. Our building has two similar doorways."
+        }
+      ]
+    },
+    {
+      "id": "listen-36",
+      "title": "二手桌子怎么运",
+      "subtitle": "Collecting a Second-hand Desk",
+      "topic": "消费与环保",
+      "difficulty": "B1",
+      "format": "dialogue",
+      "durationHint": "约 24 秒",
+      "body": "Man: Is the desk in your advertisement still for sale?\nWoman: Yes. There are a few marks on top, but all the drawers work properly.\nMan: Could you deliver it? I don't have a car.\nWoman: I'm afraid not, but the legs can be removed. It should fit in a taxi if you bring someone to help carry it.",
+      "vocabulary": [
+        {
+          "word": "advertisement",
+          "meaning": "广告"
+        },
+        {
+          "word": "properly",
+          "meaning": "正常地；恰当地"
+        },
+        {
+          "word": "removed",
+          "meaning": "移除；拆下"
+        }
+      ],
+      "questions": [
+        {
+          "type": "detail",
+          "prompt": "What does the woman say about the desk?",
+          "options": [
+            "Its legs cannot be taken off.",
+            "Its drawers need replacing.",
+            "Its drawers work despite some surface marks.",
+            "It has already been sold."
+          ],
+          "answer": 2,
+          "explanation": "女生说明桌面有少量痕迹，但抽屉全部正常，不能把表面瑕疵理解成功能损坏。",
+          "quote": "There are a few marks on top, but all the drawers work properly.",
+          "id": "listen-36-q1"
+        },
+        {
+          "type": "inference",
+          "prompt": "How could the man transport the desk?",
+          "options": [
+            "Ask the seller to deliver it for free.",
+            "Wait for the seller to buy a car.",
+            "Remove the legs and use a taxi with help.",
+            "Carry the whole desk onto an airplane."
+          ],
+          "answer": 2,
+          "explanation": "卖家无法送货，但桌腿可拆，建议找人协助后用出租车运走，关键是拆卸后再运输。",
+          "quote": "It should fit in a taxi if you bring someone to help carry it.",
+          "id": "listen-36-q2"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "Man",
+          "text": "Is the desk in your advertisement still for sale?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Yes. There are a few marks on top, but all the drawers work properly."
+        },
+        {
+          "speaker": "Man",
+          "text": "Could you deliver it? I don't have a car."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I'm afraid not, but the legs can be removed. It should fit in a taxi if you bring someone to help carry it."
+        }
+      ]
+    },
+    {
+      "id": "listen-37",
+      "title": "校车临时换站",
+      "subtitle": "A Temporary Bus Stop",
+      "topic": "校园通知",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 37 秒",
+      "body": "Attention, passengers. From Monday to Wednesday, the campus bus will not stop outside the science building because the road is being repaired. Please use the temporary stop beside the east gate instead. The bus timetable will remain the same. A member of staff will be there during the morning rush to direct passengers. If you need step-free access, follow the signs to the lower entrance. We expect the usual stop to reopen on Thursday, and any further changes will be posted on the transport website.",
+      "vocabulary": [
+        {
+          "word": "temporary",
+          "meaning": "临时的"
+        },
+        {
+          "word": "remain",
+          "meaning": "保持"
+        },
+        {
+          "word": "access",
+          "meaning": "通行；使用机会"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the announcement mainly about?",
+          "options": [
+            "A permanent increase in ticket prices.",
+            "The opening of a new science course.",
+            "A temporary change to a bus stop.",
+            "The cancellation of every campus bus."
+          ],
+          "answer": 2,
+          "explanation": "通知围绕道路维修期间临时改站展开，时刻表保持不变，没有取消所有班车。",
+          "quote": "Please use the temporary stop beside the east gate instead.",
+          "id": "listen-37-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "When is the usual stop expected to reopen?",
+          "options": [
+            "On Wednesday morning.",
+            "On Thursday.",
+            "On Monday.",
+            "On Tuesday."
+          ],
+          "answer": 1,
+          "explanation": "停靠调整持续周一至周三，通知明确预计周四恢复原站点，需要区分起止时间。",
+          "quote": "We expect the usual stop to reopen on Thursday, and any further changes will be posted on the transport website.",
+          "id": "listen-37-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "What should a wheelchair user probably follow?",
+          "options": [
+            "Signs to a staircase inside the laboratory.",
+            "Instructions to wait until Thursday.",
+            "Signs leading to the lower entrance.",
+            "A notice about buying a new ticket."
+          ],
+          "answer": 2,
+          "explanation": "step-free access 指无需走台阶的通道，因此需要无障碍通行的乘客应按指示去低处入口。",
+          "quote": "If you need step-free access, follow the signs to the lower entrance.",
+          "id": "listen-37-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-38",
+      "title": "旧物交换角",
+      "subtitle": "The Swap Shelf",
+      "topic": "社区环保",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 36 秒",
+      "body": "Our community center has opened a swap shelf for things people no longer need. You may leave clean books, working kitchen tools, or unused notebooks, and take something useful in return. Please do not bring food or electrical devices, since volunteers cannot check their safety. You do not have to exchange items of equal value. The aim is to keep useful things in use, not to run a shop. Volunteers inspect the shelf each Friday and donate any suitable items that have remained there for a month.",
+      "vocabulary": [
+        {
+          "word": "exchange",
+          "meaning": "交换"
+        },
+        {
+          "word": "equal",
+          "meaning": "相等的"
+        },
+        {
+          "word": "inspect",
+          "meaning": "检查"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the main purpose of the swap shelf?",
+          "options": [
+            "To sell expensive electrical products.",
+            "To help people reuse useful objects.",
+            "To compare the prices of new books.",
+            "To collect food for a restaurant."
+          ],
+          "answer": 1,
+          "explanation": "说话人明确指出目的是让有用物品继续被使用，交换角并不是一家以赚钱为目的的商店。",
+          "quote": "The aim is to keep useful things in use, not to run a shop.",
+          "id": "listen-38-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "Which item can people leave on the shelf?",
+          "options": [
+            "An unused notebook.",
+            "A broken kitchen tool.",
+            "An old electric heater.",
+            "A bag of fresh food."
+          ],
+          "answer": 0,
+          "explanation": "允许提供干净书籍、能用的厨房工具和未使用笔记本，食品、电器与坏工具不符合要求。",
+          "quote": "You may leave clean books, working kitchen tools, or unused notebooks, and take something useful in return.",
+          "id": "listen-38-q2"
+        },
+        {
+          "type": "vocabulary",
+          "prompt": "What does \"equal\" mean in the talk?",
+          "options": [
+            "Unusual in shape or color.",
+            "Easy to carry in one hand.",
+            "The same in amount or value.",
+            "Available for a limited time."
+          ],
+          "answer": 2,
+          "explanation": "equal 修饰 value，谈论的是价值相等；原文说明不要求交换的物品价值一致。",
+          "quote": "You do not have to exchange items of equal value.",
+          "id": "listen-38-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-39",
+      "title": "午间十分钟",
+      "subtitle": "A Short Walking Break",
+      "topic": "学习与生活",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 36 秒",
+      "body": "I used to spend my entire lunch break at my desk, watching videos while I ate. By three o'clock, I often found it difficult to concentrate. Last month, I began taking a ten-minute walk after lunch without my phone. I still have the same amount of work, but I return feeling more alert. On rainy days, I walk along the covered corridor instead of going outside. The change is small enough to repeat every day, which matters more to me than making an ambitious plan I cannot maintain.",
+      "vocabulary": [
+        {
+          "word": "concentrate",
+          "meaning": "集中注意力"
+        },
+        {
+          "word": "alert",
+          "meaning": "清醒的；警觉的"
+        },
+        {
+          "word": "maintain",
+          "meaning": "维持；坚持"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What change is the speaker describing?",
+          "options": [
+            "Working from home every afternoon.",
+            "Adding a short daily walk after lunch.",
+            "Watching more videos during lunch.",
+            "Replacing lunch with a long workout."
+          ],
+          "answer": 1,
+          "explanation": "前后对比的核心是从午休一直坐着看视频，变成午饭后不带手机走十分钟。",
+          "quote": "Last month, I began taking a ten-minute walk after lunch without my phone.",
+          "id": "listen-39-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What does the speaker do when it rains?",
+          "options": [
+            "Walks in a covered corridor.",
+            "Spends the whole day watching videos.",
+            "Goes running without an umbrella.",
+            "Cancels lunch and continues working."
+          ],
+          "answer": 0,
+          "explanation": "说话人说明雨天改走有遮蔽的走廊，所以散步习惯不必因天气而中断。",
+          "quote": "On rainy days, I walk along the covered corridor instead of going outside.",
+          "id": "listen-39-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why does the speaker prefer this small change?",
+          "options": [
+            "It is easier to keep doing consistently.",
+            "It guarantees that it will never rain.",
+            "It removes every task from the afternoon.",
+            "It requires buying expensive equipment."
+          ],
+          "answer": 0,
+          "explanation": "结尾强调小改变足够容易每天重复，比无法坚持的宏大计划更有价值，重点是持续性。",
+          "quote": "The change is small enough to repeat every day, which matters more to me than making an ambitious plan I cannot maintain.",
+          "id": "listen-39-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-40",
+      "title": "给手机充电的规矩",
+      "subtitle": "Using the Charging Lockers",
+      "topic": "公共服务",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 33 秒",
+      "body": "Visitors can now charge their phones in secure lockers near the museum cafe. Each locker has a cable and a screen where you choose a personal code. Charging is free for the first thirty minutes. After that, a small fee applies, so remember to collect your phone before leaving. Staff cannot tell you your code, but they can help if you have forgotten it and can prove the phone is yours. Please keep tickets stored on your phone accessible elsewhere if you will need them during your visit.",
+      "vocabulary": [
+        {
+          "word": "secure",
+          "meaning": "安全的"
+        },
+        {
+          "word": "applies",
+          "meaning": "适用；生效"
+        },
+        {
+          "word": "prove",
+          "meaning": "证明"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the speaker explaining?",
+          "options": [
+            "How to use phone-charging lockers.",
+            "How to book a museum tour online.",
+            "How to repair a damaged phone screen.",
+            "How to order food at the cafe."
+          ],
+          "answer": 0,
+          "explanation": "通知介绍充电柜的位置、密码设置、收费和取回手机的注意事项，主要是使用说明。",
+          "quote": "Visitors can now charge their phones in secure lockers near the museum cafe.",
+          "id": "listen-40-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "How long is charging free?",
+          "options": [
+            "For the entire museum visit.",
+            "For two hours every morning.",
+            "For the first thirty minutes.",
+            "For the first ten minutes."
+          ],
+          "answer": 2,
+          "explanation": "免费的时段仅为最初三十分钟，超过后会收费，不能理解成全程免费。",
+          "quote": "Charging is free for the first thirty minutes.",
+          "id": "listen-40-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why should visitors keep another way to access digital tickets?",
+          "options": [
+            "The charging cables will delete the tickets.",
+            "The museum never accepts electronic tickets.",
+            "Their phones may be locked away when tickets are needed.",
+            "The cafe sells tickets only in the morning."
+          ],
+          "answer": 2,
+          "explanation": "手机充电时在柜中，参观途中可能仍要出示票，因此应提前准备其他可查票方式。",
+          "quote": "Please keep tickets stored on your phone accessible elsewhere if you will need them during your visit.",
+          "id": "listen-40-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-41",
+      "title": "录一段自己的声音",
+      "subtitle": "Listening to Your Own Practice",
+      "topic": "语言学习",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 38 秒",
+      "body": "For this week's speaking task, record yourself describing a familiar place for one minute. Listen once for meaning: can a listener follow your description? Then listen again for words you repeat too often. Choose just one thing to improve and make a second recording. You do not need to remove every pause or sound like a native speaker. The purpose is to make your message clearer. Keep both recordings so you can compare them next week. Please submit the second version by Friday evening, together with one sentence about what you changed.",
+      "vocabulary": [
+        {
+          "word": "description",
+          "meaning": "描述"
+        },
+        {
+          "word": "purpose",
+          "meaning": "目的"
+        },
+        {
+          "word": "submit",
+          "meaning": "提交"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the main goal of the task?",
+          "options": [
+            "To communicate a description more clearly.",
+            "To memorize a long unfamiliar article.",
+            "To copy a native speaker's voice perfectly.",
+            "To remove every pause from natural speech."
+          ],
+          "answer": 0,
+          "explanation": "老师明确说明目的在于让信息更清楚，不要求完全没有停顿，也不要求模仿母语者口音。",
+          "quote": "The purpose is to make your message clearer.",
+          "id": "listen-41-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What should students submit?",
+          "options": [
+            "Only a list of every word they repeated.",
+            "Both recordings without any comment.",
+            "The second recording and a sentence about their change.",
+            "A photograph of a familiar place."
+          ],
+          "answer": 2,
+          "explanation": "结尾要求周五晚交第二版录音，并附一句解释自己修改了什么，保留两版不等于都要提交。",
+          "quote": "Please submit the second version by Friday evening, together with one sentence about what you changed.",
+          "id": "listen-41-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "Why are students asked to keep both recordings?",
+          "options": [
+            "To let the software remove all mistakes.",
+            "To prove the first version was perfect.",
+            "To notice how their speaking changes over time.",
+            "To avoid doing any practice next week."
+          ],
+          "answer": 2,
+          "explanation": "老师让学生保留两次录音以便下周比较，因此是为了观察改进，而非只保存最终成品。",
+          "quote": "Keep both recordings so you can compare them next week.",
+          "id": "listen-41-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-42",
+      "title": "周末菜园值班",
+      "subtitle": "A Morning in the Community Garden",
+      "topic": "志愿服务",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 36 秒",
+      "body": "Thank you for joining Saturday's garden session. We will meet at nine beside the tool shed. New volunteers will work with an experienced partner, so no gardening knowledge is required. Please bring drinking water and wear shoes that can get dirty. Gloves and tools will be provided. If the ground is too wet to work safely, we will sort seeds indoors instead. The session finishes at eleven thirty. Before you leave, please return tools to the marked shelves so the next group can find everything easily.",
+      "vocabulary": [
+        {
+          "word": "experienced",
+          "meaning": "有经验的"
+        },
+        {
+          "word": "required",
+          "meaning": "需要的；必需的"
+        },
+        {
+          "word": "provided",
+          "meaning": "被提供的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "Who is the announcement intended for?",
+          "options": [
+            "Customers buying expensive garden tools.",
+            "Students attending an evening lecture.",
+            "Visitors entering a sports competition.",
+            "People volunteering in a community garden."
+          ],
+          "answer": 3,
+          "explanation": "通知直接感谢大家参加周六菜园活动，并说明志愿者分工、装备与时间，因此对象是园艺志愿者。",
+          "quote": "New volunteers will work with an experienced partner, so no gardening knowledge is required.",
+          "id": "listen-42-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What should participants bring themselves?",
+          "options": [
+            "A set of marked shelves.",
+            "Drinking water.",
+            "Gloves for every volunteer.",
+            "All the gardening tools."
+          ],
+          "answer": 1,
+          "explanation": "通知要求自带饮水并穿耐脏鞋，手套和工具由组织方提供，需要区分自带与提供的物品。",
+          "quote": "Please bring drinking water and wear shoes that can get dirty.",
+          "id": "listen-42-q2"
+        },
+        {
+          "type": "detail",
+          "prompt": "What will happen if the ground is too wet?",
+          "options": [
+            "Everyone must buy different shoes.",
+            "Volunteers will sort seeds indoors.",
+            "The session will move to Sunday night.",
+            "The group will work faster outside."
+          ],
+          "answer": 1,
+          "explanation": "地面过湿时会改成室内整理种子，这是雨湿条件下的替代活动，而非继续冒险作业。",
+          "quote": "If the ground is too wet to work safely, we will sort seeds indoors instead.",
+          "id": "listen-42-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-43",
+      "title": "早餐别只剩排队",
+      "subtitle": "Pre-ordering Breakfast",
+      "topic": "校园服务",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 38 秒",
+      "body": "The college cafe is testing a breakfast pre-order service this month. Students can choose a meal online before ten at night and collect it from a separate counter the following morning. Orders must be paid for in advance, but they can be canceled until seven in the morning. The cafe hopes this will shorten queues and reduce food waste by preparing more accurate quantities. During the trial, only three breakfast combinations are available. Students can suggest new options through the feedback form, although suggestions will not change orders already placed.",
+      "vocabulary": [
+        {
+          "word": "separate",
+          "meaning": "单独的"
+        },
+        {
+          "word": "quantities",
+          "meaning": "数量"
+        },
+        {
+          "word": "feedback",
+          "meaning": "反馈"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "Why is the cafe trying the new service?",
+          "options": [
+            "To require students to eat the same food.",
+            "To replace all meals with online lessons.",
+            "To stop serving breakfast on campus.",
+            "To reduce waiting and prepare food more accurately."
+          ],
+          "answer": 3,
+          "explanation": "原文给出两个目的：缩短队伍，并根据更准确的数量备餐以减少浪费，答案需概括两点。",
+          "quote": "The cafe hopes this will shorten queues and reduce food waste by preparing more accurate quantities.",
+          "id": "listen-43-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "When can an order be canceled?",
+          "options": [
+            "Until seven in the morning.",
+            "Only before ten in the morning.",
+            "At any time after collection.",
+            "Only at midnight on Friday."
+          ],
+          "answer": 0,
+          "explanation": "晚上十点是预订截止时间，早晨七点是取消截止时间，两项时间不可混淆。",
+          "quote": "Orders must be paid for in advance, but they can be canceled until seven in the morning.",
+          "id": "listen-43-q2"
+        },
+        {
+          "type": "vocabulary",
+          "prompt": "What does \"trial\" refer to in this talk?",
+          "options": [
+            "A period of testing the service.",
+            "A permanent ban on breakfast orders.",
+            "A formal competition between cooks.",
+            "A punishment for ordering late."
+          ],
+          "answer": 0,
+          "explanation": "开头说明本月正在 testing 新服务，因此 trial 在此是试运行阶段，而非比赛或惩罚。",
+          "quote": "During the trial, only three breakfast combinations are available.",
+          "id": "listen-43-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-44",
+      "title": "把故事借给别人听",
+      "subtitle": "Recording Local Memories",
+      "topic": "社区文化",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 37 秒",
+      "body": "Our neighborhood history project is looking for residents willing to share a memory of the area. You do not need an unusual story; everyday experiences can show how a place has changed. Interviews will take about twenty minutes and can be recorded at home or at the community center. Before anything is published, you will receive a copy and can ask us to remove details. Recordings will be shared on the local library's website only with your permission. If you prefer not to use your real name, please tell the interviewer beforehand.",
+      "vocabulary": [
+        {
+          "word": "residents",
+          "meaning": "居民"
+        },
+        {
+          "word": "published",
+          "meaning": "被公开；被发表"
+        },
+        {
+          "word": "permission",
+          "meaning": "许可"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the project collecting?",
+          "options": [
+            "Residents' memories of their neighborhood.",
+            "Reviews of new recording equipment.",
+            "Applications for a housing discount.",
+            "Plans for replacing the local library."
+          ],
+          "answer": 0,
+          "explanation": "项目邀请居民分享当地记忆，日常经历也可以帮助呈现社区变化，并不限定重大故事。",
+          "quote": "Our neighborhood history project is looking for residents willing to share a memory of the area.",
+          "id": "listen-44-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "How long will an interview take?",
+          "options": [
+            "At least three hours.",
+            "About twenty minutes.",
+            "About five minutes.",
+            "About an hour and a half."
+          ],
+          "answer": 1,
+          "explanation": "通知明确每次采访约二十分钟，可以在家或社区中心录制，地点并非只有一种。",
+          "quote": "Interviews will take about twenty minutes and can be recorded at home or at the community center.",
+          "id": "listen-44-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "What can participants control?",
+          "options": [
+            "The length of every other recording.",
+            "Which neighbors must be interviewed.",
+            "The library's entire yearly budget.",
+            "Whether their recordings are shared publicly."
+          ],
+          "answer": 3,
+          "explanation": "录音只有获得本人许可才会放上图书馆网站，参与者可以决定是否公开自己的录音。",
+          "quote": "Recordings will be shared on the local library's website only with your permission.",
+          "id": "listen-44-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-45",
+      "title": "不要急着买新相机",
+      "subtitle": "Borrow Before You Buy",
+      "topic": "消费选择",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 38 秒",
+      "body": "When I joined the photography club, I planned to buy an expensive camera immediately. A club member suggested borrowing one first. For two weeks, I used the club's equipment to photograph buildings, people, and evening scenes. I discovered that carrying a heavy camera made me take fewer pictures. I eventually chose a smaller model with fewer features but one I would actually bring along. Borrowing did not tell me which camera everyone should buy. It helped me understand what mattered in my own use, before I spent the money.",
+      "vocabulary": [
+        {
+          "word": "equipment",
+          "meaning": "设备"
+        },
+        {
+          "word": "eventually",
+          "meaning": "最终"
+        },
+        {
+          "word": "features",
+          "meaning": "功能；特点"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What did borrowing a camera help the speaker do?",
+          "options": [
+            "Avoid taking any photographs outdoors.",
+            "Find the most expensive model in the shop.",
+            "Identify personal needs before making a purchase.",
+            "Prove that nobody needs camera equipment."
+          ],
+          "answer": 2,
+          "explanation": "结尾强调借用帮助自己了解真实使用需求，再决定花钱，核心不是替所有人选同一台相机。",
+          "quote": "It helped me understand what mattered in my own use, before I spent the money.",
+          "id": "listen-45-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What problem did the speaker have with a heavy camera?",
+          "options": [
+            "It had no settings for evening scenes.",
+            "It could not photograph any buildings.",
+            "It could not be borrowed from the club.",
+            "It discouraged the speaker from taking pictures."
+          ],
+          "answer": 3,
+          "explanation": "说话人发现沉重的相机会让自己减少拍照，因此最终更看重愿意随身携带的轻便机型。",
+          "quote": "I discovered that carrying a heavy camera made me take fewer pictures.",
+          "id": "listen-45-q2"
+        },
+        {
+          "type": "inference",
+          "prompt": "What principle guided the final choice?",
+          "options": [
+            "The largest model was the easiest to carry.",
+            "A higher price always guaranteed a better fit.",
+            "Every club member had to buy the same camera.",
+            "Practical use mattered more than having many features."
+          ],
+          "answer": 3,
+          "explanation": "最后选择功能更少但实际愿意带出门的小机型，说明适合自身使用比堆叠功能更重要。",
+          "quote": "I eventually chose a smaller model with fewer features but one I would actually bring along.",
+          "id": "listen-45-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-46",
+      "title": "夜间自习室新规则",
+      "subtitle": "The Evening Study Room",
+      "topic": "校园通知",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 34 秒",
+      "body": "The evening study room will remain open until eleven during the exam period. Seats are available without booking, but please do not leave belongings to reserve a place for a friend. If you step out for more than twenty minutes, take your things with you so another student can use the seat. Phone calls should be made in the corridor, and hot meals are not allowed inside. Staff will give a closing reminder fifteen minutes before eleven. Please save your work then rather than waiting until the lights are switched off.",
+      "vocabulary": [
+        {
+          "word": "belongings",
+          "meaning": "个人物品"
+        },
+        {
+          "word": "reserve",
+          "meaning": "预留"
+        },
+        {
+          "word": "reminder",
+          "meaning": "提醒"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What is the announcement mainly about?",
+          "options": [
+            "A new system for ordering hot meals.",
+            "A change to the university's exam subjects.",
+            "Rules for using an evening study room.",
+            "How to apply for a job in the library."
+          ],
+          "answer": 2,
+          "explanation": "通知从开放时间到占座、离席、通话、用餐与关门前保存工作，集中说明自习室使用规范。",
+          "quote": "Seats are available without booking, but please do not leave belongings to reserve a place for a friend.",
+          "id": "listen-46-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What should students do if they leave for more than twenty minutes?",
+          "options": [
+            "Ask a friend to block the seat.",
+            "Take their belongings away.",
+            "Make a booking for the whole night.",
+            "Leave a hot meal on the table."
+          ],
+          "answer": 1,
+          "explanation": "离开超过二十分钟应带走物品，让其他学生可以使用座位，不能靠留东西长期占座。",
+          "quote": "If you step out for more than twenty minutes, take your things with you so another student can use the seat.",
+          "id": "listen-46-q2"
+        },
+        {
+          "type": "detail",
+          "prompt": "At what time will staff give the closing reminder?",
+          "options": [
+            "At ten thirty.",
+            "At ten fifteen.",
+            "At eleven fifteen.",
+            "At ten forty-five."
+          ],
+          "answer": 3,
+          "explanation": "自习室十一点关闭，工作人员提前十五分钟提醒，因此提醒时间是十点四十五分。",
+          "quote": "Staff will give a closing reminder fifteen minutes before eleven.",
+          "id": "listen-46-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-47",
+      "title": "包裹延误后的邮件",
+      "subtitle": "An Update on Your Delivery",
+      "topic": "工作沟通",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 37 秒",
+      "body": "This is a message for customers expecting a delivery today. A problem at our sorting center has delayed several packages, including yours. Your order is now expected to arrive tomorrow afternoon. You do not need to place the order again or contact the seller. We will send a tracking update when the package leaves the center. If tomorrow is inconvenient, use the link in this message to choose a later date or collection point. We apologize for the delay; changing your delivery arrangement through this link will not involve an extra fee.",
+      "vocabulary": [
+        {
+          "word": "delayed",
+          "meaning": "延误的"
+        },
+        {
+          "word": "inconvenient",
+          "meaning": "不方便的"
+        },
+        {
+          "word": "arrangement",
+          "meaning": "安排"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "Why is the company sending this message?",
+          "options": [
+            "To ask customers to buy the same order twice.",
+            "To explain a delivery delay and the available choices.",
+            "To announce that every package has been lost.",
+            "To advertise a new seller's products."
+          ],
+          "answer": 1,
+          "explanation": "邮件说明分拣中心故障导致延误，并提供改期或自提选择，没有要求重新下单。",
+          "quote": "A problem at our sorting center has delayed several packages, including yours.",
+          "id": "listen-47-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "When is the package now expected to arrive?",
+          "options": [
+            "Tonight before midnight.",
+            "This morning.",
+            "Next month on the same date.",
+            "Tomorrow afternoon."
+          ],
+          "answer": 3,
+          "explanation": "原计划今天送达，更新后的预计时间是明天下午，需要听清最新安排。",
+          "quote": "Your order is now expected to arrive tomorrow afternoon.",
+          "id": "listen-47-q2"
+        },
+        {
+          "type": "detail",
+          "prompt": "What can a customer do if the new delivery time is inconvenient?",
+          "options": [
+            "Choose another date or a collection point through the link.",
+            "Travel to the sorting center immediately.",
+            "Ask the seller to delete the tracking record.",
+            "Pay again to replace the original order."
+          ],
+          "answer": 0,
+          "explanation": "邮件提供链接选择较晚日期或自提点，并说明这样更改不需要额外费用。",
+          "quote": "If tomorrow is inconvenient, use the link in this message to choose a later date or collection point.",
+          "id": "listen-47-q3"
+        }
+      ]
+    },
+    {
+      "id": "listen-48",
+      "title": "把任务拆小一点",
+      "subtitle": "Making a Large Task Easier to Start",
+      "topic": "学习方法",
+      "difficulty": "B1",
+      "format": "short",
+      "durationHint": "约 38 秒",
+      "body": "I often postponed writing reports because I imagined having to finish everything in one sitting. My tutor suggested replacing 'write the report' on my list with a much smaller action: choose three useful sources. Once that was done, the next action was to draft five questions. This did not make the whole project shorter, but it made starting less intimidating. I could also see what I had completed each day. I still set a final deadline, but now my daily list describes a clear next step rather than the entire unfinished project.",
+      "vocabulary": [
+        {
+          "word": "postponed",
+          "meaning": "推迟"
+        },
+        {
+          "word": "draft",
+          "meaning": "草拟"
+        },
+        {
+          "word": "intimidating",
+          "meaning": "令人畏惧的"
+        }
+      ],
+      "questions": [
+        {
+          "type": "main",
+          "prompt": "What strategy did the speaker find helpful?",
+          "options": [
+            "Dividing a large project into clear small actions.",
+            "Choosing sources only after writing the conclusion.",
+            "Finishing a full report in one sitting.",
+            "Removing every deadline from the calendar."
+          ],
+          "answer": 0,
+          "explanation": "导师让说话人把写报告拆成选资料、拟问题等小行动，因此策略是明确而可执行的任务拆解。",
+          "quote": "My tutor suggested replacing 'write the report' on my list with a much smaller action: choose three useful sources.",
+          "id": "listen-48-q1"
+        },
+        {
+          "type": "detail",
+          "prompt": "What was the first small action?",
+          "options": [
+            "Choosing three useful sources.",
+            "Writing five complete reports.",
+            "Changing the final submission date.",
+            "Drafting the entire conclusion."
+          ],
+          "answer": 0,
+          "explanation": "原文先选择三份有用资料，之后才草拟五个问题，题目询问的是最初的小步骤。",
+          "quote": "My tutor suggested replacing 'write the report' on my list with a much smaller action: choose three useful sources.",
+          "id": "listen-48-q2"
+        },
+        {
+          "type": "vocabulary",
+          "prompt": "What does \"intimidating\" mean in this context?",
+          "options": [
+            "Taking less physical space on a desk.",
+            "Allowing a project to run without a deadline.",
+            "Making someone feel worried or afraid to begin.",
+            "Providing exact information about prices."
+          ],
+          "answer": 2,
+          "explanation": "此前因认为必须一次完成而拖延，拆小后更敢开始，因此 intimidating 指令人畏惧、难以下手的。",
+          "quote": "This did not make the whole project shorter, but it made starting less intimidating.",
+          "id": "listen-48-q3"
         }
       ]
     }
