@@ -250,134 +250,422 @@
     {
       "id": "listen-25",
       "file": "listen-25.mp3",
-      "seconds": 24.05,
+      "seconds": 24.29,
       "words": 51,
-      "wordsPerMinute": 127.2,
-      "bytes": 192620,
-      "sha256": "e00b2ec99730873b02ee54d3a073ccc11f82b5883a07be0f80c51630000f0fb1",
+      "wordsPerMinute": 126.0,
+      "bytes": 194540,
+      "sha256": "b6c98d507d5ba18c9ce252bd7875dcb27e57353a43c2682b8c4fbc35c6effcef",
       "scriptSha256": "3a79461ca861d519471728cbf4de7305cacad185da05b66d4f24f00d65f368b6",
-      "synthesisSha256": "92c8f7272c8907a32e7bd093880d12a461acf2c0b7f7f906184892d2f886b8a9"
+      "synthesisSha256": "a6a551148950382463acab4c01115e24356af0ea207caae02424267f845a5c24",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
     },
     {
       "id": "listen-26",
       "file": "listen-26.mp3",
-      "seconds": 24.07,
+      "seconds": 24.1,
       "words": 51,
-      "wordsPerMinute": 127.1,
-      "bytes": 192812,
-      "sha256": "2726b5c1e75c56dcfae5c50bebca38ecb182692ac15bdaf226239ab0edfc5e56",
+      "wordsPerMinute": 127.0,
+      "bytes": 193004,
+      "sha256": "841d836c1ee2fa3b1bda9e878f48fd80629455d6563334289b07aac6418f6a59",
       "scriptSha256": "dbe412c2b73ff654591f4f0f3c8de329d1b31009ca91b9fe5ba9a08d652e696a",
-      "synthesisSha256": "f303038085ff74181744ad33364ef3d97de48216ec746053b08d5d2db26b347f"
+      "synthesisSha256": "6dbc39b66549e2d86da07f083c3c720a5b13b5b9af36ddb44060a537954487b6",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
     },
     {
       "id": "listen-27",
       "file": "listen-27.mp3",
-      "seconds": 24.86,
+      "seconds": 25.2,
       "words": 52,
-      "wordsPerMinute": 125.5,
-      "bytes": 199148,
-      "sha256": "c46c37eaaf41e5726c27020304542e5bdc901a017ac2d33a3b788ac713d8a828",
+      "wordsPerMinute": 123.8,
+      "bytes": 201836,
+      "sha256": "5a7ef4501f8133e4ba16d5f09e876e7ba13515e469998de5edd2bd084a83ccff",
       "scriptSha256": "6abd60ebc6bcb267e8a527e19e23423da7cb715333daf802b53af6b939aaced8",
-      "synthesisSha256": "b01d18cb346072ed22adf47ddf040a47cef5f27abb3ffea48733975af858ff70"
+      "synthesisSha256": "b2b407048f5062007a716ad266b522c41faa840d1ded502f8b95d0114eb6ff4b",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
     },
     {
       "id": "listen-28",
       "file": "listen-28.mp3",
-      "seconds": 23.81,
-      "words": 52,
-      "wordsPerMinute": 131.0,
-      "bytes": 190700,
-      "sha256": "c9b9c00669c05de3339d7b5f7ac105ab23056c1f2f0fbbbc0ef3a13597b9c64c",
-      "scriptSha256": "11abc4a44d66db1a54e65a0b9c340cbc70e24b867881be57873efbaf4af3641d",
-      "synthesisSha256": "89b9a6a62ae68bfa55c1ab9d8d8e92753016e9cb97226079f1aeaa5c1fceaf74"
-    },
-    {
-      "id": "listen-29",
-      "file": "listen-29.mp3",
-      "seconds": 25.42,
-      "words": 53,
-      "wordsPerMinute": 125.1,
-      "bytes": 203564,
-      "sha256": "d51dc7422bc81b00ce2c116587410d1b9f5317385d79eb1eec11474b6c2dcc00",
-      "scriptSha256": "d31094bee3d3f798deed061e4b0055dd634922aa6656e6817ac81e56bf590da9",
-      "synthesisSha256": "f2167ea86344f804c14a88b049447fdea51e85dc31de1c7f364c3dff740b964f"
-    },
-    {
-      "id": "listen-30",
-      "file": "listen-30.mp3",
-      "seconds": 23.21,
-      "words": 51,
-      "wordsPerMinute": 131.9,
-      "bytes": 185900,
-      "sha256": "c53bcf813646582db9f5c2838967ae5ae9dd22f99d0adf2a54804ef4d0cd9e53",
-      "scriptSha256": "d90429c13906de7e493d1adc5b1f842623032c6e6b28ecf6a51b750f4ffbfc9e",
-      "synthesisSha256": "391f281775d46c1ad3435a32f47de37f226775054037d4dab7bf29961aeded8a"
-    },
-    {
-      "id": "listen-31",
-      "file": "listen-31.mp3",
-      "seconds": 23.81,
-      "words": 54,
-      "wordsPerMinute": 136.1,
-      "bytes": 190700,
-      "sha256": "b3065acd87b670caabde9e14037f1ae6d258a4dfb9273a40a3f7e72f5550c524",
-      "scriptSha256": "52c553da33a284bc5f8dfa39111dd25f9f33cb4142f518e3fe0ff6b3317cc9ac",
-      "synthesisSha256": "5ee191bacad0a4133b51d3a5651a173c635117d4bcc8ffa5ca8c2a8ef316e216"
-    },
-    {
-      "id": "listen-32",
-      "file": "listen-32.mp3",
       "seconds": 24.02,
       "words": 52,
       "wordsPerMinute": 129.9,
       "bytes": 192428,
-      "sha256": "9fb8f6aed971bb9460760c136ce30429b00fd3ede76c7c8d6d21d27c56b7c369",
+      "sha256": "cc348296f0b06fae55bc333b6522db36599b33effd448852dbff946e935a5068",
+      "scriptSha256": "11abc4a44d66db1a54e65a0b9c340cbc70e24b867881be57873efbaf4af3641d",
+      "synthesisSha256": "b4a27cf3505f3ce1d9e97411b235dae0dff65e9d3f4bdd7b4ea61ef918cb1029",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
+    },
+    {
+      "id": "listen-29",
+      "file": "listen-29.mp3",
+      "seconds": 27.1,
+      "words": 53,
+      "wordsPerMinute": 117.3,
+      "bytes": 217004,
+      "sha256": "3e819ee97ba5df70a0a57764476c5fac53c45d9bc56a9574b7b57ae9fa0c5182",
+      "scriptSha256": "d31094bee3d3f798deed061e4b0055dd634922aa6656e6817ac81e56bf590da9",
+      "synthesisSha256": "8791e234a783708f80280089f4ce075cb5ba939e71546749bd0345136c73d670",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
+    },
+    {
+      "id": "listen-30",
+      "file": "listen-30.mp3",
+      "seconds": 23.78,
+      "words": 51,
+      "wordsPerMinute": 128.7,
+      "bytes": 190508,
+      "sha256": "bd1402462d36953b92760840c365cbc2873f9ea54efba3fd43f50469e443d67f",
+      "scriptSha256": "d90429c13906de7e493d1adc5b1f842623032c6e6b28ecf6a51b750f4ffbfc9e",
+      "synthesisSha256": "538f8b1ced29d63d53e7996d7e504eb8d0f7b508c3b8284bcb676b0695bb9673",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
+    },
+    {
+      "id": "listen-31",
+      "file": "listen-31.mp3",
+      "seconds": 24.46,
+      "words": 54,
+      "wordsPerMinute": 132.5,
+      "bytes": 195884,
+      "sha256": "92f54e525d558e71d5477949a0d9a4e84e53368283ddf47dae7062088b43c0ef",
+      "scriptSha256": "52c553da33a284bc5f8dfa39111dd25f9f33cb4142f518e3fe0ff6b3317cc9ac",
+      "synthesisSha256": "aa3984ee4f56b2a87b92fe1cfc1e5895c9a9eef20b05262482965b85912bd551",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
+    },
+    {
+      "id": "listen-32",
+      "file": "listen-32.mp3",
+      "seconds": 24.6,
+      "words": 52,
+      "wordsPerMinute": 126.8,
+      "bytes": 197036,
+      "sha256": "cba707ff3e28754d055288e214514c27d2918ac5f30655e03b73be8cfb9f38e7",
       "scriptSha256": "740855bd5f64426b600804053b3dd0e6564660dc1c14498cca9955412cf4fd4e",
-      "synthesisSha256": "d5ebd833b2f163db66f0a90c2c4035afa3afcb7119cc04c12a1fd5f06305a9f3"
+      "synthesisSha256": "d619366cad06465f2efb2ed96c8a799a74ef2d72632a76bcf55fd6f3805e8b60",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
     },
     {
       "id": "listen-33",
       "file": "listen-33.mp3",
-      "seconds": 26.23,
+      "seconds": 26.64,
       "words": 56,
-      "wordsPerMinute": 128.1,
-      "bytes": 210092,
-      "sha256": "e7add57012be8c4aa4f7688d5cb960f2fb6140b761e4c08f7de025988b24f677",
+      "wordsPerMinute": 126.1,
+      "bytes": 213356,
+      "sha256": "7d1e29d12b753773bbd1d579f99f851417213c03bf2a9f92f701fced6ddb9838",
       "scriptSha256": "78dcb710a0f2a66d02a1866bbdfb496a0524917e32c2e79e04a4e01a2cde0d97",
-      "synthesisSha256": "3f7aecab487ed5ecfa16b6680d98509276f630a19a32a774b3a799c7fdf5ee39"
+      "synthesisSha256": "d34eefed9b66189f296403b4a4284756ba00cfd056c7bac34c0902fa71c396a5",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
     },
     {
       "id": "listen-34",
       "file": "listen-34.mp3",
-      "seconds": 24.96,
+      "seconds": 25.18,
       "words": 54,
-      "wordsPerMinute": 129.8,
-      "bytes": 199916,
-      "sha256": "37ddee4c344416acdcce1546a592d546dbc1f9ec6c1b9cfba3e16cd4aabd756f",
+      "wordsPerMinute": 128.7,
+      "bytes": 201644,
+      "sha256": "9d4f8690d1211414f0601d8d4fe49a5c01092a25a29afc8876ccb97baf02676d",
       "scriptSha256": "9b5d0198c12dc818f23359c1e997220878ef0249a3fbdb6ce86c124601a78d54",
-      "synthesisSha256": "51d02a0d9bfce1fde737a064526f36ef5b420f51e7323dc094dd057edf037976"
+      "synthesisSha256": "cff2f95cc7d92811a02b9ce81714033c1eaad5ab068582b8c4bf585ea813f251",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
     },
     {
       "id": "listen-35",
       "file": "listen-35.mp3",
-      "seconds": 26.52,
+      "seconds": 27.22,
       "words": 56,
-      "wordsPerMinute": 126.7,
-      "bytes": 212396,
-      "sha256": "3740d9e3e3c408b171ba1199d994f1161a8ffeed395917f87ca9e72820b037a9",
+      "wordsPerMinute": 123.5,
+      "bytes": 217964,
+      "sha256": "85b5078b204bc899338cba97c035e8b79ee7a7559a998cbfc7202c4b75b941db",
       "scriptSha256": "d3e378f1cec67a899ca9bc7bc7c4362af49c25b916b2b7c25b89ef2ab24f0042",
-      "synthesisSha256": "d95e22a1063f6b9b22b697c642c69509ba7f1df6958a897e4ee548168eae1ec7"
+      "synthesisSha256": "2e5257432dcf4be8c3b1e7cb5d9f1e5ec468667a16742b796e3868b248e542bb",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        }
+      ]
     },
     {
       "id": "listen-36",
       "file": "listen-36.mp3",
-      "seconds": 24.02,
+      "seconds": 24.65,
       "words": 55,
-      "wordsPerMinute": 137.4,
-      "bytes": 192428,
-      "sha256": "ff7f66ddffd9ee629ea510caea4b9c364deaa1af8af5fe709387d109c0fea2bc",
+      "wordsPerMinute": 133.9,
+      "bytes": 197420,
+      "sha256": "bc8142254fa40823cfb53f4c99786729682f68896109e73715642212a169122c",
       "scriptSha256": "d74d12414daeb7fdb0c47dbd952644595c3f57028fa29c0e6cbe5cafb38eb0cc",
-      "synthesisSha256": "c8bf619df7aa490dd4d852aa396e2ad3cb82f3be0fa0f517612168859b62abc2"
+      "synthesisSha256": "de401ffe50b9b5bcdc118c0ca153b3a6ed0868e9d613fe6db750b041c7d4073b",
+      "engine": "Microsoft neural TTS via edge-tts",
+      "voices": {
+        "Man": "en-US-GuyNeural",
+        "Woman": "en-US-JennyNeural"
+      },
+      "rate": "-10%",
+      "speakers": [
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        },
+        {
+          "speaker": "Man",
+          "voice": "en-US-GuyNeural"
+        },
+        {
+          "speaker": "Woman",
+          "voice": "en-US-JennyNeural"
+        }
+      ]
     },
     {
       "id": "listen-37",
@@ -511,5 +799,10 @@
       "scriptSha256": "e31b707fade6b1ee7d2af2ed0ff935264969e5c8782ec811530c60212c1992a9",
       "synthesisSha256": "e31b707fade6b1ee7d2af2ed0ff935264969e5c8782ec811530c60212c1992a9"
     }
-  ]
+  ],
+  "dialogueVoices": {
+    "Man": "en-US-GuyNeural",
+    "Woman": "en-US-JennyNeural"
+  },
+  "notice": "Original monologues use local SAPI; original dialogues use separate Guy and Jenny neural voices."
 }

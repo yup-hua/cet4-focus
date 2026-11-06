@@ -1,0 +1,3609 @@
+{
+  "version": 1,
+  "file": "audio/words.mp3",
+  "voice": "Microsoft Zira Desktop",
+  "engine": "Windows SAPI",
+  "sha256": "eb17abbeda5ee9ea4dca3e4e245f1480f1e054a2b8b7a122441c03805c99ca27",
+  "items": {
+    "crisis": {
+      "word": "crisis",
+      "start": 0,
+      "end": 1.6344
+    },
+    "define": {
+      "word": "define",
+      "start": 2.1344,
+      "end": 3.5687
+    },
+    "element": {
+      "word": "element",
+      "start": 4.0687,
+      "end": 5.513
+    },
+    "status": {
+      "word": "status",
+      "start": 6.013,
+      "end": 7.6074
+    },
+    "vision": {
+      "word": "vision",
+      "start": 8.1074,
+      "end": 9.5517
+    },
+    "solution": {
+      "word": "solution",
+      "start": 10.0517,
+      "end": 11.741
+    },
+    "scale": {
+      "word": "scale",
+      "start": 12.241,
+      "end": 13.7054
+    },
+    "attempt": {
+      "word": "attempt",
+      "start": 14.2054,
+      "end": 15.6448
+    },
+    "lack": {
+      "word": "lack",
+      "start": 16.1448,
+      "end": 17.4141
+    },
+    "distance": {
+      "word": "distance",
+      "start": 17.9141,
+      "end": 19.6135
+    },
+    "handle": {
+      "word": "handle",
+      "start": 20.1135,
+      "end": 21.4779
+    },
+    "survey": {
+      "word": "survey",
+      "start": 21.9779,
+      "end": 23.3172
+    },
+    "tradition": {
+      "word": "tradition",
+      "start": 23.8172,
+      "end": 25.3915
+    },
+    "gain": {
+      "word": "gain",
+      "start": 25.8915,
+      "end": 27.1909
+    },
+    "resident": {
+      "word": "resident",
+      "start": 27.6909,
+      "end": 29.1352
+    },
+    "potential": {
+      "word": "potential",
+      "start": 29.6352,
+      "end": 31.1646
+    },
+    "presence": {
+      "word": "presence",
+      "start": 31.6646,
+      "end": 33.2689
+    },
+    "independent": {
+      "word": "independent",
+      "start": 33.7689,
+      "end": 35.3932
+    },
+    "district": {
+      "word": "district",
+      "start": 35.8932,
+      "end": 37.4425
+    },
+    "contract": {
+      "word": "contract",
+      "start": 37.9425,
+      "end": 39.5568
+    },
+    "strength": {
+      "word": "strength",
+      "start": 40.0568,
+      "end": 41.7212
+    },
+    "previous": {
+      "word": "previous",
+      "start": 42.2212,
+      "end": 43.7056
+    },
+    "obviously": {
+      "word": "obviously",
+      "start": 44.2056,
+      "end": 45.8249
+    },
+    "target": {
+      "word": "target",
+      "start": 46.3249,
+      "end": 47.7492
+    },
+    "demand": {
+      "word": "demand",
+      "start": 48.2492,
+      "end": 49.6536
+    },
+    "deliver": {
+      "word": "deliver",
+      "start": 50.1536,
+      "end": 51.4979
+    },
+    "observe": {
+      "word": "observe",
+      "start": 51.9979,
+      "end": 53.4722
+    },
+    "facility": {
+      "word": "facility",
+      "start": 53.9722,
+      "end": 55.4615
+    },
+    "average": {
+      "word": "average",
+      "start": 55.9615,
+      "end": 57.4909
+    },
+    "emerge": {
+      "word": "emerge",
+      "start": 57.9909,
+      "end": 59.4153
+    },
+    "leadership": {
+      "word": "leadership",
+      "start": 59.9153,
+      "end": 61.4496
+    },
+    "basis": {
+      "word": "basis",
+      "start": 61.9496,
+      "end": 63.509
+    },
+    "operate": {
+      "word": "operate",
+      "start": 64.009,
+      "end": 65.4434
+    },
+    "sample": {
+      "word": "sample",
+      "start": 65.9434,
+      "end": 67.3777
+    },
+    "contribute": {
+      "word": "contribute",
+      "start": 67.8777,
+      "end": 69.447
+    },
+    "protection": {
+      "word": "protection",
+      "start": 69.947,
+      "end": 71.6113
+    },
+    "settle": {
+      "word": "settle",
+      "start": 72.1113,
+      "end": 73.4406
+    },
+    "additional": {
+      "word": "additional",
+      "start": 73.9406,
+      "end": 75.3849
+    },
+    "identity": {
+      "word": "identity",
+      "start": 75.8849,
+      "end": 77.3542
+    },
+    "faith": {
+      "word": "faith",
+      "start": 77.8542,
+      "end": 79.2486
+    },
+    "promote": {
+      "word": "promote",
+      "start": 79.7486,
+      "end": 81.103
+    },
+    "technique": {
+      "word": "technique",
+      "start": 81.603,
+      "end": 83.0973
+    },
+    "principle": {
+      "word": "principle",
+      "start": 83.5973,
+      "end": 85.0667
+    },
+    "survive": {
+      "word": "survive",
+      "start": 85.5667,
+      "end": 87.0911
+    },
+    "border": {
+      "word": "border",
+      "start": 87.5911,
+      "end": 88.9004
+    },
+    "limit": {
+      "word": "limit",
+      "start": 89.4004,
+      "end": 90.7548
+    },
+    "equipment": {
+      "word": "equipment",
+      "start": 91.2548,
+      "end": 92.7591
+    },
+    "associate": {
+      "word": "associate",
+      "start": 93.2591,
+      "end": 94.8384
+    },
+    "critic": {
+      "word": "critic",
+      "start": 95.3384,
+      "end": 96.7177
+    },
+    "aspect": {
+      "word": "aspect",
+      "start": 97.2177,
+      "end": 98.8221
+    },
+    "failure": {
+      "word": "failure",
+      "start": 99.3221,
+      "end": 100.8064
+    },
+    "annual": {
+      "word": "annual",
+      "start": 101.3064,
+      "end": 102.7008
+    },
+    "comment": {
+      "word": "comment",
+      "start": 103.2008,
+      "end": 104.6601
+    },
+    "affair": {
+      "word": "affair",
+      "start": 105.1601,
+      "end": 106.5295
+    },
+    "responsible": {
+      "word": "responsible",
+      "start": 107.0295,
+      "end": 108.6637
+    },
+    "procedure": {
+      "word": "procedure",
+      "start": 109.1637,
+      "end": 110.698
+    },
+    "regular": {
+      "word": "regular",
+      "start": 111.198,
+      "end": 112.6523
+    },
+    "ignore": {
+      "word": "ignore",
+      "start": 113.1523,
+      "end": 114.5367
+    },
+    "belief": {
+      "word": "belief",
+      "start": 115.0367,
+      "end": 116.4611
+    },
+    "demonstrate": {
+      "word": "demonstrate",
+      "start": 116.9611,
+      "end": 118.6954
+    },
+    "religion": {
+      "word": "religion",
+      "start": 119.1954,
+      "end": 120.6547
+    },
+    "editor": {
+      "word": "editor",
+      "start": 121.1547,
+      "end": 122.464
+    },
+    "engage": {
+      "word": "engage",
+      "start": 122.964,
+      "end": 124.4385
+    },
+    "document": {
+      "word": "document",
+      "start": 124.9385,
+      "end": 126.4778
+    },
+    "commit": {
+      "word": "commit",
+      "start": 126.9778,
+      "end": 128.3072
+    },
+    "threaten": {
+      "word": "threaten",
+      "start": 128.8072,
+      "end": 130.2665
+    },
+    "female": {
+      "word": "female",
+      "start": 130.7665,
+      "end": 132.2309
+    },
+    "wave": {
+      "word": "wave",
+      "start": 132.7309,
+      "end": 134.0703
+    },
+    "native": {
+      "word": "native",
+      "start": 134.5703,
+      "end": 136.0647
+    },
+    "broad": {
+      "word": "broad",
+      "start": 136.5647,
+      "end": 137.8441
+    },
+    "deny": {
+      "word": "deny",
+      "start": 138.3441,
+      "end": 139.5635
+    },
+    "slightly": {
+      "word": "slightly",
+      "start": 140.0635,
+      "end": 141.5179
+    },
+    "reaction": {
+      "word": "reaction",
+      "start": 142.0179,
+      "end": 143.6222
+    },
+    "suit": {
+      "word": "suit",
+      "start": 144.1222,
+      "end": 145.4916
+    },
+    "perspective": {
+      "word": "perspective",
+      "start": 145.9916,
+      "end": 147.6059
+    },
+    "construction": {
+      "word": "construction",
+      "start": 148.1059,
+      "end": 149.8852
+    },
+    "intelligence": {
+      "word": "intelligence",
+      "start": 150.3852,
+      "end": 152.1145
+    },
+    "destroy": {
+      "word": "destroy",
+      "start": 152.6145,
+      "end": 154.0989
+    },
+    "connection": {
+      "word": "connection",
+      "start": 154.5989,
+      "end": 156.1832
+    },
+    "committee": {
+      "word": "committee",
+      "start": 156.6832,
+      "end": 157.9525
+    },
+    "location": {
+      "word": "location",
+      "start": 158.4525,
+      "end": 160.1268
+    },
+    "aware": {
+      "word": "aware",
+      "start": 160.6268,
+      "end": 161.9412
+    },
+    "function": {
+      "word": "function",
+      "start": 162.4412,
+      "end": 164.0906
+    },
+    "extend": {
+      "word": "extend",
+      "start": 164.5906,
+      "end": 166.215
+    },
+    "chief": {
+      "word": "chief",
+      "start": 166.715,
+      "end": 168.1094
+    },
+    "combine": {
+      "word": "combine",
+      "start": 168.6094,
+      "end": 170.1588
+    },
+    "moral": {
+      "word": "moral",
+      "start": 170.6588,
+      "end": 171.9932
+    },
+    "relatively": {
+      "word": "relatively",
+      "start": 172.4932,
+      "end": 173.9824
+    },
+    "academic": {
+      "word": "academic",
+      "start": 174.4824,
+      "end": 176.0217
+    },
+    "negative": {
+      "word": "negative",
+      "start": 176.5217,
+      "end": 177.951
+    },
+    "historical": {
+      "word": "historical",
+      "start": 178.451,
+      "end": 180.0403
+    },
+    "contact": {
+      "word": "contact",
+      "start": 180.5403,
+      "end": 182.0846
+    },
+    "justice": {
+      "word": "justice",
+      "start": 182.5846,
+      "end": 184.274
+    },
+    "participate": {
+      "word": "participate",
+      "start": 184.774,
+      "end": 186.4133
+    },
+    "hire": {
+      "word": "hire",
+      "start": 186.9133,
+      "end": 188.2027
+    },
+    "familiar": {
+      "word": "familiar",
+      "start": 188.7027,
+      "end": 190.1769
+    },
+    "appropriate": {
+      "word": "appropriate",
+      "start": 190.6769,
+      "end": 192.3062
+    },
+    "democracy": {
+      "word": "democracy",
+      "start": 192.8062,
+      "end": 194.4204
+    },
+    "device": {
+      "word": "device",
+      "start": 194.9204,
+      "end": 196.3148
+    },
+    "exchange": {
+      "word": "exchange",
+      "start": 196.8148,
+      "end": 198.4891
+    },
+    "colleague": {
+      "word": "colleague",
+      "start": 198.9891,
+      "end": 200.4135
+    },
+    "application": {
+      "word": "application",
+      "start": 200.9135,
+      "end": 202.6878
+    },
+    "damage": {
+      "word": "damage",
+      "start": 203.1878,
+      "end": 204.6622
+    },
+    "otherwise": {
+      "word": "otherwise",
+      "start": 205.1622,
+      "end": 206.6466
+    },
+    "male": {
+      "word": "male",
+      "start": 207.1466,
+      "end": 208.416
+    },
+    "expression": {
+      "word": "expression",
+      "start": 208.916,
+      "end": 210.5753
+    },
+    "intend": {
+      "word": "intend",
+      "start": 211.0753,
+      "end": 212.5247
+    },
+    "abuse": {
+      "word": "abuse",
+      "start": 213.0247,
+      "end": 214.499
+    },
+    "session": {
+      "word": "session",
+      "start": 214.999,
+      "end": 216.5684
+    },
+    "domestic": {
+      "word": "domestic",
+      "start": 217.0684,
+      "end": 218.5828
+    },
+    "literature": {
+      "word": "literature",
+      "start": 219.0828,
+      "end": 220.657
+    },
+    "desire": {
+      "word": "desire",
+      "start": 221.157,
+      "end": 222.5513
+    },
+    "injury": {
+      "word": "injury",
+      "start": 223.0513,
+      "end": 224.3806
+    },
+    "respect": {
+      "word": "respect",
+      "start": 224.8806,
+      "end": 226.48
+    },
+    "fuel": {
+      "word": "fuel",
+      "start": 226.98,
+      "end": 228.3494
+    },
+    "engine": {
+      "word": "engine",
+      "start": 228.8494,
+      "end": 230.3187
+    },
+    "expand": {
+      "word": "expand",
+      "start": 230.8187,
+      "end": 232.4481
+    },
+    "importance": {
+      "word": "importance",
+      "start": 232.9481,
+      "end": 234.6325
+    },
+    "software": {
+      "word": "software",
+      "start": 235.1325,
+      "end": 236.7468
+    },
+    "disappear": {
+      "word": "disappear",
+      "start": 237.2468,
+      "end": 238.7211
+    },
+    "urban": {
+      "word": "urban",
+      "start": 239.2211,
+      "end": 240.6205
+    },
+    "mental": {
+      "word": "mental",
+      "start": 241.1205,
+      "end": 242.4348
+    },
+    "increasingly": {
+      "word": "increasingly",
+      "start": 242.9348,
+      "end": 244.6092
+    },
+    "explore": {
+      "word": "explore",
+      "start": 245.1092,
+      "end": 246.7135
+    },
+    "obtain": {
+      "word": "obtain",
+      "start": 247.2135,
+      "end": 248.6579
+    },
+    "complex": {
+      "word": "complex",
+      "start": 249.1579,
+      "end": 250.8773
+    },
+    "surround": {
+      "word": "surround",
+      "start": 251.3773,
+      "end": 252.8667
+    },
+    "scientific": {
+      "word": "scientific",
+      "start": 253.3667,
+      "end": 255.1659
+    },
+    "panel": {
+      "word": "panel",
+      "start": 255.6659,
+      "end": 256.9803
+    },
+    "instrument": {
+      "word": "instrument",
+      "start": 257.4803,
+      "end": 259.0595
+    },
+    "predict": {
+      "word": "predict",
+      "start": 259.5595,
+      "end": 261.0338
+    },
+    "commitment": {
+      "word": "commitment",
+      "start": 261.5338,
+      "end": 263.0381
+    },
+    "emotional": {
+      "word": "emotional",
+      "start": 263.5381,
+      "end": 264.9824
+    },
+    "supreme": {
+      "word": "supreme",
+      "start": 265.4824,
+      "end": 267.0618
+    },
+    "poll": {
+      "word": "poll",
+      "start": 267.5618,
+      "end": 268.8162
+    },
+    "proposal": {
+      "word": "proposal",
+      "start": 269.3162,
+      "end": 270.8155
+    },
+    "consequence": {
+      "word": "consequence",
+      "start": 271.3155,
+      "end": 273.0998
+    },
+    "balance": {
+      "word": "balance",
+      "start": 273.5998,
+      "end": 275.1542
+    },
+    "adopt": {
+      "word": "adopt",
+      "start": 275.6542,
+      "end": 277.0336
+    },
+    "minority": {
+      "word": "minority",
+      "start": 277.5336,
+      "end": 279.0679
+    },
+    "belong": {
+      "word": "belong",
+      "start": 279.5679,
+      "end": 280.9623
+    },
+    "okay": {
+      "word": "okay",
+      "start": 281.4623,
+      "end": 282.7317
+    },
+    "organize": {
+      "word": "organize",
+      "start": 283.2317,
+      "end": 284.681
+    },
+    "trail": {
+      "word": "trail",
+      "start": 285.181,
+      "end": 286.5404
+    },
+    "novel": {
+      "word": "novel",
+      "start": 287.0404,
+      "end": 288.3797
+    },
+    "code": {
+      "word": "code",
+      "start": 288.8797,
+      "end": 290.0941
+    },
+    "somehow": {
+      "word": "somehow",
+      "start": 290.5941,
+      "end": 292.0235
+    },
+    "jury": {
+      "word": "jury",
+      "start": 292.5235,
+      "end": 293.7979
+    },
+    "breast": {
+      "word": "breast",
+      "start": 294.2979,
+      "end": 295.7973
+    },
+    "acknowledge": {
+      "word": "acknowledge",
+      "start": 296.2973,
+      "end": 297.8516
+    },
+    "theme": {
+      "word": "theme",
+      "start": 298.3516,
+      "end": 299.706
+    },
+    "union": {
+      "word": "union",
+      "start": 300.206,
+      "end": 301.7604
+    },
+    "conclusion": {
+      "word": "conclusion",
+      "start": 302.2604,
+      "end": 303.9196
+    },
+    "prime": {
+      "word": "prime",
+      "start": 304.4196,
+      "end": 305.809
+    },
+    "shadow": {
+      "word": "shadow",
+      "start": 306.309,
+      "end": 307.6634
+    },
+    "struggle": {
+      "word": "struggle",
+      "start": 308.1634,
+      "end": 309.5927
+    },
+    "conclude": {
+      "word": "conclude",
+      "start": 310.0927,
+      "end": 311.5721
+    },
+    "regulation": {
+      "word": "regulation",
+      "start": 312.0721,
+      "end": 313.7863
+    },
+    "shift": {
+      "word": "shift",
+      "start": 314.2863,
+      "end": 315.7758
+    },
+    "revenue": {
+      "word": "revenue",
+      "start": 316.2758,
+      "end": 317.6001
+    },
+    "locate": {
+      "word": "locate",
+      "start": 318.1001,
+      "end": 319.4845
+    },
+    "appearance": {
+      "word": "appearance",
+      "start": 319.9845,
+      "end": 321.5988
+    },
+    "recommend": {
+      "word": "recommend",
+      "start": 322.0988,
+      "end": 323.6031
+    },
+    "obvious": {
+      "word": "obvious",
+      "start": 324.1031,
+      "end": 325.5825
+    },
+    "basically": {
+      "word": "basically",
+      "start": 326.0825,
+      "end": 327.5668
+    },
+    "generate": {
+      "word": "generate",
+      "start": 328.0668,
+      "end": 329.5312
+    },
+    "propose": {
+      "word": "propose",
+      "start": 330.0312,
+      "end": 331.4706
+    },
+    "possibly": {
+      "word": "possibly",
+      "start": 331.9706,
+      "end": 333.4649
+    },
+    "trend": {
+      "word": "trend",
+      "start": 333.9649,
+      "end": 335.3743
+    },
+    "loan": {
+      "word": "loan",
+      "start": 335.8743,
+      "end": 337.1837
+    },
+    "profit": {
+      "word": "profit",
+      "start": 337.6837,
+      "end": 339.188
+    },
+    "crew": {
+      "word": "crew",
+      "start": 339.688,
+      "end": 340.9124
+    },
+    "muscle": {
+      "word": "muscle",
+      "start": 341.4124,
+      "end": 342.7717
+    },
+    "notion": {
+      "word": "notion",
+      "start": 343.2717,
+      "end": 344.8161
+    },
+    "capture": {
+      "word": "capture",
+      "start": 345.3161,
+      "end": 346.8054
+    },
+    "prefer": {
+      "word": "prefer",
+      "start": 347.3054,
+      "end": 348.7597
+    },
+    "cash": {
+      "word": "cash",
+      "start": 349.2597,
+      "end": 350.5991
+    },
+    "beauty": {
+      "word": "beauty",
+      "start": 351.0991,
+      "end": 352.3535
+    },
+    "emergency": {
+      "word": "emergency",
+      "start": 352.8535,
+      "end": 354.4278
+    },
+    "unique": {
+      "word": "unique",
+      "start": 354.9278,
+      "end": 356.3572
+    },
+    "internal": {
+      "word": "internal",
+      "start": 356.8572,
+      "end": 358.2966
+    },
+    "link": {
+      "word": "link",
+      "start": 358.7966,
+      "end": 360.1509
+    },
+    "stress": {
+      "word": "stress",
+      "start": 360.6509,
+      "end": 362.2503
+    },
+    "content": {
+      "word": "content",
+      "start": 362.7503,
+      "end": 364.2447
+    },
+    "select": {
+      "word": "select",
+      "start": 364.7447,
+      "end": 366.2141
+    },
+    "root": {
+      "word": "root",
+      "start": 366.7141,
+      "end": 367.9735
+    },
+    "declare": {
+      "word": "declare",
+      "start": 368.4735,
+      "end": 369.8778
+    },
+    "appreciate": {
+      "word": "appreciate",
+      "start": 370.3778,
+      "end": 371.9971
+    },
+    "actual": {
+      "word": "actual",
+      "start": 372.4971,
+      "end": 373.8714
+    },
+    "launch": {
+      "word": "launch",
+      "start": 374.3714,
+      "end": 375.7958
+    },
+    "file": {
+      "word": "file",
+      "start": 376.2958,
+      "end": 377.6552
+    },
+    "outcome": {
+      "word": "outcome",
+      "start": 378.1552,
+      "end": 379.6645
+    },
+    "defend": {
+      "word": "defend",
+      "start": 380.1645,
+      "end": 381.6189
+    },
+    "sheet": {
+      "word": "sheet",
+      "start": 382.1189,
+      "end": 383.4283
+    },
+    "ensure": {
+      "word": "ensure",
+      "start": 383.9283,
+      "end": 385.4177
+    },
+    "ought": {
+      "word": "ought",
+      "start": 385.9177,
+      "end": 387.0871
+    },
+    "extremely": {
+      "word": "extremely",
+      "start": 387.5871,
+      "end": 389.1015
+    },
+    "extent": {
+      "word": "extent",
+      "start": 389.6015,
+      "end": 391.2209
+    },
+    "component": {
+      "word": "component",
+      "start": 391.7209,
+      "end": 393.2951
+    },
+    "contrast": {
+      "word": "contrast",
+      "start": 393.7951,
+      "end": 395.5395
+    },
+    "zone": {
+      "word": "zone",
+      "start": 396.0395,
+      "end": 397.4589
+    },
+    "ultimately": {
+      "word": "ultimately",
+      "start": 397.9589,
+      "end": 399.4581
+    },
+    "contribution": {
+      "word": "contribution",
+      "start": 399.9581,
+      "end": 401.8023
+    },
+    "capacity": {
+      "word": "capacity",
+      "start": 402.3023,
+      "end": 403.8215
+    },
+    "estate": {
+      "word": "estate",
+      "start": 404.3215,
+      "end": 405.836
+    },
+    "guide": {
+      "word": "guide",
+      "start": 406.336,
+      "end": 407.5504
+    },
+    "circumstance": {
+      "word": "circumstance",
+      "start": 408.0504,
+      "end": 409.9546
+    },
+    "politician": {
+      "word": "politician",
+      "start": 410.4546,
+      "end": 412.1839
+    },
+    "pursue": {
+      "word": "pursue",
+      "start": 412.6839,
+      "end": 414.0683
+    },
+    "slip": {
+      "word": "slip",
+      "start": 414.5683,
+      "end": 415.9777
+    },
+    "percentage": {
+      "word": "percentage",
+      "start": 416.4777,
+      "end": 418.072
+    },
+    "soil": {
+      "word": "soil",
+      "start": 418.572,
+      "end": 419.9864
+    },
+    "surgery": {
+      "word": "surgery",
+      "start": 420.4864,
+      "end": 421.9558
+    },
+    "blame": {
+      "word": "blame",
+      "start": 422.4558,
+      "end": 423.8252
+    },
+    "estimate": {
+      "word": "estimate",
+      "start": 424.3252,
+      "end": 425.7695
+    },
+    "golf": {
+      "word": "golf",
+      "start": 426.2695,
+      "end": 427.6189
+    },
+    "investigate": {
+      "word": "investigate",
+      "start": 428.1189,
+      "end": 429.7432
+    },
+    "chain": {
+      "word": "chain",
+      "start": 430.2432,
+      "end": 431.6076
+    },
+    "branch": {
+      "word": "branch",
+      "start": 432.1076,
+      "end": 433.572
+    },
+    "combination": {
+      "word": "combination",
+      "start": 434.072,
+      "end": 435.8112
+    },
+    "frequently": {
+      "word": "frequently",
+      "start": 436.3112,
+      "end": 437.8105
+    },
+    "governor": {
+      "word": "governor",
+      "start": 438.3105,
+      "end": 439.7398
+    },
+    "relief": {
+      "word": "relief",
+      "start": 440.2398,
+      "end": 441.6842
+    },
+    "manner": {
+      "word": "manner",
+      "start": 442.1842,
+      "end": 443.4785
+    },
+    "motion": {
+      "word": "motion",
+      "start": 443.9785,
+      "end": 445.5229
+    },
+    "solve": {
+      "word": "solve",
+      "start": 446.0229,
+      "end": 447.4223
+    },
+    "equal": {
+      "word": "equal",
+      "start": 447.9223,
+      "end": 449.2666
+    },
+    "frame": {
+      "word": "frame",
+      "start": 449.7666,
+      "end": 451.211
+    },
+    "forth": {
+      "word": "forth",
+      "start": 451.711,
+      "end": 453.1754
+    },
+    "typical": {
+      "word": "typical",
+      "start": 453.6754,
+      "end": 455.0698
+    },
+    "eliminate": {
+      "word": "eliminate",
+      "start": 455.5698,
+      "end": 457.0741
+    },
+    "host": {
+      "word": "host",
+      "start": 457.5741,
+      "end": 459.1235
+    },
+    "meanwhile": {
+      "word": "meanwhile",
+      "start": 459.6235,
+      "end": 461.1028
+    },
+    "division": {
+      "word": "division",
+      "start": 461.6028,
+      "end": 463.0722
+    },
+    "confirm": {
+      "word": "confirm",
+      "start": 463.5722,
+      "end": 465.0715
+    },
+    "appeal": {
+      "word": "appeal",
+      "start": 465.5715,
+      "end": 466.8659
+    },
+    "length": {
+      "word": "length",
+      "start": 467.3659,
+      "end": 468.7653
+    },
+    "rely": {
+      "word": "rely",
+      "start": 469.2653,
+      "end": 470.5096
+    },
+    "association": {
+      "word": "association",
+      "start": 471.0096,
+      "end": 472.9439
+    },
+    "complain": {
+      "word": "complain",
+      "start": 473.4439,
+      "end": 475.0132
+    },
+    "topic": {
+      "word": "topic",
+      "start": 475.5132,
+      "end": 476.9326
+    },
+    "variable": {
+      "word": "variable",
+      "start": 477.4326,
+      "end": 478.8768
+    },
+    "attract": {
+      "word": "attract",
+      "start": 479.3768,
+      "end": 480.8562
+    },
+    "confidence": {
+      "word": "confidence",
+      "start": 481.3562,
+      "end": 482.9956
+    },
+    "debt": {
+      "word": "debt",
+      "start": 483.4956,
+      "end": 484.75
+    },
+    "rare": {
+      "word": "rare",
+      "start": 485.25,
+      "end": 486.5093
+    },
+    "tank": {
+      "word": "tank",
+      "start": 487.0093,
+      "end": 488.3387
+    },
+    "aside": {
+      "word": "aside",
+      "start": 488.8387,
+      "end": 490.1681
+    },
+    "bond": {
+      "word": "bond",
+      "start": 490.6681,
+      "end": 491.9875
+    },
+    "requirement": {
+      "word": "requirement",
+      "start": 492.4875,
+      "end": 494.1717
+    },
+    "expectation": {
+      "word": "expectation",
+      "start": 494.6717,
+      "end": 496.5559
+    },
+    "somewhat": {
+      "word": "somewhat",
+      "start": 497.0559,
+      "end": 498.5352
+    },
+    "pour": {
+      "word": "pour",
+      "start": 499.0352,
+      "end": 500.2896
+    },
+    "stir": {
+      "word": "stir",
+      "start": 500.7896,
+      "end": 502.209
+    },
+    "reference": {
+      "word": "reference",
+      "start": 502.709,
+      "end": 504.3934
+    },
+    "tear": {
+      "word": "tear",
+      "start": 504.8934,
+      "end": 506.1278
+    },
+    "grant": {
+      "word": "grant",
+      "start": 506.6278,
+      "end": 508.0022
+    },
+    "minister": {
+      "word": "minister",
+      "start": 508.5022,
+      "end": 509.9915
+    },
+    "industrial": {
+      "word": "industrial",
+      "start": 510.4915,
+      "end": 512.0858
+    },
+    "stretch": {
+      "word": "stretch",
+      "start": 512.5858,
+      "end": 514.1852
+    },
+    "volume": {
+      "word": "volume",
+      "start": 514.6852,
+      "end": 516.2445
+    },
+    "seed": {
+      "word": "seed",
+      "start": 516.7445,
+      "end": 518.0139
+    },
+    "fashion": {
+      "word": "fashion",
+      "start": 518.5139,
+      "end": 520.1233
+    },
+    "welfare": {
+      "word": "welfare",
+      "start": 520.6233,
+      "end": 522.1476
+    },
+    "improvement": {
+      "word": "improvement",
+      "start": 522.6476,
+      "end": 524.3269
+    },
+    "overall": {
+      "word": "overall",
+      "start": 524.8269,
+      "end": 526.2063
+    },
+    "initial": {
+      "word": "initial",
+      "start": 526.7063,
+      "end": 528.1057
+    },
+    "oppose": {
+      "word": "oppose",
+      "start": 528.6057,
+      "end": 530.0001
+    },
+    "route": {
+      "word": "route",
+      "start": 530.5001,
+      "end": 531.7595
+    },
+    "contemporary": {
+      "word": "contemporary",
+      "start": 532.2595,
+      "end": 533.9637
+    },
+    "multiple": {
+      "word": "multiple",
+      "start": 534.4637,
+      "end": 535.953
+    },
+    "essential": {
+      "word": "essential",
+      "start": 536.453,
+      "end": 537.9624
+    },
+    "criminal": {
+      "word": "criminal",
+      "start": 538.4624,
+      "end": 539.8417
+    },
+    "upper": {
+      "word": "upper",
+      "start": 540.3417,
+      "end": 541.5961
+    },
+    "employ": {
+      "word": "employ",
+      "start": 542.0961,
+      "end": 543.5155
+    },
+    "vast": {
+      "word": "vast",
+      "start": 544.0155,
+      "end": 545.4249
+    },
+    "household": {
+      "word": "household",
+      "start": 545.9249,
+      "end": 547.5592
+    },
+    "resolution": {
+      "word": "resolution",
+      "start": 548.0592,
+      "end": 549.7984
+    },
+    "witness": {
+      "word": "witness",
+      "start": 550.2984,
+      "end": 551.7828
+    },
+    "apart": {
+      "word": "apart",
+      "start": 552.2828,
+      "end": 553.6171
+    },
+    "barely": {
+      "word": "barely",
+      "start": 554.1171,
+      "end": 555.4215
+    },
+    "emphasize": {
+      "word": "emphasize",
+      "start": 555.9215,
+      "end": 557.4758
+    },
+    "representative": {
+      "word": "representative",
+      "start": 557.9758,
+      "end": 559.745
+    },
+    "beneath": {
+      "word": "beneath",
+      "start": 560.245,
+      "end": 561.6694
+    },
+    "incident": {
+      "word": "incident",
+      "start": 562.1694,
+      "end": 563.6038
+    },
+    "flow": {
+      "word": "flow",
+      "start": 564.1038,
+      "end": 565.3782
+    },
+    "faculty": {
+      "word": "faculty",
+      "start": 565.8782,
+      "end": 567.3825
+    },
+    "merely": {
+      "word": "merely",
+      "start": 567.8825,
+      "end": 569.2018
+    },
+    "mass": {
+      "word": "mass",
+      "start": 569.7018,
+      "end": 571.0412
+    },
+    "definitely": {
+      "word": "definitely",
+      "start": 571.5412,
+      "end": 572.9955
+    },
+    "bomb": {
+      "word": "bomb",
+      "start": 573.4955,
+      "end": 574.7949
+    },
+    "liberal": {
+      "word": "liberal",
+      "start": 575.2949,
+      "end": 576.6843
+    },
+    "enormous": {
+      "word": "enormous",
+      "start": 577.1843,
+      "end": 578.6536
+    },
+    "tone": {
+      "word": "tone",
+      "start": 579.1536,
+      "end": 580.4629
+    },
+    "massive": {
+      "word": "massive",
+      "start": 580.9629,
+      "end": 582.5423
+    },
+    "decline": {
+      "word": "decline",
+      "start": 583.0423,
+      "end": 584.5467
+    },
+    "invest": {
+      "word": "invest",
+      "start": 585.0467,
+      "end": 586.591
+    },
+    "cable": {
+      "word": "cable",
+      "start": 587.091,
+      "end": 588.4304
+    },
+    "towards": {
+      "word": "towards",
+      "start": 588.9304,
+      "end": 590.3747
+    },
+    "expose": {
+      "word": "expose",
+      "start": 590.8747,
+      "end": 592.5191
+    },
+    "rural": {
+      "word": "rural",
+      "start": 593.0191,
+      "end": 594.3135
+    },
+    "narrow": {
+      "word": "narrow",
+      "start": 594.8135,
+      "end": 596.0979
+    },
+    "cream": {
+      "word": "cream",
+      "start": 596.5979,
+      "end": 597.9873
+    },
+    "unfortunately": {
+      "word": "unfortunately",
+      "start": 598.4873,
+      "end": 600.2315
+    },
+    "legislation": {
+      "word": "legislation",
+      "start": 600.7315,
+      "end": 602.5608
+    },
+    "achievement": {
+      "word": "achievement",
+      "start": 603.0608,
+      "end": 604.6601
+    },
+    "accuse": {
+      "word": "accuse",
+      "start": 605.1601,
+      "end": 606.6595
+    },
+    "reject": {
+      "word": "reject",
+      "start": 607.1595,
+      "end": 608.6438
+    },
+    "talent": {
+      "word": "talent",
+      "start": 609.1438,
+      "end": 610.5782
+    },
+    "characteristic": {
+      "word": "characteristic",
+      "start": 611.0782,
+      "end": 612.9874
+    },
+    "escape": {
+      "word": "escape",
+      "start": 613.4874,
+      "end": 615.0218
+    },
+    "unusual": {
+      "word": "unusual",
+      "start": 615.5218,
+      "end": 617.0011
+    },
+    "convince": {
+      "word": "convince",
+      "start": 617.5011,
+      "end": 619.0704
+    },
+    "physician": {
+      "word": "physician",
+      "start": 619.5704,
+      "end": 621.1547
+    },
+    "assess": {
+      "word": "assess",
+      "start": 621.6547,
+      "end": 623.1041
+    },
+    "virtually": {
+      "word": "virtually",
+      "start": 623.6041,
+      "end": 625.0185
+    },
+    "addition": {
+      "word": "addition",
+      "start": 625.5185,
+      "end": 627.0278
+    },
+    "sharp": {
+      "word": "sharp",
+      "start": 627.5278,
+      "end": 628.8622
+    },
+    "creative": {
+      "word": "creative",
+      "start": 629.3622,
+      "end": 630.8315
+    },
+    "approve": {
+      "word": "approve",
+      "start": 631.3315,
+      "end": 632.8509
+    },
+    "explanation": {
+      "word": "explanation",
+      "start": 633.3509,
+      "end": 635.1602
+    },
+    "campus": {
+      "word": "campus",
+      "start": 635.6602,
+      "end": 637.2145
+    },
+    "guilty": {
+      "word": "guilty",
+      "start": 637.7145,
+      "end": 639.0339
+    },
+    "acquire": {
+      "word": "acquire",
+      "start": 639.5339,
+      "end": 640.9632
+    },
+    "technical": {
+      "word": "technical",
+      "start": 641.4632,
+      "end": 642.9425
+    },
+    "compete": {
+      "word": "compete",
+      "start": 643.4425,
+      "end": 644.8619
+    },
+    "plus": {
+      "word": "plus",
+      "start": 645.3619,
+      "end": 646.7863
+    },
+    "immigrant": {
+      "word": "immigrant",
+      "start": 647.2863,
+      "end": 648.7705
+    },
+    "illegal": {
+      "word": "illegal",
+      "start": 649.2705,
+      "end": 650.5999
+    },
+    "alternative": {
+      "word": "alternative",
+      "start": 651.0999,
+      "end": 652.7842
+    },
+    "column": {
+      "word": "column",
+      "start": 653.2842,
+      "end": 654.7636
+    },
+    "interaction": {
+      "word": "interaction",
+      "start": 655.2636,
+      "end": 656.9978
+    },
+    "personality": {
+      "word": "personality",
+      "start": 657.4978,
+      "end": 659.1921
+    },
+    "signal": {
+      "word": "signal",
+      "start": 659.6921,
+      "end": 661.0715
+    },
+    "forever": {
+      "word": "forever",
+      "start": 661.5715,
+      "end": 662.9859
+    },
+    "wrap": {
+      "word": "wrap",
+      "start": 663.4859,
+      "end": 664.7602
+    },
+    "display": {
+      "word": "display",
+      "start": 665.2602,
+      "end": 666.7446
+    },
+    "criticism": {
+      "word": "criticism",
+      "start": 667.2446,
+      "end": 668.9188
+    },
+    "depression": {
+      "word": "depression",
+      "start": 669.4188,
+      "end": 671.0231
+    },
+    "spiritual": {
+      "word": "spiritual",
+      "start": 671.5231,
+      "end": 673.1474
+    },
+    "musical": {
+      "word": "musical",
+      "start": 673.6474,
+      "end": 675.1067
+    },
+    "prayer": {
+      "word": "prayer",
+      "start": 675.6067,
+      "end": 676.8611
+    },
+    "journalist": {
+      "word": "journalist",
+      "start": 677.3611,
+      "end": 678.9404
+    },
+    "suspect": {
+      "word": "suspect",
+      "start": 679.4404,
+      "end": 681.1397
+    },
+    "scholar": {
+      "word": "scholar",
+      "start": 681.6397,
+      "end": 683.0841
+    },
+    "climate": {
+      "word": "climate",
+      "start": 683.5841,
+      "end": 685.0634
+    },
+    "observation": {
+      "word": "observation",
+      "start": 685.5634,
+      "end": 687.3378
+    },
+    "payment": {
+      "word": "payment",
+      "start": 687.8378,
+      "end": 689.3171
+    },
+    "childhood": {
+      "word": "childhood",
+      "start": 689.8171,
+      "end": 691.5465
+    },
+    "permit": {
+      "word": "permit",
+      "start": 692.0465,
+      "end": 693.4459
+    },
+    "definition": {
+      "word": "definition",
+      "start": 693.9459,
+      "end": 695.5801
+    },
+    "cigarette": {
+      "word": "cigarette",
+      "start": 696.0801,
+      "end": 697.5945
+    },
+    "priority": {
+      "word": "priority",
+      "start": 698.0945,
+      "end": 699.6187
+    },
+    "graduate": {
+      "word": "graduate",
+      "start": 700.1187,
+      "end": 701.5681
+    },
+    "request": {
+      "word": "request",
+      "start": 702.0681,
+      "end": 703.6924
+    },
+    "emotion": {
+      "word": "emotion",
+      "start": 704.1924,
+      "end": 705.7368
+    },
+    "scream": {
+      "word": "scream",
+      "start": 706.2368,
+      "end": 707.8012
+    },
+    "dramatic": {
+      "word": "dramatic",
+      "start": 708.3012,
+      "end": 709.7755
+    },
+    "universe": {
+      "word": "universe",
+      "start": 710.2755,
+      "end": 711.7948
+    },
+    "drag": {
+      "word": "drag",
+      "start": 712.2948,
+      "end": 713.6192
+    },
+    "recover": {
+      "word": "recover",
+      "start": 714.1192,
+      "end": 715.5034
+    },
+    "selection": {
+      "word": "selection",
+      "start": 716.0034,
+      "end": 717.6727
+    },
+    "unable": {
+      "word": "unable",
+      "start": 718.1727,
+      "end": 719.562
+    },
+    "expense": {
+      "word": "expense",
+      "start": 720.062,
+      "end": 721.7664
+    },
+    "initiative": {
+      "word": "initiative",
+      "start": 722.2664,
+      "end": 723.8008
+    },
+    "diet": {
+      "word": "diet",
+      "start": 724.3008,
+      "end": 725.6302
+    },
+    "arrest": {
+      "word": "arrest",
+      "start": 726.1302,
+      "end": 727.6395
+    },
+    "schedule": {
+      "word": "schedule",
+      "start": 728.1395,
+      "end": 729.7089
+    },
+    "brief": {
+      "word": "brief",
+      "start": 730.2089,
+      "end": 731.6083
+    },
+    "purchase": {
+      "word": "purchase",
+      "start": 732.1083,
+      "end": 733.6927
+    },
+    "visual": {
+      "word": "visual",
+      "start": 734.1927,
+      "end": 735.5721
+    },
+    "violent": {
+      "word": "violent",
+      "start": 736.0721,
+      "end": 737.5914
+    },
+    "self": {
+      "word": "self",
+      "start": 738.0914,
+      "end": 739.4658
+    },
+    "perceive": {
+      "word": "perceive",
+      "start": 739.9658,
+      "end": 741.4852
+    },
+    "comparison": {
+      "word": "comparison",
+      "start": 741.9852,
+      "end": 743.6994
+    },
+    "settlement": {
+      "word": "settlement",
+      "start": 744.1994,
+      "end": 745.7686
+    },
+    "description": {
+      "word": "description",
+      "start": 746.2686,
+      "end": 747.9429
+    },
+    "slide": {
+      "word": "slide",
+      "start": 748.4429,
+      "end": 749.7973
+    },
+    "inform": {
+      "word": "inform",
+      "start": 750.2973,
+      "end": 751.8467
+    },
+    "portion": {
+      "word": "portion",
+      "start": 752.3467,
+      "end": 753.9361
+    },
+    "territory": {
+      "word": "territory",
+      "start": 754.4361,
+      "end": 756.0104
+    },
+    "immediate": {
+      "word": "immediate",
+      "start": 756.5104,
+      "end": 757.9247
+    },
+    "opponent": {
+      "word": "opponent",
+      "start": 758.4247,
+      "end": 759.919
+    },
+    "abandon": {
+      "word": "abandon",
+      "start": 760.419,
+      "end": 761.9134
+    },
+    "transform": {
+      "word": "transform",
+      "start": 762.4134,
+      "end": 764.2827
+    },
+    "tension": {
+      "word": "tension",
+      "start": 764.7827,
+      "end": 766.3171
+    },
+    "consist": {
+      "word": "consist",
+      "start": 766.8171,
+      "end": 768.4464
+    },
+    "alcohol": {
+      "word": "alcohol",
+      "start": 768.9464,
+      "end": 770.5057
+    },
+    "enable": {
+      "word": "enable",
+      "start": 771.0057,
+      "end": 772.3601
+    },
+    "bend": {
+      "word": "bend",
+      "start": 772.8601,
+      "end": 774.1795
+    },
+    "desert": {
+      "word": "desert",
+      "start": 774.6795,
+      "end": 775.9789
+    },
+    "error": {
+      "word": "error",
+      "start": 776.4789,
+      "end": 777.7433
+    },
+    "preserve": {
+      "word": "preserve",
+      "start": 778.2433,
+      "end": 779.7326
+    },
+    "formal": {
+      "word": "formal",
+      "start": 780.2326,
+      "end": 781.602
+    },
+    "existence": {
+      "word": "existence",
+      "start": 782.102,
+      "end": 783.7863
+    },
+    "arrange": {
+      "word": "arrange",
+      "start": 784.2863,
+      "end": 785.8057
+    },
+    "atmosphere": {
+      "word": "atmosphere",
+      "start": 786.3057,
+      "end": 787.975
+    },
+    "joint": {
+      "word": "joint",
+      "start": 788.475,
+      "end": 789.9294
+    },
+    "cycle": {
+      "word": "cycle",
+      "start": 790.4294,
+      "end": 791.8337
+    },
+    "opposite": {
+      "word": "opposite",
+      "start": 792.3337,
+      "end": 793.738
+    },
+    "deserve": {
+      "word": "deserve",
+      "start": 794.238,
+      "end": 795.6624
+    },
+    "consistent": {
+      "word": "consistent",
+      "start": 796.1624,
+      "end": 797.8317
+    },
+    "resistance": {
+      "word": "resistance",
+      "start": 798.3317,
+      "end": 800.006
+    },
+    "exposure": {
+      "word": "exposure",
+      "start": 800.506,
+      "end": 802.0403
+    },
+    "pose": {
+      "word": "pose",
+      "start": 802.5403,
+      "end": 803.8747
+    },
+    "grand": {
+      "word": "grand",
+      "start": 804.3747,
+      "end": 805.7541
+    },
+    "resolve": {
+      "word": "resolve",
+      "start": 806.2541,
+      "end": 807.6985
+    },
+    "racial": {
+      "word": "racial",
+      "start": 808.1985,
+      "end": 809.5678
+    },
+    "phase": {
+      "word": "phase",
+      "start": 810.0678,
+      "end": 811.4623
+    },
+    "manufacturer": {
+      "word": "manufacturer",
+      "start": 811.9623,
+      "end": 813.8565
+    },
+    "philosophy": {
+      "word": "philosophy",
+      "start": 814.3565,
+      "end": 815.9907
+    },
+    "quote": {
+      "word": "quote",
+      "start": 816.4907,
+      "end": 817.8302
+    },
+    "foundation": {
+      "word": "foundation",
+      "start": 818.3302,
+      "end": 820.1095
+    },
+    "urge": {
+      "word": "urge",
+      "start": 820.6095,
+      "end": 821.9189
+    },
+    "occasion": {
+      "word": "occasion",
+      "start": 822.4189,
+      "end": 823.9582
+    },
+    "dust": {
+      "word": "dust",
+      "start": 824.4582,
+      "end": 825.8926
+    },
+    "elect": {
+      "word": "elect",
+      "start": 826.3926,
+      "end": 827.752
+    },
+    "ordinary": {
+      "word": "ordinary",
+      "start": 828.252,
+      "end": 829.7013
+    },
+    "reduction": {
+      "word": "reduction",
+      "start": 830.2013,
+      "end": 831.8256
+    },
+    "rarely": {
+      "word": "rarely",
+      "start": 832.3256,
+      "end": 833.6649
+    },
+    "pack": {
+      "word": "pack",
+      "start": 834.1649,
+      "end": 835.4293
+    },
+    "numerous": {
+      "word": "numerous",
+      "start": 835.9293,
+      "end": 837.4486
+    },
+    "substance": {
+      "word": "substance",
+      "start": 837.9486,
+      "end": 839.808
+    },
+    "discipline": {
+      "word": "discipline",
+      "start": 840.308,
+      "end": 841.8823
+    },
+    "elsewhere": {
+      "word": "elsewhere",
+      "start": 842.3823,
+      "end": 843.8966
+    },
+    "practical": {
+      "word": "practical",
+      "start": 844.3966,
+      "end": 845.921
+    },
+    "moreover": {
+      "word": "moreover",
+      "start": 846.421,
+      "end": 847.8703
+    },
+    "passion": {
+      "word": "passion",
+      "start": 848.3703,
+      "end": 849.9397
+    },
+    "volunteer": {
+      "word": "volunteer",
+      "start": 850.4397,
+      "end": 852.0289
+    },
+    "implement": {
+      "word": "implement",
+      "start": 852.5289,
+      "end": 854.0532
+    },
+    "gene": {
+      "word": "gene",
+      "start": 854.5532,
+      "end": 855.8576
+    },
+    "sauce": {
+      "word": "sauce",
+      "start": 856.3576,
+      "end": 857.807
+    },
+    "independence": {
+      "word": "independence",
+      "start": 858.307,
+      "end": 860.0163
+    },
+    "priest": {
+      "word": "priest",
+      "start": 860.5163,
+      "end": 862.0407
+    },
+    "intense": {
+      "word": "intense",
+      "start": 862.5407,
+      "end": 864.0651
+    },
+    "advance": {
+      "word": "advance",
+      "start": 864.5651,
+      "end": 866.0695
+    },
+    "employer": {
+      "word": "employer",
+      "start": 866.5695,
+      "end": 868.0988
+    },
+    "shock": {
+      "word": "shock",
+      "start": 868.5988,
+      "end": 869.9232
+    },
+    "inspire": {
+      "word": "inspire",
+      "start": 870.4232,
+      "end": 871.9326
+    },
+    "adjust": {
+      "word": "adjust",
+      "start": 872.4326,
+      "end": 873.957
+    },
+    "retire": {
+      "word": "retire",
+      "start": 874.457,
+      "end": 875.8863
+    },
+    "visible": {
+      "word": "visible",
+      "start": 876.3863,
+      "end": 877.7706
+    },
+    "competitive": {
+      "word": "competitive",
+      "start": 878.2706,
+      "end": 879.8699
+    },
+    "dominate": {
+      "word": "dominate",
+      "start": 880.3699,
+      "end": 881.8193
+    },
+    "previously": {
+      "word": "previously",
+      "start": 882.3193,
+      "end": 883.9385
+    },
+    "transfer": {
+      "word": "transfer",
+      "start": 884.4385,
+      "end": 886.0378
+    },
+    "analyze": {
+      "word": "analyze",
+      "start": 886.5378,
+      "end": 887.9222
+    },
+    "attach": {
+      "word": "attach",
+      "start": 888.4222,
+      "end": 889.8166
+    },
+    "disaster": {
+      "word": "disaster",
+      "start": 890.3166,
+      "end": 891.8809
+    },
+    "prospect": {
+      "word": "prospect",
+      "start": 892.3809,
+      "end": 894.0952
+    },
+    "complaint": {
+      "word": "complaint",
+      "start": 894.5952,
+      "end": 896.1945
+    },
+    "fundamental": {
+      "word": "fundamental",
+      "start": 896.6945,
+      "end": 898.2788
+    },
+    "severe": {
+      "word": "severe",
+      "start": 898.7788,
+      "end": 900.1681
+    },
+    "enhance": {
+      "word": "enhance",
+      "start": 900.6681,
+      "end": 902.2075
+    },
+    "mystery": {
+      "word": "mystery",
+      "start": 902.7075,
+      "end": 904.1068
+    },
+    "poverty": {
+      "word": "poverty",
+      "start": 904.6068,
+      "end": 906.0161
+    },
+    "impose": {
+      "word": "impose",
+      "start": 906.5161,
+      "end": 908.0355
+    },
+    "entry": {
+      "word": "entry",
+      "start": 908.5355,
+      "end": 909.8799
+    },
+    "evaluate": {
+      "word": "evaluate",
+      "start": 910.3799,
+      "end": 911.9342
+    },
+    "mood": {
+      "word": "mood",
+      "start": 912.4342,
+      "end": 913.6537
+    },
+    "accomplish": {
+      "word": "accomplish",
+      "start": 914.1537,
+      "end": 915.7829
+    },
+    "emphasis": {
+      "word": "emphasis",
+      "start": 916.2829,
+      "end": 917.8272
+    },
+    "boot": {
+      "word": "boot",
+      "start": 918.3272,
+      "end": 919.5816
+    },
+    "illustrate": {
+      "word": "illustrate",
+      "start": 920.0816,
+      "end": 921.6509
+    },
+    "entertainment": {
+      "word": "entertainment",
+      "start": 922.1509,
+      "end": 923.9151
+    },
+    "bean": {
+      "word": "bean",
+      "start": 924.4151,
+      "end": 925.7145
+    },
+    "creature": {
+      "word": "creature",
+      "start": 926.2145,
+      "end": 927.6388
+    },
+    "commander": {
+      "word": "commander",
+      "start": 928.1388,
+      "end": 929.5731
+    },
+    "digital": {
+      "word": "digital",
+      "start": 930.0731,
+      "end": 931.4475
+    },
+    "arrangement": {
+      "word": "arrangement",
+      "start": 931.9475,
+      "end": 933.5717
+    },
+    "concentrate": {
+      "word": "concentrate",
+      "start": 934.0717,
+      "end": 935.846
+    },
+    "psychological": {
+      "word": "psychological",
+      "start": 936.346,
+      "end": 938.1053
+    },
+    "anger": {
+      "word": "anger",
+      "start": 938.6053,
+      "end": 939.9246
+    },
+    "peak": {
+      "word": "peak",
+      "start": 940.4246,
+      "end": 941.689
+    },
+    "approximately": {
+      "word": "approximately",
+      "start": 942.189,
+      "end": 943.9182
+    },
+    "missile": {
+      "word": "missile",
+      "start": 944.4182,
+      "end": 945.7625
+    },
+    "disorder": {
+      "word": "disorder",
+      "start": 946.2625,
+      "end": 947.7319
+    },
+    "wire": {
+      "word": "wire",
+      "start": 948.2319,
+      "end": 949.5112
+    },
+    "vary": {
+      "word": "vary",
+      "start": 950.0112,
+      "end": 951.2906
+    },
+    "distribution": {
+      "word": "distribution",
+      "start": 951.7906,
+      "end": 953.5849
+    },
+    "transportation": {
+      "word": "transportation",
+      "start": 954.0849,
+      "end": 956.0941
+    },
+    "holy": {
+      "word": "holy",
+      "start": 956.5941,
+      "end": 957.8935
+    },
+    "twin": {
+      "word": "twin",
+      "start": 958.3935,
+      "end": 959.7779
+    },
+    "command": {
+      "word": "command",
+      "start": 960.2779,
+      "end": 961.6772
+    },
+    "commission": {
+      "word": "commission",
+      "start": 962.1772,
+      "end": 963.7015
+    },
+    "interpretation": {
+      "word": "interpretation",
+      "start": 964.2015,
+      "end": 966.2108
+    },
+    "constant": {
+      "word": "constant",
+      "start": 966.7108,
+      "end": 968.4202
+    },
+    "veteran": {
+      "word": "veteran",
+      "start": 968.9202,
+      "end": 970.4295
+    },
+    "capable": {
+      "word": "capable",
+      "start": 970.9295,
+      "end": 972.3539
+    },
+    "toss": {
+      "word": "toss",
+      "start": 972.8539,
+      "end": 974.1883
+    },
+    "crucial": {
+      "word": "crucial",
+      "start": 974.6883,
+      "end": 976.1127
+    },
+    "bury": {
+      "word": "bury",
+      "start": 976.6127,
+      "end": 977.862
+    },
+    "pray": {
+      "word": "pray",
+      "start": 978.362,
+      "end": 979.5864
+    },
+    "exception": {
+      "word": "exception",
+      "start": 980.0864,
+      "end": 981.7207
+    },
+    "objective": {
+      "word": "objective",
+      "start": 982.2207,
+      "end": 983.78
+    },
+    "electronic": {
+      "word": "electronic",
+      "start": 984.28,
+      "end": 985.9394
+    },
+    "journey": {
+      "word": "journey",
+      "start": 986.4394,
+      "end": 987.7187
+    },
+    "reputation": {
+      "word": "reputation",
+      "start": 988.2187,
+      "end": 989.998
+    },
+    "mixture": {
+      "word": "mixture",
+      "start": 990.498,
+      "end": 991.9623
+    },
+    "pure": {
+      "word": "pure",
+      "start": 992.4623,
+      "end": 993.7766
+    },
+    "glance": {
+      "word": "glance",
+      "start": 994.2766,
+      "end": 995.7311
+    },
+    "dimension": {
+      "word": "dimension",
+      "start": 996.2311,
+      "end": 997.8004
+    },
+    "fellow": {
+      "word": "fellow",
+      "start": 998.3004,
+      "end": 999.6348
+    },
+    "nearby": {
+      "word": "nearby",
+      "start": 1000.1348,
+      "end": 1001.4842
+    },
+    "relative": {
+      "word": "relative",
+      "start": 1001.9842,
+      "end": 1003.4285
+    },
+    "belt": {
+      "word": "belt",
+      "start": 1003.9285,
+      "end": 1005.1729
+    },
+    "implication": {
+      "word": "implication",
+      "start": 1005.6729,
+      "end": 1007.4672
+    },
+    "accompany": {
+      "word": "accompany",
+      "start": 1007.9672,
+      "end": 1009.4064
+    },
+    "teenager": {
+      "word": "teenager",
+      "start": 1009.9064,
+      "end": 1011.4258
+    },
+    "recognition": {
+      "word": "recognition",
+      "start": 1011.9258,
+      "end": 1013.6251
+    },
+    "recovery": {
+      "word": "recovery",
+      "start": 1014.1251,
+      "end": 1015.6194
+    },
+    "whisper": {
+      "word": "whisper",
+      "start": 1016.1194,
+      "end": 1017.4787
+    },
+    "corn": {
+      "word": "corn",
+      "start": 1017.9787,
+      "end": 1019.2831
+    },
+    "inner": {
+      "word": "inner",
+      "start": 1019.7831,
+      "end": 1020.9825
+    },
+    "junior": {
+      "word": "junior",
+      "start": 1021.4825,
+      "end": 1022.8969
+    },
+    "throat": {
+      "word": "throat",
+      "start": 1023.3969,
+      "end": 1024.7913
+    },
+    "salary": {
+      "word": "salary",
+      "start": 1025.2913,
+      "end": 1026.7256
+    },
+    "observer": {
+      "word": "observer",
+      "start": 1027.2256,
+      "end": 1028.665
+    },
+    "publication": {
+      "word": "publication",
+      "start": 1029.165,
+      "end": 1030.9793
+    },
+    "crop": {
+      "word": "crop",
+      "start": 1031.4793,
+      "end": 1032.8386
+    },
+    "permanent": {
+      "word": "permanent",
+      "start": 1033.3386,
+      "end": 1034.8179
+    },
+    "phenomenon": {
+      "word": "phenomenon",
+      "start": 1035.3179,
+      "end": 1036.9272
+    },
+    "anxiety": {
+      "word": "anxiety",
+      "start": 1037.4272,
+      "end": 1038.9416
+    },
+    "unlike": {
+      "word": "unlike",
+      "start": 1039.4416,
+      "end": 1040.8659
+    },
+    "resist": {
+      "word": "resist",
+      "start": 1041.3659,
+      "end": 1042.8953
+    },
+    "convention": {
+      "word": "convention",
+      "start": 1043.3953,
+      "end": 1045.0546
+    },
+    "embrace": {
+      "word": "embrace",
+      "start": 1045.5546,
+      "end": 1047.0739
+    },
+    "assist": {
+      "word": "assist",
+      "start": 1047.5739,
+      "end": 1049.1233
+    },
+    "exhibition": {
+      "word": "exhibition",
+      "start": 1049.6233,
+      "end": 1051.2976
+    },
+    "construct": {
+      "word": "construct",
+      "start": 1051.7976,
+      "end": 1053.592
+    },
+    "occasionally": {
+      "word": "occasionally",
+      "start": 1054.092,
+      "end": 1055.6463
+    },
+    "mayor": {
+      "word": "mayor",
+      "start": 1056.1463,
+      "end": 1057.4256
+    },
+    "consideration": {
+      "word": "consideration",
+      "start": 1057.9256,
+      "end": 1059.7948
+    },
+    "secure": {
+      "word": "secure",
+      "start": 1060.2948,
+      "end": 1061.7791
+    },
+    "bind": {
+      "word": "bind",
+      "start": 1062.2791,
+      "end": 1063.5985
+    },
+    "favor": {
+      "word": "favor",
+      "start": 1064.0985,
+      "end": 1065.478
+    },
+    "apparent": {
+      "word": "apparent",
+      "start": 1065.978,
+      "end": 1067.4622
+    },
+    "install": {
+      "word": "install",
+      "start": 1067.9622,
+      "end": 1069.5166
+    },
+    "sensitive": {
+      "word": "sensitive",
+      "start": 1070.0166,
+      "end": 1071.5909
+    },
+    "reasonable": {
+      "word": "reasonable",
+      "start": 1072.0909,
+      "end": 1073.5902
+    },
+    "elementary": {
+      "word": "elementary",
+      "start": 1074.0902,
+      "end": 1075.7044
+    },
+    "wooden": {
+      "word": "wooden",
+      "start": 1076.2044,
+      "end": 1077.6038
+    },
+    "preparation": {
+      "word": "preparation",
+      "start": 1078.1038,
+      "end": 1079.8081
+    },
+    "aggressive": {
+      "word": "aggressive",
+      "start": 1080.3081,
+      "end": 1081.8923
+    },
+    "false": {
+      "word": "false",
+      "start": 1082.3923,
+      "end": 1083.8017
+    },
+    "channel": {
+      "word": "channel",
+      "start": 1084.3017,
+      "end": 1085.6711
+    },
+    "extreme": {
+      "word": "extreme",
+      "start": 1086.1711,
+      "end": 1087.8454
+    },
+    "tube": {
+      "word": "tube",
+      "start": 1088.3454,
+      "end": 1089.5748
+    },
+    "protein": {
+      "word": "protein",
+      "start": 1090.0748,
+      "end": 1091.5792
+    },
+    "absence": {
+      "word": "absence",
+      "start": 1092.0792,
+      "end": 1093.7435
+    },
+    "jail": {
+      "word": "jail",
+      "start": 1094.2435,
+      "end": 1095.5079
+    },
+    "pace": {
+      "word": "pace",
+      "start": 1096.0079,
+      "end": 1097.3424
+    },
+    "employment": {
+      "word": "employment",
+      "start": 1097.8424,
+      "end": 1099.5416
+    },
+    "essay": {
+      "word": "essay",
+      "start": 1100.0416,
+      "end": 1101.351
+    },
+    "impression": {
+      "word": "impression",
+      "start": 1101.851,
+      "end": 1103.5354
+    },
+    "giant": {
+      "word": "giant",
+      "start": 1104.0354,
+      "end": 1105.4698
+    },
+    "restore": {
+      "word": "restore",
+      "start": 1105.9698,
+      "end": 1107.4941
+    },
+    "substantial": {
+      "word": "substantial",
+      "start": 1107.9941,
+      "end": 1109.7234
+    },
+    "specialist": {
+      "word": "specialist",
+      "start": 1110.2234,
+      "end": 1111.9626
+    },
+    "origin": {
+      "word": "origin",
+      "start": 1112.4626,
+      "end": 1113.9469
+    },
+    "approval": {
+      "word": "approval",
+      "start": 1114.4469,
+      "end": 1115.8812
+    },
+    "criticize": {
+      "word": "criticize",
+      "start": 1116.3812,
+      "end": 1117.9355
+    },
+    "conventional": {
+      "word": "conventional",
+      "start": 1118.4355,
+      "end": 1119.9897
+    },
+    "depth": {
+      "word": "depth",
+      "start": 1120.4897,
+      "end": 1121.8891
+    },
+    "shell": {
+      "word": "shell",
+      "start": 1122.3891,
+      "end": 1123.6985
+    },
+    "onion": {
+      "word": "onion",
+      "start": 1124.1985,
+      "end": 1125.6578
+    },
+    "deputy": {
+      "word": "deputy",
+      "start": 1126.1578,
+      "end": 1127.5172
+    },
+    "brand": {
+      "word": "brand",
+      "start": 1128.0172,
+      "end": 1129.4016
+    },
+    "assure": {
+      "word": "assure",
+      "start": 1129.9016,
+      "end": 1131.331
+    },
+    "award": {
+      "word": "award",
+      "start": 1131.831,
+      "end": 1133.1404
+    },
+    "utility": {
+      "word": "utility",
+      "start": 1133.6404,
+      "end": 1135.1446
+    },
+    "arise": {
+      "word": "arise",
+      "start": 1135.6446,
+      "end": 1137.059
+    },
+    "nevertheless": {
+      "word": "nevertheless",
+      "start": 1137.559,
+      "end": 1139.1834
+    },
+    "highway": {
+      "word": "highway",
+      "start": 1139.6834,
+      "end": 1141.0428
+    },
+    "routine": {
+      "word": "routine",
+      "start": 1141.5428,
+      "end": 1142.9921
+    },
+    "wage": {
+      "word": "wage",
+      "start": 1143.4921,
+      "end": 1144.8315
+    },
+    "phrase": {
+      "word": "phrase",
+      "start": 1145.3315,
+      "end": 1146.8059
+    },
+    "ingredient": {
+      "word": "ingredient",
+      "start": 1147.3059,
+      "end": 1148.9052
+    },
+    "stake": {
+      "word": "stake",
+      "start": 1149.4052,
+      "end": 1150.8696
+    },
+    "snap": {
+      "word": "snap",
+      "start": 1151.3696,
+      "end": 1152.839
+    },
+    "ultimate": {
+      "word": "ultimate",
+      "start": 1153.339,
+      "end": 1154.7932
+    },
+    "corporation": {
+      "word": "corporation",
+      "start": 1155.2932,
+      "end": 1157.0476
+    },
+    "switch": {
+      "word": "switch",
+      "start": 1157.5476,
+      "end": 1159.082
+    },
+    "valuable": {
+      "word": "valuable",
+      "start": 1159.582,
+      "end": 1161.0763
+    },
+    "assumption": {
+      "word": "assumption",
+      "start": 1161.5763,
+      "end": 1163.2456
+    },
+    "gear": {
+      "word": "gear",
+      "start": 1163.7456,
+      "end": 1164.94
+    },
+    "barrier": {
+      "word": "barrier",
+      "start": 1165.44,
+      "end": 1166.7893
+    },
+    "minor": {
+      "word": "minor",
+      "start": 1167.2893,
+      "end": 1168.6087
+    },
+    "assign": {
+      "word": "assign",
+      "start": 1169.1087,
+      "end": 1170.5231
+    },
+    "council": {
+      "word": "council",
+      "start": 1171.0231,
+      "end": 1172.4775
+    },
+    "provision": {
+      "word": "provision",
+      "start": 1172.9775,
+      "end": 1174.5017
+    },
+    "gang": {
+      "word": "gang",
+      "start": 1175.0017,
+      "end": 1176.3011
+    },
+    "classic": {
+      "word": "classic",
+      "start": 1176.8011,
+      "end": 1178.3555
+    },
+    "chemical": {
+      "word": "chemical",
+      "start": 1178.8555,
+      "end": 1180.2498
+    },
+    "label": {
+      "word": "label",
+      "start": 1180.7498,
+      "end": 1182.0792
+    },
+    "index": {
+      "word": "index",
+      "start": 1182.5792,
+      "end": 1184.0836
+    },
+    "advocate": {
+      "word": "advocate",
+      "start": 1184.5836,
+      "end": 1186.0329
+    },
+    "draft": {
+      "word": "draft",
+      "start": 1186.5329,
+      "end": 1188.0223
+    },
+    "extraordinary": {
+      "word": "extraordinary",
+      "start": 1188.5223,
+      "end": 1190.2815
+    },
+    "rough": {
+      "word": "rough",
+      "start": 1190.7815,
+      "end": 1192.121
+    },
+    "yell": {
+      "word": "yell",
+      "start": 1192.621,
+      "end": 1193.8803
+    },
+    "distant": {
+      "word": "distant",
+      "start": 1194.3803,
+      "end": 1195.9546
+    },
+    "drama": {
+      "word": "drama",
+      "start": 1196.4546,
+      "end": 1197.779
+    },
+    "satellite": {
+      "word": "satellite",
+      "start": 1198.279,
+      "end": 1199.8383
+    },
+    "universal": {
+      "word": "universal",
+      "start": 1200.3383,
+      "end": 1201.9776
+    },
+    "spin": {
+      "word": "spin",
+      "start": 1202.4776,
+      "end": 1203.982
+    },
+    "button": {
+      "word": "button",
+      "start": 1204.482,
+      "end": 1205.8815
+    },
+    "rank": {
+      "word": "rank",
+      "start": 1206.3815,
+      "end": 1207.7158
+    },
+    "super": {
+      "word": "super",
+      "start": 1208.2158,
+      "end": 1209.5902
+    },
+    "yield": {
+      "word": "yield",
+      "start": 1210.0902,
+      "end": 1211.3646
+    },
+    "fence": {
+      "word": "fence",
+      "start": 1211.8646,
+      "end": 1213.324
+    },
+    "portrait": {
+      "word": "portrait",
+      "start": 1213.824,
+      "end": 1215.3533
+    },
+    "survival": {
+      "word": "survival",
+      "start": 1215.8533,
+      "end": 1217.3776
+    },
+    "roughly": {
+      "word": "roughly",
+      "start": 1217.8776,
+      "end": 1219.2819
+    },
+    "bunch": {
+      "word": "bunch",
+      "start": 1219.7819,
+      "end": 1221.1763
+    },
+    "burden": {
+      "word": "burden",
+      "start": 1221.6763,
+      "end": 1223.0957
+    },
+    "react": {
+      "word": "react",
+      "start": 1223.5957,
+      "end": 1224.9351
+    },
+    "chamber": {
+      "word": "chamber",
+      "start": 1225.4351,
+      "end": 1226.9195
+    },
+    "ceremony": {
+      "word": "ceremony",
+      "start": 1227.4195,
+      "end": 1228.9787
+    },
+    "string": {
+      "word": "string",
+      "start": 1229.4787,
+      "end": 1231.0431
+    },
+    "cheek": {
+      "word": "cheek",
+      "start": 1231.5431,
+      "end": 1232.8675
+    },
+    "disagree": {
+      "word": "disagree",
+      "start": 1233.3675,
+      "end": 1234.8218
+    },
+    "resort": {
+      "word": "resort",
+      "start": 1235.3218,
+      "end": 1236.8112
+    },
+    "destruction": {
+      "word": "destruction",
+      "start": 1237.3112,
+      "end": 1239.0105
+    },
+    "unlikely": {
+      "word": "unlikely",
+      "start": 1239.5105,
+      "end": 1241.0048
+    },
+    "tissue": {
+      "word": "tissue",
+      "start": 1241.5048,
+      "end": 1242.8892
+    },
+    "pant": {
+      "word": "pant",
+      "start": 1243.3892,
+      "end": 1244.7086
+    },
+    "cabinet": {
+      "word": "cabinet",
+      "start": 1245.2086,
+      "end": 1246.6729
+    },
+    "proceed": {
+      "word": "proceed",
+      "start": 1247.1729,
+      "end": 1248.6622
+    },
+    "literary": {
+      "word": "literary",
+      "start": 1249.1622,
+      "end": 1250.6465
+    },
+    "virus": {
+      "word": "virus",
+      "start": 1251.1465,
+      "end": 1252.6909
+    },
+    "strategic": {
+      "word": "strategic",
+      "start": 1253.1909,
+      "end": 1254.8501
+    },
+    "fortune": {
+      "word": "fortune",
+      "start": 1255.3501,
+      "end": 1256.9795
+    },
+    "dispute": {
+      "word": "dispute",
+      "start": 1257.4795,
+      "end": 1259.0839
+    },
+    "assistant": {
+      "word": "assistant",
+      "start": 1259.5839,
+      "end": 1261.1832
+    },
+    "remarkable": {
+      "word": "remarkable",
+      "start": 1261.6832,
+      "end": 1263.2174
+    },
+    "statistics": {
+      "word": "statistics",
+      "start": 1263.7174,
+      "end": 1265.5317
+    },
+    "occupy": {
+      "word": "occupy",
+      "start": 1266.0317,
+      "end": 1267.356
+    },
+    "wipe": {
+      "word": "wipe",
+      "start": 1267.856,
+      "end": 1269.1303
+    },
+    "encounter": {
+      "word": "encounter",
+      "start": 1269.6303,
+      "end": 1271.1547
+    },
+    "port": {
+      "word": "port",
+      "start": 1271.6547,
+      "end": 1272.9291
+    },
+    "electricity": {
+      "word": "electricity",
+      "start": 1273.4291,
+      "end": 1275.0684
+    },
+    "genetic": {
+      "word": "genetic",
+      "start": 1275.5684,
+      "end": 1276.9627
+    },
+    "retain": {
+      "word": "retain",
+      "start": 1277.4627,
+      "end": 1278.8721
+    },
+    "latter": {
+      "word": "latter",
+      "start": 1279.3721,
+      "end": 1280.6814
+    },
+    "slave": {
+      "word": "slave",
+      "start": 1281.1814,
+      "end": 1282.6558
+    },
+    "accurate": {
+      "word": "accurate",
+      "start": 1283.1558,
+      "end": 1284.5951
+    },
+    "whereas": {
+      "word": "whereas",
+      "start": 1285.0951,
+      "end": 1286.5445
+    },
+    "terror": {
+      "word": "terror",
+      "start": 1287.0445,
+      "end": 1288.3439
+    },
+    "expansion": {
+      "word": "expansion",
+      "start": 1288.8439,
+      "end": 1290.5432
+    },
+    "dirt": {
+      "word": "dirt",
+      "start": 1291.0432,
+      "end": 1292.2876
+    },
+    "bullet": {
+      "word": "bullet",
+      "start": 1292.7876,
+      "end": 1294.102
+    },
+    "tight": {
+      "word": "tight",
+      "start": 1294.602,
+      "end": 1295.8664
+    },
+    "bible": {
+      "word": "bible",
+      "start": 1296.3664,
+      "end": 1297.6708
+    },
+    "chart": {
+      "word": "chart",
+      "start": 1298.1708,
+      "end": 1299.5002
+    },
+    "solar": {
+      "word": "solar",
+      "start": 1300.0002,
+      "end": 1301.3746
+    },
+    "gently": {
+      "word": "gently",
+      "start": 1301.8746,
+      "end": 1303.239
+    },
+    "concentration": {
+      "word": "concentration",
+      "start": 1303.739,
+      "end": 1305.6631
+    },
+    "revolution": {
+      "word": "revolution",
+      "start": 1306.1631,
+      "end": 1307.8673
+    },
+    "strip": {
+      "word": "strip",
+      "start": 1308.3673,
+      "end": 1309.8967
+    },
+    "interpret": {
+      "word": "interpret",
+      "start": 1310.3967,
+      "end": 1311.981
+    },
+    "reflection": {
+      "word": "reflection",
+      "start": 1312.481,
+      "end": 1314.1603
+    },
+    "champion": {
+      "word": "champion",
+      "start": 1314.6603,
+      "end": 1316.2446
+    },
+    "telescope": {
+      "word": "telescope",
+      "start": 1316.7446,
+      "end": 1318.3689
+    },
+    "fiction": {
+      "word": "fiction",
+      "start": 1318.8689,
+      "end": 1320.4583
+    },
+    "detect": {
+      "word": "detect",
+      "start": 1320.9583,
+      "end": 1322.3426
+    },
+    "recommendation": {
+      "word": "recommendation",
+      "start": 1322.8426,
+      "end": 1324.7468
+    },
+    "lifetime": {
+      "word": "lifetime",
+      "start": 1325.2468,
+      "end": 1326.8212
+    },
+    "tremendous": {
+      "word": "tremendous",
+      "start": 1327.3212,
+      "end": 1328.8405
+    },
+    "guarantee": {
+      "word": "guarantee",
+      "start": 1329.3405,
+      "end": 1330.7398
+    },
+    "innocent": {
+      "word": "innocent",
+      "start": 1331.2398,
+      "end": 1332.6891
+    },
+    "boundary": {
+      "word": "boundary",
+      "start": 1333.1891,
+      "end": 1334.6084
+    },
+    "pause": {
+      "word": "pause",
+      "start": 1335.1084,
+      "end": 1336.4429
+    },
+    "remote": {
+      "word": "remote",
+      "start": 1336.9429,
+      "end": 1338.3022
+    },
+    "satisfaction": {
+      "word": "satisfaction",
+      "start": 1338.8022,
+      "end": 1340.7914
+    },
+    "journal": {
+      "word": "journal",
+      "start": 1341.2914,
+      "end": 1342.5957
+    },
+    "bench": {
+      "word": "bench",
+      "start": 1343.0957,
+      "end": 1344.4902
+    },
+    "withdraw": {
+      "word": "withdraw",
+      "start": 1344.9902,
+      "end": 1346.3645
+    },
+    "deck": {
+      "word": "deck",
+      "start": 1346.8645,
+      "end": 1348.1339
+    },
+    "valley": {
+      "word": "valley",
+      "start": 1348.6339,
+      "end": 1349.9433
+    },
+    "mode": {
+      "word": "mode",
+      "start": 1350.4433,
+      "end": 1351.6627
+    },
+    "imply": {
+      "word": "imply",
+      "start": 1352.1627,
+      "end": 1353.5821
+    },
+    "mutual": {
+      "word": "mutual",
+      "start": 1354.0821,
+      "end": 1355.5264
+    },
+    "aircraft": {
+      "word": "aircraft",
+      "start": 1356.0264,
+      "end": 1357.7308
+    },
+    "delivery": {
+      "word": "delivery",
+      "start": 1358.2308,
+      "end": 1359.6501
+    },
+    "platform": {
+      "word": "platform",
+      "start": 1360.1501,
+      "end": 1361.8394
+    },
+    "finance": {
+      "word": "finance",
+      "start": 1362.3394,
+      "end": 1363.8488
+    },
+    "sink": {
+      "word": "sink",
+      "start": 1364.3488,
+      "end": 1365.7582
+    },
+    "bake": {
+      "word": "bake",
+      "start": 1366.2582,
+      "end": 1367.5276
+    },
+    "attractive": {
+      "word": "attractive",
+      "start": 1368.0276,
+      "end": 1369.6069
+    },
+    "diverse": {
+      "word": "diverse",
+      "start": 1370.1069,
+      "end": 1371.5013
+    },
+    "relevant": {
+      "word": "relevant",
+      "start": 1372.0013,
+      "end": 1373.4555
+    },
+    "ideal": {
+      "word": "ideal",
+      "start": 1373.9555,
+      "end": 1375.3748
+    },
+    "regularly": {
+      "word": "regularly",
+      "start": 1375.8748,
+      "end": 1377.459
+    },
+    "conservation": {
+      "word": "conservation",
+      "start": 1377.959,
+      "end": 1379.7983
+    },
+    "evolve": {
+      "word": "evolve",
+      "start": 1380.2983,
+      "end": 1381.6827
+    },
+    "unknown": {
+      "word": "unknown",
+      "start": 1382.1827,
+      "end": 1383.6321
+    },
+    "justify": {
+      "word": "justify",
+      "start": 1384.1321,
+      "end": 1385.6063
+    },
+    "protest": {
+      "word": "protest",
+      "start": 1386.1063,
+      "end": 1387.7657
+    },
+    "treaty": {
+      "word": "treaty",
+      "start": 1388.2657,
+      "end": 1389.57
+    },
+    "crash": {
+      "word": "crash",
+      "start": 1390.07,
+      "end": 1391.4944
+    },
+    "craft": {
+      "word": "craft",
+      "start": 1391.9944,
+      "end": 1393.5188
+    },
+    "insight": {
+      "word": "insight",
+      "start": 1394.0188,
+      "end": 1395.4782
+    },
+    "possess": {
+      "word": "possess",
+      "start": 1395.9782,
+      "end": 1397.4326
+    },
+    "extensive": {
+      "word": "extensive",
+      "start": 1397.9326,
+      "end": 1399.5769
+    },
+    "episode": {
+      "word": "episode",
+      "start": 1400.0769,
+      "end": 1401.5362
+    },
+    "fault": {
+      "word": "fault",
+      "start": 1402.0362,
+      "end": 1403.4206
+    },
+    "tire": {
+      "word": "tire",
+      "start": 1403.9206,
+      "end": 1405.225
+    },
+    "loose": {
+      "word": "loose",
+      "start": 1405.725,
+      "end": 1407.0644
+    },
+    "considerable": {
+      "word": "considerable",
+      "start": 1407.5644,
+      "end": 1409.1986
+    },
+    "prior": {
+      "word": "prior",
+      "start": 1409.6986,
+      "end": 1411.043
+    },
+    "intellectual": {
+      "word": "intellectual",
+      "start": 1411.543,
+      "end": 1413.2273
+    },
+    "characterize": {
+      "word": "characterize",
+      "start": 1413.7273,
+      "end": 1415.3916
+    },
+    "adventure": {
+      "word": "adventure",
+      "start": 1415.8916,
+      "end": 1417.4359
+    },
+    "stair": {
+      "word": "stair",
+      "start": 1417.9359,
+      "end": 1419.3553
+    },
+    "external": {
+      "word": "external",
+      "start": 1419.8553,
+      "end": 1421.3196
+    },
+    "proof": {
+      "word": "proof",
+      "start": 1421.8196,
+      "end": 1423.244
+    },
+    "confident": {
+      "word": "confident",
+      "start": 1423.744,
+      "end": 1425.3033
+    },
+    "headquarters": {
+      "word": "headquarters",
+      "start": 1425.8033,
+      "end": 1427.4726
+    },
+    "shelter": {
+      "word": "shelter",
+      "start": 1427.9726,
+      "end": 1429.4069
+    }
+  }
+}

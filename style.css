@@ -3,3 +3,5 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 
 .quiz-mode-note{text-align:center;font-size:10px;color:#9a97ac;margin:12px 0 0}.quiz-correct-meaning{font-size:12px;margin-top:6px;color:inherit;line-height:1.8}.choice:disabled{opacity:1;cursor:default}
+
+.word-replay{font:inherit;letter-spacing:inherit;color:inherit;background:none;border:0;padding:0;text-align:inherit;cursor:pointer}.word-replay:focus-visible{outline:3px solid #a99aed;outline-offset:6px;border-radius:6px}

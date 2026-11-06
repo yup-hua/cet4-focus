@@ -49,6 +49,7 @@
       quizVersion: 1,
       rounds: [3,5].includes(Number(v.rounds)) ? Number(v.rounds) : 3,
       audioRate: Number.isFinite(Number(v.audioRate)) && Number(v.audioRate) >= 0.5 && Number(v.audioRate) <= 1.5 ? Number(v.audioRate) : 0.85,
+      autoPronounce: v.autoPronounce !== false,
       mode: MODES.includes(v.mode) ? v.mode : 'quiz'
     };
   }

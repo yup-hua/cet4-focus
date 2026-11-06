@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "notice": "历年真题由新东方在线整理发布；试卷、解析及原音保留原站来源。本站不对外站题目判分。",
+  "items": [
+    {
+      "id": "exam-2025-06-1",
+      "year": 2025,
+      "month": 6,
+      "set": 1,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20250903/926935.html",
+      "audioUrl": "https://guonei-cos.koocdn.com/common/2f51c48d3bcd4d05b1e21ac3f6d82c9e.mp3",
+      "paperUrl": "https://guonei-cos.koocdn.com/common/d02cbf90d6b74220882349f7d4a29a92.pdf",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "2025年6月英语四级真题及答案完整版（第一套）"
+    },
+    {
+      "id": "exam-2024-12-1",
+      "year": 2024,
+      "month": 12,
+      "set": 1,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20250415/919558.html",
+      "audioUrl": "https://guonei-cos.koocdn.com/common/24ba117c9cf14a788ffc90bcad9bbfa7.MP3",
+      "paperUrl": "https://guonei-cos.koocdn.com/common/4d422a07eca14f518d6f56b7d2704e5d.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "2024年12月英语四级真题及答案完整版（第一套）"
+    },
+    {
+      "id": "exam-2024-06-1",
+      "year": 2024,
+      "month": 6,
+      "set": 1,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20241204/913511.html",
+      "audioUrl": "https://guonei-cos.koocdn.com/common/eef6ebd5dfdc447cbb932474333a8ad1.mp3",
+      "paperUrl": "https://guonei-cos.koocdn.com/common/347cb5b3dd6f408bafd4066456b93406.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "2024年6月英语四级真题及答案完整版（第一套）"
+    },
+    {
+      "id": "exam-2024-06-2",
+      "year": 2024,
+      "month": 6,
+      "set": 2,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20241204/913512.html",
+      "audioUrl": "https://guonei-cos.koocdn.com/common/b25d9c1fcefb41a1a62d78b5bfe26343.mp3",
+      "paperUrl": "https://guonei-cos.koocdn.com/common/47dfe18345e6415b9792774f2a4fcb53.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "2024年6月英语四级真题及答案完整版（第二套）"
+    },
+    {
+      "id": "exam-2024-06-3",
+      "year": 2024,
+      "month": 6,
+      "set": 3,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20241204/913513.html",
+      "audioUrl": "https://guonei-cos.koocdn.com/common/b25d9c1fcefb41a1a62d78b5bfe26343.mp3",
+      "paperUrl": "https://guonei-cos.koocdn.com/common/bdb5e822a2d44a2c9330de4b72838927.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "2024年6月英语四级真题及答案完整版（第三套）",
+      "audioSharedWith": "exam-2024-06-2"
+    },
+    {
+      "id": "exam-2023-12-1",
+      "year": 2023,
+      "month": 12,
+      "set": 1,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20240228/903141.html",
+      "audioUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709111356190.mp3",
+      "paperUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709111456314.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "【可下载】2023年12月英语四级真题及答案（第一套）"
+    },
+    {
+      "id": "exam-2023-12-2",
+      "year": 2023,
+      "month": 12,
+      "set": 2,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20240228/903142.html",
+      "audioUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709112201829.mp3",
+      "paperUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709112276459.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "【可下载】2023年12月英语四级真题及答案（第二套）"
+    },
+    {
+      "id": "exam-2023-12-3",
+      "year": 2023,
+      "month": 12,
+      "set": 3,
+      "source": "新东方在线",
+      "sourceUrl": "https://cet4.koolearn.com/20240228/903143.html",
+      "audioUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709112201829.mp3",
+      "paperUrl": "https://daxueui-cos.koocdn.com/images/fe_upload/2024/2/2024-2-28-1709112606230.jpg",
+      "checkedAt": "2026-11-06",
+      "sourceTitle": "【可下载】2023年12月英语四级真题及答案（第三套）",
+      "audioSharedWith": "exam-2023-12-2"
+    }
+  ],
+  "checkedAt": "2026-11-06",
+  "uniqueAudioCount": 6
+}

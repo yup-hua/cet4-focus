@@ -2142,7 +2142,8 @@
           "speaker": "Man",
           "text": "That works for me. I'll make a reservation and send you the room number tonight."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-26",
@@ -2214,7 +2215,8 @@
           "speaker": "Woman",
           "text": "Then this must be yours. Please write your name here before you collect it."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-27",
@@ -2286,7 +2288,8 @@
           "speaker": "Man",
           "text": "Yes, every fifteen minutes. Let's take that instead and leave a little earlier to avoid the rush."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-28",
@@ -2358,7 +2361,8 @@
           "speaker": "Woman",
           "text": "Then back them up before you bring it in. You can borrow a computer from the library meanwhile."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-29",
@@ -2367,7 +2371,7 @@
       "topic": "餐饮消费",
       "difficulty": "B1",
       "format": "dialogue",
-      "durationHint": "约 25 秒",
+      "durationHint": "约 27 秒",
       "body": "Woman: I ordered a large coffee, but I need to change it to tea. Is it too late?\nMan: Not at all. We haven't prepared your drink yet. Would you like milk in the tea?\nWoman: Just a slice of lemon, please.\nMan: Certainly. There's no extra charge. We'll call your number when the order is ready.",
       "vocabulary": [
         {
@@ -2430,7 +2434,8 @@
           "speaker": "Man",
           "text": "Certainly. There's no extra charge. We'll call your number when the order is ready."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-30",
@@ -2439,7 +2444,7 @@
       "topic": "校园活动",
       "difficulty": "B1",
       "format": "dialogue",
-      "durationHint": "约 23 秒",
+      "durationHint": "约 24 秒",
       "body": "Man: Does this poster have enough information for our volunteer event?\nWoman: The location and starting time are clear, but people won't know how to register.\nMan: I could put my phone number at the bottom.\nWoman: An online form would be easier. Add its code, and we can collect everyone's preferred task before Saturday.",
       "vocabulary": [
         {
@@ -2502,7 +2507,8 @@
           "speaker": "Woman",
           "text": "An online form would be easier. Add its code, and we can collect everyone's preferred task before Saturday."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-31",
@@ -2574,7 +2580,8 @@
           "speaker": "Man",
           "text": "Then you must return it today. Ask the librarian whether a digital copy is available for your remaining research."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-32",
@@ -2583,7 +2590,7 @@
       "topic": "文化休闲",
       "difficulty": "B1",
       "format": "dialogue",
-      "durationHint": "约 24 秒",
+      "durationHint": "约 25 秒",
       "body": "Man: The weather forecast says heavy rain this evening. Will the outdoor concert be canceled?\nWoman: No, the organizers have moved it into the sports hall.\nMan: Do we need different tickets?\nWoman: Our original tickets are still valid. But the doors now open at seven instead of six thirty, so we don't need to rush.",
       "vocabulary": [
         {
@@ -2646,7 +2653,8 @@
           "speaker": "Woman",
           "text": "Our original tickets are still valid. But the doors now open at seven instead of six thirty, so we don't need to rush."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-33",
@@ -2655,7 +2663,7 @@
       "topic": "运动健康",
       "difficulty": "B1",
       "format": "dialogue",
-      "durationHint": "约 26 秒",
+      "durationHint": "约 27 秒",
       "body": "Woman: I'm thinking of joining your running group, but I can't run very fast.\nMan: Speed isn't important. We have a beginner group that alternates walking and running.\nWoman: That sounds manageable. Do I need to pay for the first session?\nMan: No, you can try it free on Sunday. Bring water, and arrive ten minutes early for the warm-up.",
       "vocabulary": [
         {
@@ -2718,7 +2726,8 @@
           "speaker": "Man",
           "text": "No, you can try it free on Sunday. Bring water, and arrive ten minutes early for the warm-up."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-34",
@@ -2790,7 +2799,8 @@
           "speaker": "Woman",
           "text": "Photography isn't permitted there because some works belong to private collectors. There's a free booklet at the entrance if you'd like a record of the exhibition."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-35",
@@ -2862,7 +2872,8 @@
           "speaker": "Man",
           "text": "Then look at the photo in the message. It might show which entrance the driver used. Our building has two similar doorways."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-36",
@@ -2871,7 +2882,7 @@
       "topic": "消费与环保",
       "difficulty": "B1",
       "format": "dialogue",
-      "durationHint": "约 24 秒",
+      "durationHint": "约 25 秒",
       "body": "Man: Is the desk in your advertisement still for sale?\nWoman: Yes. There are a few marks on top, but all the drawers work properly.\nMan: Could you deliver it? I don't have a car.\nWoman: I'm afraid not, but the legs can be removed. It should fit in a taxi if you bring someone to help carry it.",
       "vocabulary": [
         {
@@ -2934,7 +2945,8 @@
           "speaker": "Woman",
           "text": "I'm afraid not, but the legs can be removed. It should fit in a taxi if you bring someone to help carry it."
         }
-      ]
+      ],
+      "audioVoices": "男女双声"
     },
     {
       "id": "listen-37",
